@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { href } from '../lib/url';
+---
+<BaseLayout title="Not found">
+  <section class="hero wrap">
+    <h1>Not found</h1>
+    <p class="lede">That page doesn't exist.</p>
+    <p class="chips"><a class="chip is-on" href={href('/mods/')}>Browse the Mods</a></p>
+  </section>
+</BaseLayout>

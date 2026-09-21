@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Awards from '../components/Awards.astro';
+import { href } from '../lib/url';
+import platform from '../../data/platform-awards.json';
+
+const mods = await getCollection('mods');
+const phones = await getCollection('phones');
+const winners = [...mods, ...phones]
+  .filter((e) => e.data.awards.length > 0)
+  .map((e) => ({
+    name: e.data.name,
+    to: href(`/${'family' in e.data ? 'phones' : 'mods'}/${e.data.slug}/`),
+    awards: e.data.awards,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const total = platform.length + winners.reduce((n, w) => n + w.awards.length, 0);
+---
+<BaseLayout title="Awards" description="What the Moto Z and Moto Mods won.">
+  <section class="hero wrap">
+    <p class="eyebrow">Recognition</p>
+    <h1>Awards</h1>
+    <p class="lede">
+      {`The platform and its Mods took ${total} design and innovation awards between 2017 and 2019, including Red Dot's top Best of the Best distinction for the Moto Z family itself.`}
+    </p>
+  </section>
+
+  <Awards awards={platform.map((a) => ({ ...a, award: `${a.award} — ${a.name}` }))}
+          heading="The platform" />
+
+  <section class="wrap section">
+    <h2>The products</h2>
+    {winners.map((w) => (
+      <div class="award-group">
+        <h3><a href={w.to}>{w.name}</a></h3>
+        <ul class="awards">
+          {w.awards.map((a) => (
+            <li>
+              <p class="award-name">
+                <a href={a.url}>{a.award}</a>
+                {a.year && <span class="award-year">{a.year}</span>}
+              </p>
+              {a.tier && <p class="award-tier">{a.tier}</p>}
+              {a.jury && <blockquote class="award-jury">{a.jury}</blockquote>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+</BaseLayout>

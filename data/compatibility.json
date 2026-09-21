@@ -1,0 +1,777 @@
+[
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "hasselblad-true-zoom",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "incipio-offgrid-power-pack",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "incipio-vehicle-dock",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-speaker",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "jbl-soundboost-2-speaker",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "mophie-juice-pack",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-360-camera",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-5g",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-5g",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-5g",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-folio",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-gamepad-console",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-insta-share-projector",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-power-pack",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-smart-speaker-with-amazon-alexa",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-stereo-speaker",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "per-model",
+    "mod": "moto-style-shell-with-wireless-charging",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-turbopower-pack-battery",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "polaroid-insta-share-printer",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "tumi-power-pack",
+    "phone": "moto-z4"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z2-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z2-force"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z3"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z3-play"
+  },
+  {
+    "fit": "universal",
+    "mod": "moto-mods-development-kit",
+    "phone": "moto-z4"
+  }
+]

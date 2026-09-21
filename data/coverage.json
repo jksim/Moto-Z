@@ -1,0 +1,1658 @@
+{
+  "hasselblad-true-zoom": {
+    "captures_found": 62,
+    "chosen": {
+      "bytes": 160546,
+      "image_prefixes": [
+        "library/storage/moto-mods",
+        "library/storage/row-final-hasselblad-d",
+        "library/us/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 59,
+      "is_drupal": true,
+      "spec_labels": [
+        "Compatible phones",
+        "Dimensions",
+        "Weight",
+        "Sensor resolution",
+        "Video resolution",
+        "Mics",
+        "Sensor type",
+        "Sensor size",
+        "Pixel size",
+        "Aperture",
+        "Zoom",
+        "Focal length",
+        "Macro",
+        "Flash",
+        "Flash modes",
+        "Image stabilization",
+        "ISO equivalent",
+        "Capture modes",
+        "Focus modes",
+        "Pro mode",
+        "White balance",
+        "Color effects",
+        "Red eye reduction",
+        "File format",
+        "Storage",
+        "Battery life",
+        "Connectivity",
+        "GPS",
+        "Carrying case",
+        "Image stabilization",
+        "ISO equivalent",
+        "Capture modes",
+        "Focus modes",
+        "Pro mode",
+        "White balance",
+        "Color effects",
+        "Red eye reduction",
+        "File format",
+        "Storage",
+        "Battery life"
+      ],
+      "spec_pairs": 43,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Mobile photography x10",
+      "timestamp": "20161014131717",
+      "title": "Hasselblad True Zoom | Moto Mods™ Motorola"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "hasselblad-true-zoom",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 160546,
+        "is_drupal": true,
+        "spec_pairs": 43,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20161014131717"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/hasselblad-true-zoom"
+  },
+  "incipio-offgrid-power-pack": {
+    "captures_found": 125,
+    "chosen": {
+      "bytes": 158366,
+      "image_prefixes": [
+        "library/us/homepage",
+        "library/us/products"
+      ],
+      "image_refs": 57,
+      "is_drupal": true,
+      "spec_labels": [
+        "Compatible phones",
+        "Dimensions",
+        "Weight",
+        "Battery size",
+        "Battery life",
+        "Charge rate to phone",
+        "Charge rate from phone via wall charger",
+        "Wireless charging (exclusive to wireless charging version)",
+        "Wireless charging rate (exclusive to wireless charging version)",
+        "Charge rate to phone",
+        "Charge rate from phone via wall charger",
+        "Wireless charging (exclusive to wireless charging version)",
+        "Wireless charging rate (exclusive to wireless charging version)"
+      ],
+      "spec_pairs": 13,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Recharge without slowing down",
+      "timestamp": "20160916024912",
+      "title": "Incipio offGRID™ Power Pack - Moto Mods™ | Motorola"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "incipio-offgrid-power-pack",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 158366,
+        "is_drupal": true,
+        "spec_pairs": 13,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20160916024912"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/incipio-offgrid-power-pack"
+  },
+  "incipio-vehicle-dock": {
+    "captures_found": 33,
+    "chosen": {
+      "bytes": 140308,
+      "image_prefixes": [
+        "library/storage/logos",
+        "library/storage/reviews",
+        "library/us/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 45,
+      "is_drupal": true,
+      "spec_labels": [
+        "Compatible phones",
+        "Dimensions",
+        "Weight",
+        "Charge rate",
+        "Connectors",
+        "Software",
+        "Features",
+        "Included in box",
+        "Connectors",
+        "Software",
+        "Features",
+        "Included in box"
+      ],
+      "spec_pairs": 12,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Meet your co-pilot",
+      "timestamp": "20170128230238",
+      "title": "Incipio Vehicle Dock - Moto Mods | Motorola, a Lenovo company | Motorola"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "incipio-vehicle-dock",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 140308,
+        "is_drupal": true,
+        "spec_pairs": 12,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20170128230238"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/incipio-vehicle-dock"
+  },
+  "jbl-soundboost-2-speaker": {
+    "captures_found": 35,
+    "chosen": {
+      "bytes": 143183,
+      "image_prefixes": [
+        "library/us/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 39,
+      "is_drupal": true,
+      "spec_labels": [
+        "dimensions",
+        "weight",
+        "number of speakers",
+        "speaker power",
+        "frequency response range",
+        "loudness",
+        "speakerphone support",
+        "integrated battery",
+        "battery size",
+        "battery life",
+        "external charging",
+        "charge rate",
+        "water protection",
+        "compatibility",
+        "integrated battery",
+        "battery size",
+        "battery life",
+        "external charging",
+        "charge rate",
+        "water protection",
+        "compatibility"
+      ],
+      "spec_pairs": 21,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Instantly add JBL stereo sound to your smartphone for an immersive audio-visual experience—anywhere. Comes with built-in kickstand, 10-hour battery, splash-proof coating, and speakerphone.",
+      "timestamp": "20180403035145",
+      "title": "JBL SoundBoost 2 Speaker - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "jbl-soundboost-2-speaker",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 143183,
+        "is_drupal": true,
+        "spec_pairs": 21,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180403035145"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/jbl-soundboost-2-speaker"
+  },
+  "jbl-soundboost-speaker": {
+    "captures_found": 161,
+    "chosen": {
+      "bytes": 146787,
+      "image_prefixes": [
+        "library/storage/logos",
+        "library/storage/reviews",
+        "library/us/homepage",
+        "library/us/moto-mods"
+      ],
+      "image_refs": 41,
+      "is_drupal": true,
+      "spec_labels": [
+        "compatible phones",
+        "dimensions",
+        "weight",
+        "number of speakers",
+        "speaker power",
+        "frequency response range",
+        "loudness",
+        "speakerphone support",
+        "integrated battery",
+        "battery size",
+        "battery life",
+        "external charging",
+        "charge rate",
+        "speakerphone support",
+        "integrated battery",
+        "battery size",
+        "battery life",
+        "external charging",
+        "charge rate"
+      ],
+      "spec_pairs": 19,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "give your music a boost, anywhere",
+      "timestamp": "20180614191657",
+      "title": "JBL SoundBoost Speaker - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "jbl-soundboost-speaker",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 146787,
+        "is_drupal": true,
+        "spec_pairs": 19,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614191657"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/jbl-soundboost-speaker"
+  },
+  "mophie-juice-pack": {
+    "captures_found": 26,
+    "chosen": {
+      "bytes": 137580,
+      "image_prefixes": [
+        "library/storage/logos",
+        "library/storage/reviews",
+        "library/us/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 42,
+      "is_drupal": true,
+      "spec_labels": [
+        "Compatible phones",
+        "Dimensions",
+        "Weight",
+        "Battery size",
+        "Battery life",
+        "Charge rate with direct USB-C connection via wall charger",
+        "Charge rate to phone",
+        "Charge rate from phone via wall charger",
+        "External charging connector",
+        "Charge rate with direct USB-C connection via wall charger",
+        "Charge rate to phone",
+        "Charge rate from phone via wall charger",
+        "External charging connector"
+      ],
+      "spec_pairs": 13,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Power when you need it",
+      "timestamp": "20170128230250",
+      "title": "mophie juice pack | Moto Mods — Motorola | Motorola"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "mophie-juice-pack",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 137580,
+        "is_drupal": true,
+        "spec_pairs": 13,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20170128230250"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/mophie-juice-pack"
+  },
+  "moto-360-camera": {
+    "captures_found": 51,
+    "chosen": {
+      "bytes": 172421,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 49,
+      "is_drupal": true,
+      "spec_labels": [
+        "FOV",
+        "Sensor resolution",
+        "Video resolution",
+        "Sensor size",
+        "Pixel size",
+        "Aperture",
+        "Shutter speed",
+        "ISO equivalent (pro mode)",
+        "White balance (pro mode)",
+        "Audio recording",
+        "Capture modes",
+        "File format",
+        "Advanced editing on phone",
+        "White balance (pro mode)",
+        "Audio recording",
+        "Capture modes",
+        "File format",
+        "Advanced editing on phone"
+      ],
+      "spec_pairs": 18,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Capture, edit, and live stream 360° photos and videos with immersive 3D audio. Share moments in 4K, in real time, in every direction.",
+      "timestamp": "20180819104630",
+      "title": "moto 360 camera - buy now | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-360-camera",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 172421,
+        "is_drupal": true,
+        "spec_pairs": 18,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180819104630"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-360-camera"
+  },
+  "moto-5g": {
+    "captures_found": 52,
+    "chosen": {
+      "bytes": 137281,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 32,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Be the first to upgrade to Verizon’s 5G network when it becomes available, just by snapping on the 5G moto mod™.",
+      "timestamp": "20180818101535",
+      "title": "moto 5G - moto mod - coming soon | motorola US"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-5g",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 137281,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180818101535"
+      },
+      {
+        "bytes": 139392,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20181004100219"
+      },
+      {
+        "bytes": 139141,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20181113064415"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-5g"
+  },
+  "moto-folio": {
+    "captures_found": 24,
+    "chosen": {
+      "bytes": 141478,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 27,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": "specs-full",
+      "tagline": "moto folio protects your phone from everyday bumps and dings, while adding a touch of style and compact storage for a credit card or ID. Choose from six expressive colors. Buy now.",
+      "timestamp": "20180703134602",
+      "title": "moto folio - buy now | motorola US"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-folio",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 141478,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20180703134602"
+      },
+      {
+        "bytes": 136419,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20181004103251"
+      },
+      {
+        "bytes": 127264,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20180403132437"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-folio"
+  },
+  "moto-gamepad-console": {
+    "captures_found": 40,
+    "chosen": {
+      "bytes": 158021,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 40,
+      "is_drupal": true,
+      "spec_labels": [
+        "dimensions",
+        "weight",
+        "controls",
+        "ports",
+        "battery size",
+        "battery life",
+        "LED lights",
+        "charge rate",
+        "battery size",
+        "battery life",
+        "LED lights",
+        "charge rate"
+      ],
+      "spec_pairs": 12,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Enjoy a true gaming experience in a handheld console equipped with dual control sticks, a D-pad, and four action buttons. Plus, with a built-in 1035 mAh battery, you’re free to play without draining your phone’s battery.",
+      "timestamp": "20180613235316",
+      "title": "moto gamepad - moto mods gaming console | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-gamepad-console",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 158021,
+        "is_drupal": true,
+        "spec_pairs": 12,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180613235316"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-gamepad-console"
+  },
+  "moto-insta-share-projector": {
+    "captures_found": 167,
+    "chosen": {
+      "bytes": 149409,
+      "image_prefixes": [
+        "library/storage/logos",
+        "library/storage/reviews",
+        "library/us/homepage",
+        "library/us/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 41,
+      "is_drupal": true,
+      "spec_labels": [
+        "compatible phones",
+        "dimensions",
+        "weight",
+        "resolution",
+        "projector technology",
+        "brightness",
+        "contrast ratio",
+        "throw ratio",
+        "image size",
+        "aspect ratio",
+        "wireless",
+        "lamp life rating",
+        "keystone correction",
+        "physical button control",
+        "settings options",
+        "battery size",
+        "battery life",
+        "external charging",
+        "audio output",
+        "display input",
+        "carrying pouch",
+        "lamp life rating",
+        "keystone correction",
+        "physical button control",
+        "settings options",
+        "battery size",
+        "battery life",
+        "external charging",
+        "audio output",
+        "display input",
+        "carrying pouch"
+      ],
+      "spec_pairs": 31,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "project and share. anytime, anywhere.",
+      "timestamp": "20180614191700",
+      "title": "moto insta-share projector - moto mods | Motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-insta-share-projector",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 149409,
+        "is_drupal": true,
+        "spec_pairs": 31,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614191700"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-insta-share-projector"
+  },
+  "moto-power-pack": {
+    "captures_found": 48,
+    "chosen": {
+      "bytes": 132363,
+      "image_prefixes": [
+        "library/uk/products",
+        "library/us/products"
+      ],
+      "image_refs": 31,
+      "is_drupal": true,
+      "spec_labels": [
+        "Compatibility",
+        "Dimensions",
+        "Weight",
+        "Battery size",
+        "Battery life",
+        "Charge rate to phone",
+        "Charge rate from phone via 15W wall charger",
+        "Battery size",
+        "Battery life",
+        "Charge rate to phone",
+        "Charge rate from phone via 15W wall charger"
+      ],
+      "spec_pairs": 11,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "extra battery. not extra bulk.",
+      "timestamp": "20180614030801",
+      "title": "moto power pack - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-power-pack",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 132363,
+        "is_drupal": true,
+        "spec_pairs": 11,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614030801"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-power-pack"
+  },
+  "moto-smart-speaker-with-amazon-alexa": {
+    "captures_found": 23,
+    "chosen": {
+      "bytes": 174730,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 43,
+      "is_drupal": true,
+      "spec_labels": [
+        "Dimensions",
+        "Weight",
+        "Number of microphones",
+        "Number of speakers",
+        "Speaker power",
+        "Frequency response range",
+        "Loudness",
+        "Speakerphone support",
+        "Integrated battery",
+        "Battery size",
+        "Battery life",
+        "External charging",
+        "Charge rate",
+        "Water protection",
+        "Compatibility",
+        "Integrated battery",
+        "Battery size",
+        "Battery life",
+        "External charging",
+        "Charge rate",
+        "Water protection",
+        "Compatibility"
+      ],
+      "spec_pairs": 22,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Make anywhere feel like home with the power and volume of Amazon Alexa in a dockable, travel-friendly design with built-in battery. Ask Alexa for your to-do list, calendar, weather forecast, music controls, and more.",
+      "timestamp": "20180614132352",
+      "title": "moto smart speaker w/ Amazon Alexa - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-smart-speaker-with-amazon-alexa",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 174730,
+        "is_drupal": true,
+        "spec_pairs": 22,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614132352"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-smart-speaker-with-amazon-alexa"
+  },
+  "moto-stereo-speaker": {
+    "captures_found": 48,
+    "chosen": {
+      "bytes": 157390,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 26,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Enjoy music and videos with powerful audio and richer bass when you add moto stereo speaker to any moto z. No pairing or charging required.",
+      "timestamp": "20180703124613",
+      "title": "moto stereo speaker - buy now | motorola US"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-stereo-speaker",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 157390,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180703124613"
+      },
+      {
+        "bytes": 149201,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180727112115"
+      },
+      {
+        "bytes": 151094,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20181004101508"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-stereo-speaker"
+  },
+  "moto-style-shell": {
+    "captures_found": 144,
+    "chosen": {
+      "bytes": 154825,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 37,
+      "is_drupal": true,
+      "spec_labels": [
+        "moto style shells",
+        "moto style shells in Corning® Gorilla® Glass",
+        "moto style shells in Corning® Gorilla® Glass"
+      ],
+      "spec_pairs": 3,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "transform your phone to fit your style Choose from a variety of materials and fun designs, including our new sleek and damage-resistant Corning® Gorilla® Glass styles.",
+      "timestamp": "20180614191755",
+      "title": "moto style shells - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-style-shell",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 154825,
+        "is_drupal": true,
+        "spec_pairs": 3,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614191755"
+      },
+      {
+        "bytes": 154825,
+        "is_drupal": true,
+        "spec_pairs": 3,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614042925"
+      },
+      {
+        "bytes": 153709,
+        "is_drupal": true,
+        "spec_pairs": 3,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180607185348"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-style-shell"
+  },
+  "moto-style-shell-with-wireless-charging": {
+    "captures_found": 39,
+    "chosen": {
+      "bytes": 135004,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 24,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": "specs-full",
+      "tagline": "Get fast, 10W wireless charging with good looks to boot. Snap on a Moto Style Shell to charge your phone quickly using a wireless charging pad (not included). No cables. No clutter.",
+      "timestamp": "20180703134609",
+      "title": "moto style shell w/ wireless charging - moto mods | motorola US"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-style-shell-with-wireless-charging",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 135004,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20180703134609"
+      },
+      {
+        "bytes": 135248,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20181004113126"
+      },
+      {
+        "bytes": 125490,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": "specs-full",
+        "timestamp": "20171125123756"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-style-shell-with-wireless-charging"
+  },
+  "moto-turbopower": {
+    "captures_found": 1,
+    "chosen": {
+      "bytes": 320378,
+      "image_prefixes": [],
+      "image_refs": 0,
+      "is_drupal": false,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": null,
+      "timestamp": "20201109023753",
+      "title": null
+    },
+    "kind": "mod",
+    "notes": [
+      "capture looks like a shell"
+    ],
+    "slug": "moto-turbopower",
+    "status": "thin",
+    "tried": [
+      {
+        "bytes": 320378,
+        "is_drupal": false,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20201109023753"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-turbopower"
+  },
+  "moto-turbopower-pack-battery": {
+    "captures_found": 33,
+    "chosen": {
+      "bytes": 133728,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 24,
+      "is_drupal": true,
+      "spec_labels": [
+        "dimensions",
+        "weight",
+        "battery size",
+        "battery life",
+        "charge rate to phone",
+        "charge rate from wall USB-C charger",
+        "battery life",
+        "charge rate to phone",
+        "charge rate from wall USB-C charger"
+      ],
+      "spec_pairs": 9,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Instantly add an extra day of battery life. The slim battery pack can also recharge your phone at blazing fast TurboPower speeds on the go (up to 15W).",
+      "timestamp": "20180703134456",
+      "title": "moto turbopower pack - buy now | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "moto-turbopower-pack-battery",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 133728,
+        "is_drupal": true,
+        "spec_pairs": 9,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180703134456"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/moto-turbopower-pack-battery"
+  },
+  "moto-z": {
+    "captures_found": 113,
+    "chosen": {
+      "bytes": 170254,
+      "image_prefixes": [
+        "library/storage/moto-mods",
+        "library/us/homepage",
+        "library/us/products"
+      ],
+      "image_refs": 53,
+      "is_drupal": true,
+      "spec_labels": [
+        "carrier networks",
+        "operating system",
+        "system architecture/processor",
+        "memory (RAM)",
+        "storage (ROM)",
+        "dimensions",
+        "weight",
+        "display",
+        "battery",
+        "water protection",
+        "networks",
+        "bands (by model)",
+        "SIM card",
+        "NFC",
+        "Bluetooth® technology",
+        "Wi-Fi",
+        "rear camera",
+        "front camera",
+        "connectivity",
+        "sensors",
+        "speakers/microphones",
+        "video capture",
+        "location services",
+        "base colors",
+        "rear camera",
+        "front camera",
+        "connectivity",
+        "sensors",
+        "speakers/microphones",
+        "video capture",
+        "location services",
+        "base colors"
+      ],
+      "spec_pairs": 32,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "The world&#039;s thinnest premium smartphone is now unlocked for AT&amp;T, T-Mobile, and others.",
+      "timestamp": "20180614191519",
+      "title": "moto z - gsm unlocked modular phone | motorola US"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 170254,
+        "is_drupal": true,
+        "spec_pairs": 32,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180614191519"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z"
+  },
+  "moto-z-droid-edition": {
+    "captures_found": 169,
+    "chosen": {
+      "bytes": 190962,
+      "image_prefixes": [
+        "library/storage/moto-mods",
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 90,
+      "is_drupal": true,
+      "spec_labels": [
+        "Only on Verizon",
+        "Operating System",
+        "System Architecture/Processor",
+        "Memory (RAM)",
+        "Storage (ROM)",
+        "Dimensions",
+        "Weight",
+        "Display",
+        "Battery",
+        "Water Protection",
+        "Networks",
+        "Bands (by model)",
+        "Sensors",
+        "NFC",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "Speakers/Microphones",
+        "Video Capture",
+        "Location Services",
+        "SIM Card",
+        "Base Colors",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "Speakers/Microphones",
+        "Video Capture",
+        "Location Services",
+        "SIM Card",
+        "Base Colors"
+      ],
+      "spec_pairs": 34,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Ultra-thin design. Unlimited possibilities.",
+      "timestamp": "20170119051116",
+      "title": "Moto Z Droid Edition - Modular Android Smartphone | Motorola"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-droid-edition",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 190962,
+        "is_drupal": true,
+        "spec_pairs": 34,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20170119051116"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-droid-edition"
+  },
+  "moto-z-force-droid-edition": {
+    "captures_found": 164,
+    "chosen": {
+      "bytes": 189896,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 83,
+      "is_drupal": true,
+      "spec_labels": [
+        "Only on Verizon",
+        "Operating System",
+        "System Architecture/Processor",
+        "Memory (RAM)",
+        "Storage (ROM)",
+        "Dimensions",
+        "Weight",
+        "Display",
+        "Battery",
+        "Water Protection",
+        "Networks",
+        "Bands (by model)",
+        "SIM Card",
+        "Sensors",
+        "NFC",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "Speakers/Microphones",
+        "Video Capture",
+        "Location Services",
+        "Base Colors",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "Speakers/Microphones",
+        "Video Capture",
+        "Location Services",
+        "Base Colors"
+      ],
+      "spec_pairs": 33,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Ultimate performance. Unlimited possibilities.",
+      "timestamp": "20160927025920",
+      "title": "Moto Z Force Droid Edition - Modular Phone | Motorola"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-force-droid-edition",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 189896,
+        "is_drupal": true,
+        "spec_pairs": 33,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20160927025920"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-force-droid-edition"
+  },
+  "moto-z-force-edition-gen-2": {
+    "captures_found": 58,
+    "chosen": {
+      "bytes": 292025,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/storage/quotes-logos",
+        "library/us/products"
+      ],
+      "image_refs": 134,
+      "is_drupal": true,
+      "spec_labels": [
+        "operating system",
+        "system architecture/processor",
+        "memory (RAM)",
+        "storage (ROM)",
+        "dimensions",
+        "weight",
+        "display",
+        "battery",
+        "charging",
+        "water protection",
+        "network bands (by model)",
+        "carrier compatibility",
+        "SIM card",
+        "Bluetooth® technology",
+        "Wi-Fi",
+        "sensors",
+        "rear camera",
+        "video capture",
+        "front camera",
+        "connectivity",
+        "FM radio",
+        "speakers/microphones",
+        "video playback",
+        "NFC",
+        "location services",
+        "colors",
+        "moto mods",
+        "moto experiences",
+        "sensors",
+        "rear camera",
+        "video capture",
+        "front camera",
+        "connectivity",
+        "FM radio",
+        "speakers/microphones",
+        "video playback",
+        "NFC",
+        "location services",
+        "colors",
+        "moto mods"
+      ],
+      "spec_pairs": 41,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "The all new Moto Z Force Edition features a guaranteed shatterproof display, the unlimited possibilities of Moto Mods, dual 12 MP rear cameras, and Qualcomm’s most powerful Snapdragon processor.",
+      "timestamp": "20180703075057",
+      "title": "moto z² force edition - buy now | motorola US"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-force-edition-gen-2",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 292025,
+        "is_drupal": true,
+        "spec_pairs": 41,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180703075057"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-force-edition-gen-2"
+  },
+  "moto-z-gen-3": {
+    "captures_found": 34,
+    "chosen": {
+      "bytes": 243658,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 77,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Get the new moto z³ and be the first to upgrade to Verizon’s 5G network just by snapping on a moto mod™. Plus, get an all-day battery, dual depth-sensing 12 MP cameras, and more.",
+      "timestamp": "20180901165551",
+      "title": "moto z³ - only on Verizon - buy now | motorola US"
+    },
+    "kind": "phone",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-z-gen-3",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 243658,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180901165551"
+      },
+      {
+        "bytes": 245091,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20181004205530"
+      },
+      {
+        "bytes": 248301,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20181109125617"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-gen-3"
+  },
+  "moto-z-gen-4-unlocked": {
+    "captures_found": 26,
+    "chosen": {
+      "bytes": 308660,
+      "image_prefixes": [
+        "library/ca-en/products",
+        "library/us/products"
+      ],
+      "image_refs": 101,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Check out a new moto z4. Take professional quality photos with the 48MP camera sensor. Pick up a phone you’ll love without dropping a grand. You also get a free moto 360 camera mod, a ($199.99 value)",
+      "timestamp": "20190902072024",
+      "title": "moto z⁴ - Android smartphone | motorola US"
+    },
+    "kind": "phone",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-z-gen-4-unlocked",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 308660,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190902072024"
+      },
+      {
+        "bytes": 307258,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190823223701"
+      },
+      {
+        "bytes": 307828,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190819035120"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-gen-4-unlocked"
+  },
+  "moto-z-gen-4-verizon": {
+    "captures_found": 9,
+    "chosen": {
+      "bytes": 297482,
+      "image_prefixes": [
+        "library/us/products"
+      ],
+      "image_refs": 91,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Check out a new moto z⁴. Get lightning-fast 5G speeds with a moto mod. Pick up a phone you’ll love without dropping a grand.",
+      "timestamp": "20190820203935",
+      "title": "moto z⁴ - Android smartphone | motorola US"
+    },
+    "kind": "phone",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-z-gen-4-verizon",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 297482,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190820203935"
+      },
+      {
+        "bytes": 297211,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190819070140"
+      },
+      {
+        "bytes": 296308,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190703093621"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-gen-4-verizon"
+  },
+  "moto-z-play": {
+    "captures_found": 63,
+    "chosen": {
+      "bytes": 171210,
+      "image_prefixes": [
+        "library/storage/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 72,
+      "is_drupal": true,
+      "spec_labels": [
+        "Carrier Networks",
+        "Operating System",
+        "System Architecture/Processor",
+        "Memory (RAM)",
+        "Storage (ROM)",
+        "Dimensions",
+        "Weight",
+        "Display",
+        "Battery",
+        "Water Protection",
+        "Network Bands - US GSM Unlocked:",
+        "SIM Card",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "NFC",
+        "Location Services",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Speakers/Microphones",
+        "Video Playback",
+        "Sensors",
+        "Colors",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Speakers/Microphones",
+        "Video Playback",
+        "Sensors",
+        "Colors"
+      ],
+      "spec_pairs": 30,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Ultimate battery. Unlimited possibilities. Unlocked for AT&amp;T, T-Mobile, and others.",
+      "timestamp": "20170128225415",
+      "title": "Moto Z Play — GSM Unlocked — Modular Android Smartphone | Motorola"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-play",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 171210,
+        "is_drupal": true,
+        "spec_pairs": 30,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20170128225415"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-play"
+  },
+  "moto-z-play-droid": {
+    "captures_found": 35,
+    "chosen": {
+      "bytes": 171305,
+      "image_prefixes": [
+        "library/storage/moto-mods",
+        "library/us/products"
+      ],
+      "image_refs": 68,
+      "is_drupal": true,
+      "spec_labels": [
+        "Only on Verizon",
+        "Operating System",
+        "System Architecture/Processor",
+        "Memory (RAM)",
+        "Storage (ROM)",
+        "Dimensions",
+        "Weight",
+        "Display",
+        "Battery",
+        "Water Protection",
+        "Network Bands (by model)",
+        "SIM Card",
+        "Bluetooth® Technology",
+        "Wi-Fi",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Location Services",
+        "NFC",
+        "Speakers/Microphones",
+        "Video Playback",
+        "Sensors",
+        "Colors",
+        "Rear Camera",
+        "Front Camera",
+        "Connectivity",
+        "Location Services",
+        "NFC",
+        "Speakers/Microphones",
+        "Video Playback",
+        "Sensors",
+        "Colors"
+      ],
+      "spec_pairs": 32,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Ultimate battery. Unlimited possibilities.",
+      "timestamp": "20161020012840",
+      "title": "Moto Z Play Droid | Motorola"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-play-droid",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 171305,
+        "is_drupal": true,
+        "spec_pairs": 32,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20161020012840"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-play-droid"
+  },
+  "moto-z-play-gen-2": {
+    "captures_found": 47,
+    "chosen": {
+      "bytes": 192284,
+      "image_prefixes": [
+        "library/storage/quotes-logos",
+        "library/us/products"
+      ],
+      "image_refs": 52,
+      "is_drupal": true,
+      "spec_labels": [
+        "carrier versions",
+        "operating system",
+        "system architecture/processor",
+        "memory (RAM)",
+        "storage (ROM)",
+        "dimensions",
+        "weight",
+        "display",
+        "battery",
+        "water protection",
+        "network bands",
+        "SIM card",
+        "Bluetooth® technology",
+        "sensors",
+        "rear camera",
+        "front camera",
+        "connectivity",
+        "FM radio",
+        "speakers/microphones",
+        "video playback",
+        "NFC",
+        "location services",
+        "Wi-Fi",
+        "colors",
+        "moto mods",
+        "moto experiences",
+        "rear camera",
+        "front camera",
+        "connectivity",
+        "FM radio",
+        "speakers/microphones",
+        "video playback",
+        "NFC",
+        "location services",
+        "Wi-Fi",
+        "colors",
+        "moto mods",
+        "moto experiences"
+      ],
+      "spec_pairs": 38,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "All-day battery, 15W TurboPower charging, and advanced camera with dual autofocus pixels, in a premium metal unibody design with a 5.5” Full HD Super AMOLED display.",
+      "timestamp": "20180703004443",
+      "title": "moto z² play - buy now | motorola US"
+    },
+    "kind": "phone",
+    "notes": [],
+    "slug": "moto-z-play-gen-2",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 192284,
+        "is_drupal": true,
+        "spec_pairs": 38,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180703004443"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-play-gen-2"
+  },
+  "moto-z-play-gen-3": {
+    "captures_found": 78,
+    "chosen": {
+      "bytes": 256114,
+      "image_prefixes": [
+        "library/uk/products"
+      ],
+      "image_refs": 76,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "Up to 40 combined hours of battery life when you snap on a moto mod. Plus, an edge-to-edge 6&quot; Super AMOLED display and dual depth-sensing cameras.",
+      "timestamp": "20180622134433",
+      "title": "moto z³ play - buy now | motorola US"
+    },
+    "kind": "phone",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "moto-z-play-gen-3",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 256114,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180622134433"
+      },
+      {
+        "bytes": 256044,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180703073903"
+      },
+      {
+        "bytes": 255997,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20180701220807"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-z-play-gen-3"
+  },
+  "polaroid-insta-share-printer": {
+    "captures_found": 60,
+    "chosen": {
+      "bytes": 184458,
+      "image_prefixes": [
+        "library/storage/products",
+        "library/us/products"
+      ],
+      "image_refs": 47,
+      "is_drupal": true,
+      "spec_labels": [
+        "Dimensions",
+        "Weight",
+        "Integrated battery",
+        "Battery size",
+        "Battery life",
+        "External charging",
+        "Charge rate",
+        "Paper storage",
+        "Paper compatibility",
+        "Compatibility",
+        "Included in box",
+        "External charging",
+        "Charge rate",
+        "Paper storage",
+        "Paper compatibility",
+        "Compatibility",
+        "Included in box"
+      ],
+      "spec_pairs": 17,
+      "spec_variant": "lft-rgt-h5",
+      "tagline": "Capture the moment, in the moment, with Polaroid Insta-Share Printer. Shoot new pics, or select your fave shots from Facebook, Instagram, and Google Photos. Add fun filters, then get 2x3&quot; prints with adhesive, peel-off backs—right from your phone.",
+      "timestamp": "20180703124754",
+      "title": "Polaroid Insta-Share Printer - buy now | motorola US"
+    },
+    "kind": "mod",
+    "notes": [],
+    "slug": "polaroid-insta-share-printer",
+    "status": "specs",
+    "tried": [
+      {
+        "bytes": 184458,
+        "is_drupal": true,
+        "spec_pairs": 17,
+        "spec_variant": "lft-rgt-h5",
+        "timestamp": "20180703124754"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/polaroid-insta-share-printer"
+  },
+  "tumi-power-pack": {
+    "captures_found": 3,
+    "chosen": {
+      "bytes": 88277,
+      "image_prefixes": [],
+      "image_refs": 36,
+      "is_drupal": true,
+      "spec_labels": [],
+      "spec_pairs": 0,
+      "spec_variant": null,
+      "tagline": "",
+      "timestamp": "20201111174400",
+      "title": "Tumi Power Pack | Motorola"
+    },
+    "kind": "mod",
+    "notes": [
+      "no spec table in any capture tried"
+    ],
+    "slug": "tumi-power-pack",
+    "status": "copy-only",
+    "tried": [
+      {
+        "bytes": 88277,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20201111174400"
+      },
+      {
+        "bytes": 88277,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190403011803"
+      },
+      {
+        "bytes": 82139,
+        "is_drupal": true,
+        "spec_pairs": 0,
+        "spec_variant": null,
+        "timestamp": "20190325184754"
+      }
+    ],
+    "url": "https://www.motorola.com/us/products/moto-mods/tumi-power-pack"
+  }
+}

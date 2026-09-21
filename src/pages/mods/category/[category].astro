@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ModGrid from '../../../components/ModGrid.astro';
+import FilterBar from '../../../components/FilterBar.astro';
+import { CATEGORIES, categoryLabel } from '../../../lib/catalogue';
+
+export async function getStaticPaths() {
+  const mods = await getCollection('mods');
+  return CATEGORIES.map((c) => ({
+    params: { category: c.slug },
+    props: {
+      mods: mods
+        .filter((m) => m.data.category === c.slug || m.data.categorySecondary.includes(c.slug))
+        .sort((a, b) => a.data.year - b.data.year),
+      label: c.label,
+    },
+  }));
+}
+
+const { mods, label } = Astro.props;
+const phones = (await getCollection('phones'))
+  .sort((a, b) => a.data.year - b.data.year)
+  .map((p) => ({ slug: p.data.slug, name: p.data.name }));
+---
+<BaseLayout title={`${label} Moto Mods`} description={`Moto Mods in the ${label} category.`}>
+  <section class="hero wrap">
+    <p class="eyebrow">Moto Mods</p>
+    <h1>{label}</h1>
+    <p class="lede">{mods.length} {mods.length === 1 ? 'Mod' : 'Mods'}.</p>
+    <FilterBar phones={phones} />
+  </section>
+  <section class="wrap">
+    <ModGrid mods={mods} />
+  </section>
+</BaseLayout>

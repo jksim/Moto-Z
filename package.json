@@ -1,0 +1,16 @@
+{
+  "name": "moto-z-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check && node tools/check-links.mjs dist"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "3.7.4",
+    "astro": "7.3.3",
+    "sharp": "0.35.4"
+  }
+}

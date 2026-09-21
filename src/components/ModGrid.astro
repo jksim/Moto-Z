@@ -1,0 +1,21 @@
+---
+import ProductCard from './ProductCard.astro';
+import { href } from '../lib/url';
+import { categoryLabel } from '../lib/catalogue';
+
+interface Props {
+  mods: any[];
+}
+const { mods } = Astro.props;
+---
+<ul class="grid" data-grid>
+  {mods.map((m) => (
+    <li data-item
+        data-categories={[m.data.category, ...m.data.categorySecondary].join(' ')}
+        data-devices={m.data.compatibleDevices.map((d: any) => d.id).join(' ')}>
+      <ProductCard href={href(`/mods/${m.data.slug}/`)} name={m.data.name}
+                   eyebrow={categoryLabel(m.data.category)} note={m.data.tagline}
+                   images={m.data.images} coverKey={m.data.coverKey} />
+    </li>
+  ))}
+</ul>

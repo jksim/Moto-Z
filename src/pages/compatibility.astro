@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { href } from '../lib/url';
+
+const mods = (await getCollection('mods')).sort((a, b) =>
+  a.data.category.localeCompare(b.data.category) || a.data.name.localeCompare(b.data.name));
+const phones = (await getCollection('phones')).sort((a, b) => a.data.year - b.data.year);
+---
+<BaseLayout title="Compatibility" description="Which Moto Mods work with which Moto Z phones.">
+  <section class="hero wrap">
+    <p class="eyebrow">Reference</p>
+    <h1>What works with what</h1>
+    <p class="lede">
+      Motorola kept one Mod connector for the life of the line, so almost every
+      Mod works with almost every phone. The exceptions are the 5G Mod, which
+      needed a Verizon Z2 or later, and the shells, which are cut per model.
+    </p>
+  </section>
+
+  <section class="wrap">
+    <div class="matrix-scroll" role="region" aria-label="Mod and phone compatibility" tabindex="0">
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th scope="col">Mod</th>
+            {phones.map((p) => <th scope="col">{p.data.name}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {mods.map((m) => {
+            const set = new Set(m.data.compatibleDevices.map((d) => d.id));
+            return (
+              <tr>
+                <th scope="row"><a href={href(`/mods/${m.data.slug}/`)}>{m.data.name}</a></th>
+                {phones.map((p) => (
+                  <td class={set.has(p.data.slug) ? 'yes' : 'no'}>
+                    <span aria-label={set.has(p.data.slug) ? 'Yes' : 'No'}>
+                      {set.has(p.data.slug) ? '●' : '–'}
+                    </span>
+                  </td>
+                ))}
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:1rem">
+      Shells and the vehicle dock are model-specific: they fit the chassis they
+      were cut for, not every Moto Z.
+    </p>
+  </section>
+</BaseLayout>

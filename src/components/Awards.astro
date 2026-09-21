@@ -1,0 +1,31 @@
+---
+interface Award {
+  award: string;
+  year: number | null;
+  tier: string;
+  jury: string;
+  url: string;
+}
+interface Props {
+  awards: Award[];
+  heading?: string;
+}
+const { awards, heading = 'Awards' } = Astro.props;
+---
+{awards.length > 0 && (
+  <section class="wrap section">
+    <h2>{heading}</h2>
+    <ul class="awards">
+      {awards.map((a) => (
+        <li>
+          <p class="award-name">
+            <a href={a.url}>{a.award}</a>
+            {a.year && <span class="award-year">{a.year}</span>}
+          </p>
+          {a.tier && <p class="award-tier">{a.tier}</p>}
+          {a.jury && <blockquote class="award-jury">{a.jury}</blockquote>}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

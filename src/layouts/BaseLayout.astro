@@ -1,0 +1,54 @@
+---
+import '../styles/global.css';
+import { href } from '../lib/url';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'The Moto Z phones and the Moto Mods that snapped onto them.' } = Astro.props;
+const path = Astro.url.pathname;
+const nav = [
+  ['Mods', href('/mods/')],
+  ['Phones', href('/phones/')],
+  ['Compatibility', href('/compatibility/')],
+  ['Awards', href('/awards/')],
+  ['About', href('/about/')],
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="canonical" href={new URL(path, Astro.site)} />
+    <link rel="icon" href={href('/favicon.svg')} type="image/svg+xml" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href={href('/')}>moto <span>z</span></a>
+        <nav class="site-nav" aria-label="Main">
+          {nav.map(([label, to]) => (
+            <a href={to} aria-current={path.startsWith(to) ? 'page' : undefined}>{label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Moto Z and Moto Mods were made by Motorola Mobility. Product text and images are &copy; Motorola Mobility LLC.</p>
+        <p>An independent reference site. Not affiliated with, sponsored by, or endorsed by Motorola, Lenovo or Google.</p>
+      </div>
+    </footer>
+  </body>
+</html>
