@@ -1,0 +1,79 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const mods = await getCollection('mods');
+const phones = await getCollection('phones');
+const hosts = new Map<string, number>();
+for (const entry of [...mods, ...phones]) {
+  for (const src of entry.data.sources) {
+    try {
+      const host = new URL(src).host;
+      hosts.set(host, (hosts.get(host) ?? 0) + 1);
+    } catch { /* ignore */ }
+  }
+}
+const sources = [...hosts.entries()].sort((a, b) => b[1] - a[1]);
+---
+<BaseLayout title="About" description="Where this site's material comes from.">
+  <section class="hero wrap">
+    <p class="eyebrow">About</p>
+    <h1>About this site</h1>
+    <p class="lede">
+      A reference for the Moto Z phones and the Moto Mods that snapped onto them.
+      Motorola retired the product and took its pages down; this collects what
+      they said about it in one place.
+    </p>
+  </section>
+
+  <section class="wrap section">
+    <h2>What's here</h2>
+    <table class="spec-table">
+      <tbody>
+        <tr><th scope="row">Moto Mods</th><td>{mods.length}</td></tr>
+        <tr><th scope="row">Phones</th><td>{phones.length}, across four generations</td></tr>
+        <tr><th scope="row">Years covered</th><td>2016 &ndash; 2019</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="wrap section">
+    <h2>Sources</h2>
+    <p>
+      Product copy, specifications and imagery come from Motorola's own product
+      pages. Where a page carried no specification table, the figures come from
+      the manufacturer's stated specs or from Wikipedia, as listed below.
+    </p>
+    <table class="spec-table">
+      <tbody>
+        {sources.map(([host, n]) => (
+          <tr><th scope="row">{host}</th><td>{n} {n === 1 ? 'page' : 'pages'}</td></tr>
+        ))}
+      </tbody>
+    </table>
+    <p class="note">
+      Prices are not listed. Motorola's pages loaded them from a service that no
+      longer exists, so any figure here would be a guess.
+    </p>
+  </section>
+
+  <section class="wrap section">
+    <h2>The platform</h2>
+    <p>
+      Mods talked to the phone over Greybus, the protocol from Project Ara, on a
+      microcontroller running NuttX. Motorola's developer documentation for that
+      stack is preserved separately at
+      <a href="https://jksim.github.io/MotoMods-Developer-Docs/">MotoMods Developer Docs</a>.
+    </p>
+  </section>
+
+  <section class="wrap section">
+    <h2>Rights</h2>
+    <p>
+      Moto, Moto Mods and Moto Z are trademarks of their respective owners.
+      Product text and images are &copy; Motorola Mobility LLC and are reproduced
+      here for reference. This site is independent and is not affiliated with,
+      sponsored by, or endorsed by Motorola, Lenovo or Google.
+    </p>
+  </section>
+</BaseLayout>

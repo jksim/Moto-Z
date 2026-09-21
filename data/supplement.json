@@ -1,0 +1,353 @@
+{
+  "moto-5g": {
+    "source": "https://www.verizon.com/support/5g-moto-mod-faqs/",
+    "specs": [
+      {
+        "label": "Network",
+        "value": "Verizon 5G Ultra Wideband, millimetre wave"
+      },
+      {
+        "label": "Outside 5G coverage",
+        "value": "Switches automatically to Verizon 4G LTE"
+      },
+      {
+        "label": "Data",
+        "value": "Unlimited on 5G Ultra Wideband, with no de-prioritisation"
+      },
+      {
+        "label": "Battery size",
+        "value": "2000 mAh"
+      },
+      {
+        "label": "Sharing",
+        "value": "Shares the 5G connection as a Wi-Fi hotspot, or by tethering"
+      },
+      {
+        "label": "Compatible phones",
+        "value": "Moto Z3 and Moto Z4 sold by Verizon"
+      },
+      {
+        "label": "Plan requirement",
+        "value": "A Verizon Unlimited plan with 5G Ultra Wideband service added to the line"
+      },
+      {
+        "label": "Availability",
+        "value": "United States, exclusive to Verizon"
+      },
+      {
+        "label": "Purchase limit",
+        "value": "One per eligible line"
+      }
+    ]
+  },
+  "moto-mods-development-kit": {
+    "source": "https://jksim.github.io/MotoMods-Developer-Docs/hardware/mdk/",
+    "specs": [
+      {
+        "label": "In the box",
+        "value": "Reference Moto Mod, Perforated Board, example cover"
+      },
+      {
+        "label": "Microcontroller",
+        "value": "STM32L476ME (MuC), ARM Cortex-M4F with FPU"
+      },
+      {
+        "label": "MuC memory",
+        "value": "128 KB RAM, 1 MB flash"
+      },
+      {
+        "label": "High-speed path",
+        "value": "Moto High Speed Bridge (MHB) for camera and display traffic"
+      },
+      {
+        "label": "Developer connector",
+        "value": "80-pin, exposing GPIO, power and the standard buses"
+      },
+      {
+        "label": "Ports",
+        "value": "USB-C (USB C DRP), micro USB-B, MyDP"
+      },
+      {
+        "label": "Power rail",
+        "value": "Regulated 3.3 V, 500 mA"
+      },
+      {
+        "label": "Perforated board",
+        "value": "26 rows of solder points at 2.54 mm pitch, power bus each side"
+      },
+      {
+        "label": "Component height limit",
+        "value": "2.3 mm on top, 1.3 mm underneath, with the in-box cover"
+      },
+      {
+        "label": "Firmware",
+        "value": "NuttX, speaking Greybus over the Mod interface"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Any phone in the Moto Z family"
+      },
+      {
+        "label": "Sold through",
+        "value": "element14, to developers"
+      }
+    ]
+  },
+  "moto-style-shell": {
+    "source": "https://www.motorola.com/us/products/moto-mods/moto-style-shell",
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "Cut for a specific Moto Z model"
+      },
+      {
+        "label": "Dimensions",
+        "value": "154 x 74 x 2 mm"
+      },
+      {
+        "label": "Materials",
+        "value": "Nylon; Corning Gorilla Glass"
+      },
+      {
+        "label": "Weight",
+        "value": "Nylon: 25g to 32g; Gorilla Glass: 53g"
+      },
+      {
+        "label": "Nylon styles",
+        "value": "Herringbone Nylon, Crimson Ballistic Nylon"
+      },
+      {
+        "label": "Gorilla Glass styles",
+        "value": "Colored leaves, Expressive curves, Graphic flowers, Overlapping triangles, Retro stripe"
+      }
+    ]
+  },
+  "moto-z3": {
+    "source": "https://en.wikipedia.org/wiki/Moto_Z3",
+    "specs": [
+      {
+        "label": "Released",
+        "value": "August 2018"
+      },
+      {
+        "label": "Operating system",
+        "value": "Original: Android 8.1 \"Oreo\", Current: Android 9.0 \"Pie\""
+      },
+      {
+        "label": "Processor",
+        "value": "Qualcomm Snapdragon 835"
+      },
+      {
+        "label": "GPU",
+        "value": "Adreno 540"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "microSD up to 2 TB"
+      },
+      {
+        "label": "Display",
+        "value": "6.01 in Super AMOLED 2160x1080 (18:9 aspect ratio, 402 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "12 MP, f/2.0 aperture, 1.25 μm + 12 MP monochrome, Laser Autofocus (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL). Video capture Up to 4K 30 fps, 1080p 60 fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "8 MP, f/2.0 aperture, 1.12 μm, wide-angle 84° lens, screen flash Video capture 1080p 30 fps"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3000 mAh Li-ion"
+      },
+      {
+        "label": "Dimensions",
+        "value": "H: 156.5 mm W: 76.5 mm D: 6.75 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "156 g"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi , Wi-Fi Direct , Wi-Fi hotspot , DLNA , GPS/GLONASS/BDS , NFC , Bluetooth , USB-C"
+      }
+    ]
+  },
+  "moto-z3-play": {
+    "source": "https://en.wikipedia.org/wiki/Moto_Z3_Play",
+    "specs": [
+      {
+        "label": "Released",
+        "value": "August 2018"
+      },
+      {
+        "label": "Operating system",
+        "value": "Original: Android 8.1 \"Oreo\", Current: Android 9.0 \"Pie\""
+      },
+      {
+        "label": "Processor",
+        "value": "Qualcomm Snapdragon 636"
+      },
+      {
+        "label": "GPU",
+        "value": "Adreno 509"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB or 6 GB"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB up to 128 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "microSD up to 2 TB"
+      },
+      {
+        "label": "Display",
+        "value": "6.01 in Super AMOLED 2160x1080 (18:9 aspect ratio, 402 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "12 MP, f/2.0 aperture, 1.25 μm + 5 MP monochrome, Laser Autofocus (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL). Video capture Up to 4K 30 fps, 1080p 60 fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "8 MP, f/2.0 aperture, 1.12 μm, wide-angle 84° lens, screen flash Video capture 1080p 30 fps"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3000 mAh Li-ion"
+      },
+      {
+        "label": "Dimensions",
+        "value": "H: 156.5 mm W: 76.5 mm D: 6.75 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "156 g"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi , Wi-Fi Direct , Wi-Fi hotspot , DLNA , GPS/GLONASS/BDS , NFC , Bluetooth , USB-C"
+      }
+    ]
+  },
+  "moto-z4": {
+    "source": "https://en.wikipedia.org/wiki/Moto_Z4",
+    "specs": [
+      {
+        "label": "Released",
+        "value": "June 2019"
+      },
+      {
+        "label": "Operating system",
+        "value": "Original: Android 9 \"Pie\" , Current: Android 10"
+      },
+      {
+        "label": "Chipset",
+        "value": "Qualcomm Snapdragon 675"
+      },
+      {
+        "label": "GPU",
+        "value": "Adreno 612"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB"
+      },
+      {
+        "label": "Storage",
+        "value": "128 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "microSD up to 1 TB"
+      },
+      {
+        "label": "Display",
+        "value": "6.4 in OLED , 2340 × 1080 px (19.5:9 aspect ratio) (403 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "48 MP, ƒ/1.7aperture, 1/2\", 0.8um, PDAF, OIS, dual LED flash, panorama, HDR Video capture Up to 4K(30 fps), 1080p@30/60fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "25 MP, ƒ/2.0 aperture, 0.9um, screen flash, HDR Video capture 1080p (30 fps)"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3600 mAh Li-ion"
+      },
+      {
+        "label": "Dimensions",
+        "value": "H: 158 mm W: 75 mm D: 7.4 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "165 g"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi , Wi-Fi Direct , Wi-Fi hotspot , DLNA , GPS/GLONASS/BDS , NFC , Bluetooth , USB-C , 3.5mm headphone jack"
+      },
+      {
+        "label": "Model number",
+        "value": "XT1980"
+      }
+    ]
+  },
+  "tumi-power-pack": {
+    "source": "https://www.bhphotovideo.com/c/product/1593586-REG/moto_89878n_tumi_power_pack_moto.html",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "2220 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Adds up to 22 hours"
+      },
+      {
+        "label": "Dimensions",
+        "value": "7.4 x 15.2 x 0.8 cm (2.9 x 6.0 x 0.3\")"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.27 inch"
+      },
+      {
+        "label": "Efficiency Mode",
+        "value": "Charging starts at peak efficiency, preserving battery life by up to 20%"
+      },
+      {
+        "label": "Finish",
+        "value": "TUMI premium designer edition"
+      },
+      {
+        "label": "In the box",
+        "value": "Moto TUMI Power Pack Moto Mod"
+      },
+      {
+        "label": "Warranty",
+        "value": "Limited 1-year"
+      },
+      {
+        "label": "Manufacturer part number",
+        "value": "89878N"
+      }
+    ]
+  }
+}

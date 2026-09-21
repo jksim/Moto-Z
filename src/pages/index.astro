@@ -1,0 +1,85 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import Spotlight from '../components/Spotlight.astro';
+import { href } from '../lib/url';
+import { categoryLabel } from '../lib/catalogue';
+
+const mods = (await getCollection('mods')).sort((a, b) => a.data.year - b.data.year);
+const phones = (await getCollection('phones')).sort((a, b) => a.data.year - b.data.year);
+const generations = new Set(phones.map((p) => p.data.generation)).size;
+const WORDS = ['no', 'one', 'two', 'three', 'four', 'five', 'six'];
+const fiveG = mods.find((m) => m.data.slug === 'moto-5g');
+const mdk = mods.find((m) => m.data.slug === 'moto-mods-development-kit');
+const featured = ['moto-5g', 'hasselblad-true-zoom', 'moto-insta-share-projector',
+                  'jbl-soundboost-speaker'];
+const picks = featured
+  .map((s) => mods.find((m) => m.data.slug === s))
+  .filter((m): m is NonNullable<typeof m> => Boolean(m));
+---
+<BaseLayout title="Moto Z & Moto Mods">
+  <section class="hero wrap">
+    <p class="eyebrow">2016 &ndash; 2019</p>
+    <h1>The phone that snapped together.</h1>
+    <p class="lede">
+      Motorola built the Moto Z around a magnetic interface: a row of 23K gold
+      pins carrying power and data, and a steel back plate that holds the Mod
+      against them. Snap one on and the phone became a 10x camera, a projector,
+      a JBL speaker or a games console &mdash; no pairing, no cables.
+      {` ${mods.length} Mods shipped across ${phones.length} phones covering ${WORDS[generations] ?? generations} generations before the line ended.`}
+    </p>
+    <p class="chips" style="margin-top:1.6rem">
+      <a class="chip is-on" href={href('/mods/')}>Browse the Mods</a>
+      <a class="chip" href={href('/phones/')}>The phones</a>
+    </p>
+  </section>
+
+  {fiveG && (
+    <Spotlight
+      mod={fiveG}
+      eyebrow="The one that mattered"
+      heading="A phone that got 5G without being replaced"
+      body="Motorola put the millimetre-wave radio and its antennas in a Mod instead of a handset, so a phone sold in 2018 could join Verizon's 5G network in 2019. Verizon called it the world's first 5G-upgradeable smartphone, and it was the device the network launched with."
+    />
+  )}
+
+  {mdk && (
+    <Spotlight
+      mod={mdk}
+      flip
+      eyebrow="How the rest got made"
+      heading="Anyone could build one"
+      body="Motorola sold the platform, not just the products. The Development Kit paired a working Reference Moto Mod with a perforated board to solder your own circuit onto, so a prototype only needed an idea and a Moto Z. The firmware was open, and the protocol was Greybus."
+    />
+  )}
+
+  <section class="section wrap">
+    <h2>Signature Mods</h2>
+    <ul class="grid">
+      {picks.map((m) => (
+        <li>
+          <ProductCard href={href(`/mods/${m.data.slug}/`)} name={m.data.name}
+                       eyebrow={categoryLabel(m.data.category)} note={m.data.tagline}
+                       images={m.data.images} coverKey={m.data.coverKey} />
+        </li>
+      ))}
+    </ul>
+    <p class="chips section-cta">
+      <a class="chip is-on" href={href('/mods/')}>{`Browse all ${mods.length} Mods`}</a>
+    </p>
+  </section>
+
+  <section class="section wrap">
+    <h2>The phones</h2>
+    <ul class="grid">
+      {phones.map((p) => (
+        <li>
+          <ProductCard href={href(`/phones/${p.data.slug}/`)} name={p.data.name}
+                       eyebrow={String(p.data.year)} note={p.data.tagline}
+                       images={p.data.images} />
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

@@ -1,0 +1,44 @@
+---
+import { Image } from 'astro:assets';
+import { image as resolve, cover, focus } from '../lib/images';
+import { href } from '../lib/url';
+
+interface Props {
+  mod: any;
+  eyebrow: string;
+  heading: string;
+  body: string;
+  flip?: boolean;
+}
+const { mod, eyebrow, heading, body, flip = false } = Astro.props;
+const d = mod.data;
+const shot = cover(d.images, d.coverKey);
+const src = shot ? resolve(shot.key) : undefined;
+const mediaStyle = shot?.bg ? `background: ${shot.bg}` : undefined;
+const to = href(`/mods/${d.slug}/`);
+// The precisely dated milestones make the point better than any claim we
+// could write; the vaguer "2018"-style entries stay on the product page.
+const beats = (d.timeline ?? []).filter((t: any) => /^\d{1,2}\s/.test(t.date)).slice(0, 2);
+---
+<section class={flip ? 'spotlight is-flipped' : 'spotlight'}>
+  <a class="spotlight-media" href={to} style={mediaStyle} aria-hidden="true" tabindex="-1">
+    {src && (
+      <Image src={src} alt="" widths={[480, 800, 1200]}
+             sizes="(max-width: 900px) 100vw, 620px" loading="lazy"
+             style={`object-position: ${focus(shot)}`} />
+    )}
+  </a>
+  <div class="spotlight-body">
+    <p class="eyebrow">{eyebrow}</p>
+    <h2>{heading}</h2>
+    <p class="lede">{body}</p>
+    {beats.length > 0 && (
+      <ul class="spotlight-beats">
+        {beats.map((t: any) => (
+          <li><strong>{t.date}</strong> {t.event}</li>
+        ))}
+      </ul>
+    )}
+    <p class="chips"><a class="chip is-on" href={to}>{d.name}</a></p>
+  </div>
+</section>

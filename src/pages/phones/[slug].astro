@@ -1,0 +1,76 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import { Image } from 'astro:assets';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SpecTable from '../../components/SpecTable.astro';
+import FeatureList from '../../components/FeatureList.astro';
+import Gallery from '../../components/Gallery.astro';
+import Awards from '../../components/Awards.astro';
+import { image as resolve, cover } from '../../lib/images';
+import { href } from '../../lib/url';
+
+export async function getStaticPaths() {
+  const phones = await getCollection('phones');
+  return phones.map((phone) => ({ params: { slug: phone.data.slug }, props: { phone } }));
+}
+
+const { phone } = Astro.props;
+const d = phone.data;
+const heroImg = cover(d.images, d.coverKey);
+const hero = heroImg ? resolve(heroImg.key) : undefined;
+// Continue the shot's own backdrop behind it so the frame has no visible edge.
+const heroStyle = heroImg?.bg ? `background: ${heroImg.bg}` : undefined;
+
+const mods = await Promise.all(
+  d.compatibleMods.map(async (ref) => {
+    const entry = await getEntry(ref);
+    return entry ? { slug: entry.data.slug, name: entry.data.name } : null;
+  }),
+);
+const works = mods.filter((m): m is { slug: string; name: string } => Boolean(m));
+---
+<BaseLayout title={`${d.name} — Moto Z`} description={d.summary || d.tagline}>
+  <article>
+    <section class="hero wrap">
+      <p class="eyebrow">{d.family} &middot; Generation {d.generation} &middot; {d.year}</p>
+      <h1>{d.name}</h1>
+      {d.tagline && <p class="lede">{d.tagline}</p>}
+      {hero && (
+        <div class="hero-media" style={heroStyle}>
+          <Image src={hero} alt={d.name} widths={[480, 800, 1200]}
+                 sizes="(max-width: 900px) 100vw, 1100px" loading="eager" fetchpriority="high" />
+        </div>
+      )}
+    </section>
+
+    <section class="wrap section">
+      <div class="cols">
+        <div>
+          {d.summary && <p class="lede">{d.summary}</p>}
+          <FeatureList features={d.features} />
+          <Gallery images={d.images} name={d.name} exclude={heroImg?.key} />
+        </div>
+        <aside>
+          <h2>Specifications</h2>
+          <SpecTable specs={d.specs} />
+          {d.variants.length > 1 && (
+            <p class="note" style="margin-top:1rem">
+              Sold as {d.variants.map((v) => v.name).join(' and ')}.
+            </p>
+          )}
+        </aside>
+      </div>
+    </section>
+
+    <Awards awards={d.awards} />
+
+    <section class="wrap section">
+      <h2>{works.length} compatible Mods</h2>
+      <ul class="chips">
+        {works.map((m) => (
+          <li><a class="chip" href={href(`/mods/${m.slug}/`)}>{m.name}</a></li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</BaseLayout>

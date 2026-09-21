@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ModGrid from '../../components/ModGrid.astro';
+import FilterBar from '../../components/FilterBar.astro';
+
+const mods = (await getCollection('mods')).sort((a, b) =>
+  a.data.year - b.data.year || a.data.name.localeCompare(b.data.name));
+const phones = (await getCollection('phones'))
+  .sort((a, b) => a.data.year - b.data.year)
+  .map((p) => ({ slug: p.data.slug, name: p.data.name }));
+---
+<BaseLayout title="Moto Mods" description="Every Moto Mod that shipped for the Moto Z.">
+  <section class="hero wrap">
+    <p class="eyebrow">The library</p>
+    <h1>Moto Mods</h1>
+    <p class="lede">
+      {mods.length} snap-on Mods shipped between 2016 and 2019. Each met the
+      magnetic interface on the back of a Moto Z and worked the moment its
+      contacts touched the pins.
+    </p>
+    <FilterBar phones={phones} />
+  </section>
+  <section class="wrap">
+    <ModGrid mods={mods} />
+  </section>
+</BaseLayout>

@@ -1,0 +1,16 @@
+---
+interface Props {
+  features: { title: string; body: string }[];
+}
+const { features } = Astro.props;
+---
+{features.length > 0 && (
+  <ul class="feature-list">
+    {features.map((f) => (
+      <li>
+        <h3>{f.title}</h3>
+        {f.body && <p>{f.body}</p>}
+      </li>
+    ))}
+  </ul>
+)}

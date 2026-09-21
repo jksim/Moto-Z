@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { href } from '../../lib/url';
+
+const phones = (await getCollection('phones')).sort((a, b) =>
+  a.data.year - b.data.year || a.data.name.localeCompare(b.data.name));
+const generations = new Set(phones.map((p) => p.data.generation)).size;
+const WORDS = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
+---
+<BaseLayout title="Moto Z phones" description="Every phone in the Moto Z line.">
+  <section class="hero wrap">
+    <p class="eyebrow">The phones</p>
+    <h1>Moto Z</h1>
+    <p class="lede">
+      {WORDS[generations] ?? generations} generations, {phones.length} models. Every one carried the same
+      magnetic interface &mdash; identical pin array, identical back plate &mdash;
+      so a Mod bought in 2016 still snapped onto a phone sold in 2019.
+    </p>
+  </section>
+  <section class="wrap">
+    <ul class="grid">
+      {phones.map((p) => (
+        <li>
+          <ProductCard href={href(`/phones/${p.data.slug}/`)} name={p.data.name}
+                       eyebrow={String(p.data.year)}
+                       note={`${p.data.compatibleMods.length} compatible Mods`}
+                       images={p.data.images} />
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

@@ -1,0 +1,3888 @@
+[
+  {
+    "awards": [],
+    "brand": "Hasselblad",
+    "category": "camera",
+    "categorySecondary": [],
+    "compatibilityRaw": "The Moto Z Family of phones",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Take smartphone photography to the next level with this Hasselblad True Zoom Camera for Motorola Z family smartphones. A part of their Moto Mods system, this camera mounts easily to the back of the phone using strong magnets and features an electronic connection for data transmission and power. The True Zoom Camera dramatically improves your photographic capabilities by utilizing a 12MP 1/2.3\" BSI CMOS sensor with a sensitivity range of up to ISO 3200 along with a Hasselblad 10x optical zoom with a 35mm equivalent focal length of 25-250mm and an f/3.5-6.5 aperture. This camera also features optical image stabilization to help reduce the impact of shutter shake and offers Full HD 1080p video at 30 fps with electronic stabilization. Additionally, the camera features a physical shutter release and zoom lever for tactile control as well as a built-in Xenon flash to illuminate dark scenes.",
+    "facets": {
+      "dimensionsMm": "152.3 x 72.9 x 9.0 - 15.1 mm",
+      "weightG": 145.0
+    },
+    "features": [
+      {
+        "body": "With 10x optical zoom, add an advanced imaging experience to your phone, instantly",
+        "title": "True zoom"
+      },
+      {
+        "body": "The legendary camera maker brings their legacy and unique shooting experiences to your Moto Z",
+        "title": "Hasselblad experience"
+      },
+      {
+        "body": "A better experience from start to finish, with Xenon flash, exclusive shooting modes and Google Photos integration",
+        "title": "Shoot + Share"
+      }
+    ],
+    "fit": "universal",
+    "id": "hasselblad-true-zoom",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/mods/hasselblad-true-zoom/moto-mods-hasselblad-pdp-hero-d.jpg?itok=UM0a64wz&timestamp=1475014627"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/storage/row-final-hasselblad-d/mot-mods-camera-featuregrid-1X2-dicyji2m5.jpg?itok=dLln8UuY&timestamp=1476279437"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/Hasselblad-new/moto-mods-hasselblad-pdp-featgrid-1x2-hass-d-vzw.jpg?itok=xxE0Zlr3&timestamp=1475525894"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/Hasselblad-new/moto-mods-hasselblad-pdp-featgrid-1x2-share-d-vzw.jpg?itok=IsktuklR&timestamp=1475014754"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/Hasselblad-new/moto-mods-hasselblad-pdp-featgrid-1x2-truezoom-d-vzw.jpg?itok=4ayuYBH1&timestamp=1475014643"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/moto-mods/Hasselblad-new/moto-mods-hasselblad-pdp-spec-summery-d-vzw.jpg?itok=FBsBLIDh&timestamp=1475014824"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/moto-mods/Hasselblad-new/moto-mods-hasselblad-pdp-specsexpanded-d-vzw.jpg?itok=GKbQ_H5F&timestamp=1475014848"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/hasselblad-create-to-inspire-logo-80888c.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/hasselblad-create-to-inspire-logo-fff.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/hasselblad-true-zoom-000.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/hasselblad-true-zoom-fff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#ff9c1b",
+        "focusX": 0.67,
+        "focusY": 0.48,
+        "height": 1400,
+        "key": "mods/hasselblad-true-zoom/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#1e1921",
+        "focusX": 0.48,
+        "focusY": 0.59,
+        "height": 820,
+        "key": "mods/hasselblad-true-zoom/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#d05b01",
+        "focusX": 0.55,
+        "focusY": 0.44,
+        "height": 820,
+        "key": "mods/hasselblad-true-zoom/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#cb5201",
+        "focusX": 0.54,
+        "focusY": 0.46,
+        "height": 820,
+        "key": "mods/hasselblad-true-zoom/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#ac6b31",
+        "focusX": 0.4,
+        "focusY": 0.54,
+        "height": 820,
+        "key": "mods/hasselblad-true-zoom/feature-5.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#e4e4e4",
+        "focusX": 0.41,
+        "focusY": 0.49,
+        "height": 980,
+        "key": "mods/hasselblad-true-zoom/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/hasselblad-true-zoom/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Hasselblad True Zoom",
+    "relatedDocs": [
+      {
+        "title": "Camera Controls",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/camera-controls/"
+      }
+    ],
+    "slug": "hasselblad-true-zoom",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/hasselblad-true-zoom",
+      "https://www.bhphotovideo.com/c/product/1274335-REG/hasselblad_89867n_true_zoom_camera_for.html"
+    ],
+    "specs": [
+      {
+        "label": "Compatible phones",
+        "value": "The Moto Z Family of phones"
+      },
+      {
+        "label": "Dimensions",
+        "value": "152.3 x 72.9 x 9.0 - 15.1 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "145g"
+      },
+      {
+        "label": "Sensor resolution",
+        "value": "12MP"
+      },
+      {
+        "label": "Video resolution",
+        "value": "1080p Full HD at 30fps"
+      },
+      {
+        "label": "Mics",
+        "value": "2"
+      },
+      {
+        "label": "Sensor type",
+        "value": "BSI CMOS"
+      },
+      {
+        "label": "Sensor size",
+        "value": "1/2.3-inch"
+      },
+      {
+        "label": "Pixel size",
+        "value": "1.55 um"
+      },
+      {
+        "label": "Aperture",
+        "value": "f3.5-6.5"
+      },
+      {
+        "label": "Zoom",
+        "value": "10x optical/4x digital"
+      },
+      {
+        "label": "Focal length",
+        "value": "4.5-45 mm (25-250mm 35mm equivalent)"
+      },
+      {
+        "label": "Macro",
+        "value": "5cm @1x - 1.5m @10x"
+      },
+      {
+        "label": "Flash",
+        "value": "Xenon flash"
+      },
+      {
+        "label": "Flash modes",
+        "value": "Auto, on, off"
+      },
+      {
+        "label": "Image stabilization",
+        "value": "Still: OIS Video: EIS"
+      },
+      {
+        "label": "ISO equivalent",
+        "value": "Auto, 100, 200, 400, 800, 1600, 3200"
+      },
+      {
+        "label": "Capture modes",
+        "value": "Photo, panorama, video, professional, night landscape, night portrait, sports, day landscape, back light portrait"
+      },
+      {
+        "label": "Focus modes",
+        "value": "Manual focus: select focus ROI Focus lock"
+      },
+      {
+        "label": "Pro mode",
+        "value": "Focus, white balance, f-stop, ISO, exposure"
+      },
+      {
+        "label": "White balance",
+        "value": "Auto, incandescent, fluorescent, sunny, shade"
+      },
+      {
+        "label": "Color effects",
+        "value": "Color, black & white"
+      },
+      {
+        "label": "Red eye reduction",
+        "value": "Auto"
+      },
+      {
+        "label": "File format",
+        "value": "Still: JPG, DNG (RAW) Video: MPEG4"
+      },
+      {
+        "label": "Storage",
+        "value": "Internal phone: 32GB-64GB microSD phone: up to 2TB Cloud: Unlimited via Google Photos"
+      },
+      {
+        "label": "Battery life",
+        "value": "Phone dependent"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Phone connectivity: 4G/LTE, Wi-Fi"
+      },
+      {
+        "label": "GPS",
+        "value": "Phone: Enhanced geolocation"
+      },
+      {
+        "label": "Carrying case",
+        "value": "Included"
+      },
+      {
+        "label": "Pixels",
+        "value": "Effective: 12 MP"
+      },
+      {
+        "label": "Max Resolution",
+        "value": "12 MP: 4000 x 2992"
+      },
+      {
+        "label": "Aspect Ratio",
+        "value": "4:3"
+      },
+      {
+        "label": "Lens",
+        "value": "Hasselblad Optical Zoom EFL: 4.5-45mm (35mm Equivalent: 25-250mm) Aperture: f/3.5 (W) - 6.5 (T)"
+      },
+      {
+        "label": "Focus Range",
+        "value": "Wide: 2\" / 5 cm - Infinity Telephoto: 4.9' / 1.5 m - Infinity"
+      },
+      {
+        "label": "ISO Sensitivity",
+        "value": "Auto, 100-3200"
+      },
+      {
+        "label": "Shooting Modes",
+        "value": "Photo Panorama Professional Night Landscape Night Portrait Sports Day Landscape Back Light Portrait"
+      },
+      {
+        "label": "Built-in Flash",
+        "value": "Yes"
+      },
+      {
+        "label": "Video Recording",
+        "value": "Yes, NTSC"
+      },
+      {
+        "label": "Audio Recording",
+        "value": "Built-in Mic: With Video, Stereo"
+      },
+      {
+        "label": "Screen",
+        "value": "Depends on phone"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "Yes, via phone"
+      }
+    ],
+    "summary": "Transform your mobile camera experience: get 10x optical zoom and Xenon flash, in a snap. No pairing. No hassle. Only the legacy of the Hasselblad brand at your fingertips, with physical shutter and zoom controls.",
+    "tagline": "Get 10x optical zoom, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "Incipio",
+    "category": "power",
+    "categorySecondary": [],
+    "compatibilityRaw": "Moto Z Droid, Moto Z Force Droid, Moto Z Play Droid",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "mods/incipio-offgrid-power-pack/gallery-3.jpg",
+    "details": "Increase your smartphone's battery life with this black Incipio offGRID Battery Cover. This cover is a Moto Mod for Motorola's Moto Z family of smartphones, including the Moto Z Droid and Moto Z Force Droid. It attaches magnetically to your device and sets up in a couple of taps. The 2200mAh lithium-ion polymer battery augments your device's own battery, adding up to 20 hours of use. Efficiency Mode can extend your battery life by an additional 20% by only recharging your device when its own battery dips below 80%. Designed for unobtrusiveness, the offGRID measures less than a quarter of an inch thick.",
+    "facets": {
+      "batteryMah": 2220,
+      "dimensionsMm": "152.7 x 73.5 x 6.2 mm",
+      "weightG": 79.0
+    },
+    "features": [
+      {
+        "body": "Instantly add up to 22 hours of battery life to your phone. No more searching for wall outlets.",
+        "title": "Battery boost"
+      },
+      {
+        "body": "Smart and sleek design boosts battery without adding bulk",
+        "title": "Features"
+      },
+      {
+        "body": "Recharge anywhere and look great doing it",
+        "title": "Designer editions"
+      }
+    ],
+    "fit": "universal",
+    "id": "incipio-offgrid-power-pack",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/mods/power-pack/mot-mods-pdp-hero-power-pack-us-m0tzaus9r.jpg?itok=JV_QTHnM&timestamp=1473950671"
+      },
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/mods/power-pack/mot-mods-pdp-hero-power-pack-us-d8ef0vhi9.jpg?itok=h3RqiEdN&timestamp=1473950664"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/incipio-offgrid-power-pack/mot-mods-incipio-powerpack-featuregrid-1X2--di4wn25c7.jpg?itok=iXHuvKaL&timestamp=1473950789"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/mods/power-pack/desktop/mot-mods-pdp-featuregrid-3-incipio-power-pack-us-d8c7y5jn3.jpg?itok=cnQeU_oQ&timestamp=1473950751"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/mods/power-pack/mot-mods-pdp-featuregrid-1-incipio-power-pack-us-d7dpnw3ednhg491sd.jpg?itok=xFZHvdRF&timestamp=1473950673"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/mods/power-pack/mot-mods-pdp-featuregrid-2-incipio-power-us-dgcplrpibz5u4rthg.jpg?itok=YP_9mjta&timestamp=1473950705"
+      },
+      {
+        "role": "gallery",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/mods/power-pack/desktop/mot-mods-pdp-summary-incipio-power-us-deuh4r1q9rhr61fxu.jpg?itok=pSmrc9Nr&timestamp=1473950811"
+      },
+      {
+        "role": "gallery",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/mods/power-pack/mobile/mot-mods-pdp-summary-incipio-power-us-mdif6ar1y.jpg?itok=5PcP8eji&timestamp=1473950837"
+      },
+      {
+        "role": "gallery",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/mods/power-pack/mobile/mot-mods-pdp-summary-expanded-incipio-power-glo-m.jpg?itok=lWm18UgR&timestamp=1473950828"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#4c393a",
+        "focusX": 0.45,
+        "focusY": 0.54,
+        "height": 820,
+        "key": "mods/incipio-offgrid-power-pack/feature-1.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#eeeeee",
+        "focusX": 0.45,
+        "focusY": 0.5,
+        "height": 480,
+        "key": "mods/incipio-offgrid-power-pack/gallery-2.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.48,
+        "height": 664,
+        "key": "mods/incipio-offgrid-power-pack/gallery-3.jpg",
+        "role": "gallery",
+        "width": 776
+      }
+    ],
+    "name": "Incipio offGRID Power Pack",
+    "relatedDocs": [
+      {
+        "title": "Power Transfer protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/power-transfer/"
+      },
+      {
+        "title": "Battery protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/battery/"
+      }
+    ],
+    "slug": "incipio-offgrid-power-pack",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/incipio-offgrid-power-pack",
+      "https://www.bhphotovideo.com/c/product/1274412-REG/incipio_mt_381_blk_offgrid_moto_mod.html"
+    ],
+    "specs": [
+      {
+        "label": "Compatible phones",
+        "value": "Moto Z Droid, Moto Z Force Droid, Moto Z Play Droid"
+      },
+      {
+        "label": "Dimensions",
+        "value": "152.7 x 73.5 x 6.2mm"
+      },
+      {
+        "label": "Weight",
+        "value": "79 g, 85 g (wireless charging version)"
+      },
+      {
+        "label": "Battery size",
+        "value": "2220 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Up to 22 hours"
+      },
+      {
+        "label": "Charge rate to phone",
+        "value": "4-6W varies based on phone battery level"
+      },
+      {
+        "label": "Charge rate from phone via wall charger",
+        "value": "2.2A, 11W"
+      },
+      {
+        "label": "Wireless charging (exclusive to wireless charging version)",
+        "value": "Qi 1.2.1, PMA 3.0\""
+      },
+      {
+        "label": "Wireless charging rate (exclusive to wireless charging version)",
+        "value": "5W"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Moto Mods 1.0 platform and later"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Lithium-ion polymer"
+      }
+    ],
+    "summary": "Instantly add battery life to your phone in a snap. Recharge on the run with the Incipio offGRID™ Power Pack Moto Mod™. Up to 22 hours of extra battery life.",
+    "tagline": "A battery powerhouse, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "Incipio",
+    "category": "connectivity",
+    "categorySecondary": [],
+    "compatibilityRaw": "The Moto Z Family of phones",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "dimensionsMm": "153 x 74 x 6.2 mm",
+      "weightG": 91.0
+    },
+    "features": [
+      {
+        "body": "Hands-free navigation and calling, audio integration, and fast charging",
+        "title": "Your co-pilot"
+      },
+      {
+        "body": "With the power of Android Auto™, you can multitask with both hands on the wheel.",
+        "title": "Android Auto™"
+      }
+    ],
+    "fit": "per-model",
+    "id": "incipio-vehicle-dock",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-mods-incipio-vehicle-dock-pdp-hero-m.jpg?itok=eO1-rh3k&timestamp=1481745541"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-mods-incipio-vehicle-dock-pdp-hero-d%20%281%29.jpg?itok=fxXhl8fa&timestamp=1481745539"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/incipio-vehicle-dock/moto-mods-incipio-mods-pdp-feature-grid-1X2-d.jpg?itok=7qBZfSRQ&timestamp=1481745566"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/incipio-vehicle-dock/moto-mods-incipio-vehicle-dock-pdp-feature-grid-1X2-d.jpg?itok=DHXAzV7d&timestamp=1481745559"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/incipio-vehicle-dock/moto-mods-incipio-vehicle-dock-pdp-feature-grid-2x2-d.jpg?itok=N1OWawnf&timestamp=1481745542"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/moto-mods/incipio-vehicle-dock/moto-mods-incipio-vehicle-dock-pdp-specs-d.jpg?itok=TgbrViak&timestamp=1481745576"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/moto-mods/incipio-vehicle-dock/moto-mods-incipio-vehicle-dock-pdp-expanded-specs-m.jpg?itok=2TbBykIt&timestamp=1481745589"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-mods/incipio-vehicle-dock/Incipio-Vehicle-Dock-lockup-ffffff.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-mods/incipio-vehicle-dock/Incipio-Vehicle-Dock-lockup.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#559d3a",
+        "focusX": 0.49,
+        "focusY": 0.54,
+        "height": 780,
+        "key": "mods/incipio-vehicle-dock/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#c05102",
+        "focusX": 0.46,
+        "focusY": 0.45,
+        "height": 820,
+        "key": "mods/incipio-vehicle-dock/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#428736",
+        "focusX": 0.5,
+        "focusY": 0.44,
+        "height": 820,
+        "key": "mods/incipio-vehicle-dock/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#131618",
+        "focusX": 0.58,
+        "focusY": 0.45,
+        "height": 1640,
+        "key": "mods/incipio-vehicle-dock/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.43,
+        "focusY": 0.49,
+        "height": 980,
+        "key": "mods/incipio-vehicle-dock/spec-5.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/incipio-vehicle-dock/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Incipio Vehicle Dock",
+    "relatedDocs": [
+      {
+        "title": "USB-Ext protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/usb-ext/"
+      }
+    ],
+    "slug": "incipio-vehicle-dock",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/incipio-vehicle-dock"
+    ],
+    "specs": [
+      {
+        "label": "Compatible phones",
+        "value": "The Moto Z Family of phones"
+      },
+      {
+        "label": "Dimensions",
+        "value": "153 x 74 x 6.2 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "91 g"
+      },
+      {
+        "label": "Charge rate",
+        "value": "Up to 15W Turbo Charging (5V / 3.0A), 15W vehicle power adapter sold separately"
+      },
+      {
+        "label": "Connectors",
+        "value": "USB-C for charging 3.5mm jack for audio out Moto Mod connector"
+      },
+      {
+        "label": "Software",
+        "value": "Compatible with Android Auto"
+      },
+      {
+        "label": "Features",
+        "value": "Vent clip Easy release tabs"
+      },
+      {
+        "label": "Included in box",
+        "value": "Incipio Vehicle Dock Vent Clip Quick Start Guide"
+      }
+    ],
+    "summary": "Meet your co-pilot",
+    "tagline": "Hands-free control, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "JBL",
+    "category": "audio",
+    "categorySecondary": [],
+    "compatibilityRaw": "The Moto Z Family of phones",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "The white SoundBoost Moto Mod from JBL is a snap-on speaker that easily fits onto the back your Moto Z-family smartphone. It features two 27mm speakers that output a total of 6W of audio power, so you get powerful stereo sound directly from your phone. The SoundBoost also features a built-in kickstand and its own long-lasting battery with up to 10 hours of life, so you don't have to worry about it drawing power from your smartphone. The SoundBoost installs hassle-free and plays audio automatically, with no pairing required.",
+    "facets": {
+      "batteryMah": 1000,
+      "dimensionsMm": "152 x 73 x 13 mm",
+      "weightG": 145.0
+    },
+    "features": [
+      {
+        "body": "Give your phone—and the party—a boost. Powerful stereo sound. Instantly.",
+        "title": "JBL audio"
+      },
+      {
+        "body": "JBL SoundBoost comes with everything you need to keep the volume up, longer",
+        "title": "features"
+      }
+    ],
+    "fit": "universal",
+    "id": "jbl-soundboost-speaker",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-hero-d.jpg?itok=-qnMTyW_&timestamp=1528826822"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-feature-grid-1-2x2-d.jpg?itok=Gg4hw2Et&timestamp=1528826835"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-feature-grid-2-1x2-d.jpg?itok=S4RFFYjp&timestamp=1528826850"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-feature-grid-3-1X2-d.jpg?itok=FhRKqXGb&timestamp=1528826858"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/moto-mods-jbl-sound-boost-speaker-wide-787KrkFq.png"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-summery-d.jpg?itok=Qgr-5JPK&timestamp=1528826877"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/moto-mods/jbl-soundboost-speaker/mot-jbl-pdp-expanded-summery-d.jpg?itok=BulcCHzy&timestamp=1528826906"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/mot-mods-jbl-sound-boostcpr3q0n59tk46gelffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#00a42b",
+        "focusX": 0.72,
+        "focusY": 0.46,
+        "height": 1400,
+        "key": "mods/jbl-soundboost-speaker/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#afb7bd",
+        "focusX": 0.53,
+        "focusY": 0.52,
+        "height": 1640,
+        "key": "mods/jbl-soundboost-speaker/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#92d375",
+        "focusX": 0.51,
+        "focusY": 0.43,
+        "height": 820,
+        "key": "mods/jbl-soundboost-speaker/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#282426",
+        "focusX": 0.58,
+        "focusY": 0.49,
+        "height": 820,
+        "key": "mods/jbl-soundboost-speaker/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#000000",
+        "focusX": 0.42,
+        "focusY": 0.53,
+        "height": 99,
+        "key": "mods/jbl-soundboost-speaker/gallery-5.png",
+        "role": "gallery",
+        "width": 755
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.41,
+        "focusY": 0.51,
+        "height": 980,
+        "key": "mods/jbl-soundboost-speaker/gallery-6.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.52,
+        "focusY": 0.49,
+        "height": 664,
+        "key": "mods/jbl-soundboost-speaker/gallery-7.jpg",
+        "role": "gallery",
+        "width": 776
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/jbl-soundboost-speaker/logo-8.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "JBL SoundBoost Speaker",
+    "relatedDocs": [
+      {
+        "title": "Audio protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/audio/"
+      }
+    ],
+    "slug": "jbl-soundboost-speaker",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/jbl-soundboost-speaker",
+      "https://www.bhphotovideo.com/c/product/1316888-REG/jbl_89869n_soundboost_speaker_mods_white.html"
+    ],
+    "specs": [
+      {
+        "label": "compatible phones",
+        "value": "The Moto Z Family of phones"
+      },
+      {
+        "label": "dimensions",
+        "value": "152 x 73 x 13 mm"
+      },
+      {
+        "label": "weight",
+        "value": "145 g"
+      },
+      {
+        "label": "number of speakers",
+        "value": "2 speakers @ 27 mm diameter, stereo sound"
+      },
+      {
+        "label": "speaker power",
+        "value": "3W per speaker, 6W total"
+      },
+      {
+        "label": "frequency response range",
+        "value": "200 Hz—20 kHz"
+      },
+      {
+        "label": "loudness",
+        "value": "80 dBSPL @ 0,5 m"
+      },
+      {
+        "label": "speakerphone support",
+        "value": "Yes"
+      },
+      {
+        "label": "integrated battery",
+        "value": "Yes"
+      },
+      {
+        "label": "battery size",
+        "value": "1000 mAh"
+      },
+      {
+        "label": "battery life",
+        "value": "10 hours"
+      },
+      {
+        "label": "external charging",
+        "value": "USB Type C"
+      },
+      {
+        "label": "charge rate",
+        "value": "1A, 5W"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Moto Z Moto Z Droid Moto Z Play Moto Z Play Droid Moto Z Force Droid"
+      },
+      {
+        "label": "SPL",
+        "value": "80 dB at 1.6' (0.5 m)"
+      }
+    ],
+    "summary": "Give your music a boost with JBL SoundBoost Speaker moto mods. High-quality JBL audio and powerful stereo sound in a snap. Works with all moto z phones.",
+    "tagline": "high-quality JBL audio, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "JBL",
+    "category": "audio",
+    "categorySecondary": [],
+    "compatibilityRaw": "JBL SoundBoost 2 is compatible with any phone in the Moto Z Family",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Pump up the jam with the Moto JBL SoundBoost 2 Speaker Moto Mod in black. This Moto Mod snaps magnetically onto the back of any member of the Moto Z family of smartphones, adding a pair of 27mm speakers that put out a total of six watts of power for louder, more expansive sound. Speakerphone capability lets you use the SoundBoost 2 to take calls. An onboard 1000mAh battery lasts up to ten hours and can be recharged via its USB Type-C port.",
+    "facets": {
+      "batteryMah": 1000,
+      "dimensionsMm": "152 x 73 x 14.5 mm",
+      "weightG": 135.0
+    },
+    "features": [
+      {
+        "body": "Give your smartphone a boost with high-quality JBL stereo sound—in a snap",
+        "title": "JBL sound"
+      },
+      {
+        "body": "Designed for an immersive audio-visual experience that lasts for hours—anywhere",
+        "title": "built-in tech"
+      },
+      {
+        "body": "Advanced nano-coating technology creates a water-repellent barrier to help protect against moderate exposure to water, such as accidental spills, splashes, or light rain.",
+        "title": "Splashproof Nano-Coating"
+      },
+      {
+        "body": "A built-in kickstand in the middle of the SoundBoost 2 props up your smartphone. This is designed to make the sound more immersive, and makes for a convenient way to watch videos on your phone.",
+        "title": "Built-In Kickstand"
+      }
+    ],
+    "fit": "universal",
+    "id": "jbl-soundboost-2-speaker",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-jbl-soundboost-2-pdp-hero-d-us.jpg?itok=C1S-9Dbf&timestamp=1522186478"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-jbl-featgrid-large-Immersive-experience-d.jpg?itok=_3OpMDFw&timestamp=1522186499"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-jbl-featgrid-large-jbl-audio-d.jpg?itok=ThhN7788&timestamp=1522186501"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/moto-mods/mot-jbl-sounboost-2-pdp-halfcard-video-d.jpg?itok=pEDoehxH&timestamp=1522186551"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-build-your-own-mod-editorial.jpg?itok=abla8mea&timestamp=1522186049"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-compatible-phones-editorial.jpg?itok=D9hZfjSn&timestamp=1522186059"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-mod-editorial.jpg?itok=RktJPlFk&timestamp=1522186077"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-jbl-spec-summery-d.jpg?itok=Z6fdZO3H&timestamp=1522186531"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-jbl-specs-expanded-d.jpg?itok=_H3oU_Om&timestamp=1522186542"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/mods/jbl-soundboost-2-speaker/moto-mods-jbl-soundboost-2-logo.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/mods/jbl-soundboost-2-speaker/moto-mods-jbl-soundboost-2-wide.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#dc8a39",
+        "focusX": 0.55,
+        "focusY": 0.56,
+        "height": 1400,
+        "key": "mods/jbl-soundboost-2-speaker/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#49c3e2",
+        "focusX": 0.44,
+        "focusY": 0.5,
+        "height": 1640,
+        "key": "mods/jbl-soundboost-2-speaker/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#93443a",
+        "focusX": 0.5,
+        "focusY": 0.52,
+        "height": 1640,
+        "key": "mods/jbl-soundboost-2-speaker/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#392a2a",
+        "focusX": 0.47,
+        "focusY": 0.5,
+        "height": 640,
+        "key": "mods/jbl-soundboost-2-speaker/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#f7268c",
+        "focusX": 0.49,
+        "focusY": 0.51,
+        "height": 667,
+        "key": "mods/jbl-soundboost-2-speaker/gallery-5.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#45a416",
+        "focusX": 0.48,
+        "focusY": 0.5,
+        "height": 667,
+        "key": "mods/jbl-soundboost-2-speaker/gallery-6.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#fd7202",
+        "focusX": 0.48,
+        "focusY": 0.49,
+        "height": 667,
+        "key": "mods/jbl-soundboost-2-speaker/gallery-7.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.42,
+        "focusY": 0.52,
+        "height": 980,
+        "key": "mods/jbl-soundboost-2-speaker/spec-8.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/jbl-soundboost-2-speaker/logo-9.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "JBL SoundBoost 2 Speaker",
+    "relatedDocs": [
+      {
+        "title": "Audio protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/audio/"
+      }
+    ],
+    "slug": "jbl-soundboost-2-speaker",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/jbl-soundboost-2-speaker",
+      "https://www.bhphotovideo.com/c/product/1349421-REG/moto_pg38c01816_jbl_soundboost_speaker.html"
+    ],
+    "specs": [
+      {
+        "label": "dimensions",
+        "value": "152 x 73 x 14.5 mm"
+      },
+      {
+        "label": "weight",
+        "value": "135 g"
+      },
+      {
+        "label": "number of speakers",
+        "value": "2 @ 27 mm diameter, stereo sound"
+      },
+      {
+        "label": "speaker power",
+        "value": "6W Total - 3W per speaker"
+      },
+      {
+        "label": "frequency response range",
+        "value": "200Hz - 20 kHz"
+      },
+      {
+        "label": "loudness",
+        "value": "80 dBSPL @ 0.5m"
+      },
+      {
+        "label": "speakerphone support",
+        "value": "Yes"
+      },
+      {
+        "label": "integrated battery",
+        "value": "Yes"
+      },
+      {
+        "label": "battery size",
+        "value": "1000 mAh"
+      },
+      {
+        "label": "battery life",
+        "value": "10 hours"
+      },
+      {
+        "label": "external charging",
+        "value": "Yes"
+      },
+      {
+        "label": "charge rate",
+        "value": "1A/5W rate"
+      },
+      {
+        "label": "water protection",
+        "value": "Splashproof"
+      },
+      {
+        "label": "compatibility",
+        "value": "JBL SoundBoost 2 is compatible with any phone in the Moto Z Family"
+      },
+      {
+        "label": "Driver Size",
+        "value": "2 x 1.1\" (27.0 mm)"
+      },
+      {
+        "label": "SPL",
+        "value": "80 dB at 1.6' (0.5 m)"
+      },
+      {
+        "label": "Connector",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Charging Rate",
+        "value": "5 W, 1 A"
+      }
+    ],
+    "summary": "Instantly add JBL stereo sound to your smartphone for an immersive audio-visual experience anywhere. Comes with built-in kickstand, 10-hour battery, splash-proof coating, and speakerphone.",
+    "tagline": "the pocket-sized boombox that blasts for hours",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "mophie",
+    "category": "power",
+    "categorySecondary": [],
+    "compatibilityRaw": "The Moto Z Family of phones",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3150,
+      "dimensionsMm": "153.11 x 73.65 x 8.4 mm",
+      "weightG": 112.0
+    },
+    "features": [
+      {
+        "body": "Get 60% more juice, the instant you snap on the mophie juice pack",
+        "title": "Instant battery"
+      }
+    ],
+    "fit": "universal",
+    "id": "mophie-juice-pack",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/mophie-juice-pack/moto-mods-mophie-pdp-hero-d.jpg?itok=78zwL6_n&timestamp=1484345206"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/mophie-juice/mophie-new/mot-mods-incipio-powerpack-featuregrid-large-d.jpg?itok=f_-JOj22&timestamp=1484345240"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/mophie-juice-pack/moto-mods-mophie-pdp-featgrid-large-instantbattery-d.jpg?itok=hIroOSmi&timestamp=1484345210"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/moto-mods/mophie-juice/moto-mods-mophie-pdp-summary-d.jpg?itok=hW-5TgVr&timestamp=1484345246"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/moto-mods/mophie-juice/mophie-new/moto-mods-mophie-pdp-spec-summery-m-us.jpg?itok=zpzDd4Lm&timestamp=1484345250"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/moto-mods/mophie-juice/mophie-new/moto-mods-mophie-pdp-specsexpanded-d-us.jpg?itok=5kwhAI1Q&timestamp=1484345248"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-mods/mophie-juice/moto-mods-mophie-juicepack-ljbkxm9tx9.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-mods/mophie-juice/moto-mods-mophie-juicepack-ljbkxm9tx9ffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#8188a2",
+        "focusX": 0.59,
+        "focusY": 0.56,
+        "height": 1400,
+        "key": "mods/mophie-juice-pack/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#706769",
+        "focusX": 0.39,
+        "focusY": 0.55,
+        "height": 1640,
+        "key": "mods/mophie-juice-pack/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#6565aa",
+        "focusX": 0.48,
+        "focusY": 0.6,
+        "height": 1640,
+        "key": "mods/mophie-juice-pack/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.43,
+        "focusY": 0.5,
+        "height": 980,
+        "key": "mods/mophie-juice-pack/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#f2f2f2",
+        "focusX": 0.51,
+        "focusY": 0.49,
+        "height": 480,
+        "key": "mods/mophie-juice-pack/spec-5.jpg",
+        "role": "spec",
+        "width": 1000
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/mophie-juice-pack/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "mophie juice pack",
+    "relatedDocs": [
+      {
+        "title": "Power Transfer protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/power-transfer/"
+      },
+      {
+        "title": "Battery protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/battery/"
+      }
+    ],
+    "slug": "mophie-juice-pack",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/mophie-juice-pack"
+    ],
+    "specs": [
+      {
+        "label": "Compatible phones",
+        "value": "The Moto Z Family of phones"
+      },
+      {
+        "label": "Dimensions",
+        "value": "153.11 x 73.65 x 8.4mm"
+      },
+      {
+        "label": "Weight",
+        "value": "112 g"
+      },
+      {
+        "label": "Battery size",
+        "value": "3150 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "60% more battery life"
+      },
+      {
+        "label": "Charge rate with direct USB-C connection via wall charger",
+        "value": "3A, 15W"
+      },
+      {
+        "label": "Charge rate to phone",
+        "value": "4-6W"
+      },
+      {
+        "label": "Charge rate from phone via wall charger",
+        "value": "3A, 15W"
+      },
+      {
+        "label": "External charging connector",
+        "value": "USB-C"
+      }
+    ],
+    "summary": "Power when you need it",
+    "tagline": "Extreme power, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [
+      {
+        "award": "Red Dot Design Award",
+        "jury": "The Moto 360 Camera produces impressively sharp photos and videos which can be shared remarkably easily. Furthermore, the solution is very elegant.",
+        "tier": "Winner",
+        "url": "https://www.red-dot.org/project/moto-360-camera-24968-24967",
+        "year": 2018
+      }
+    ],
+    "brand": "Motorola",
+    "category": "camera",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Capture everything around you with the Moto 360 Camera Moto Mod. Like other Moto Mods, the 360 Camera snaps onto the back of any member of the Moto Z family of phones and is held in place with magnets. Its two 150° cameras shoot 4K 360° video and high-resolution stills and four microphones capture 3D sound. You can edit your media on your phone, share it, or live stream it over social media. A lens cover is included.",
+    "facets": {
+      "dimensionsMm": "153 x 73.4 x 6.6 mm",
+      "weightG": 95.0
+    },
+    "features": [],
+    "fit": "universal",
+    "id": "moto-360-camera",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-360-camera/moto-360-camera-pdp-hero-d.jpg?itok=4vADeunH&timestamp=1532228306"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_img_t_1.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_img_t_2.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_img_t_3.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_vid_t_1.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_vid_t_2.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-360-camera/360_vid_t_3.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-360-camera-new/moto-360-camera-wide-angle-image-grid-top-d.jpg?itok=b4vZLXAt&timestamp=1532228357"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-360-camera/moto-360-camera-360-4k-halfcard-d%20%281%29.jpg?itok=kqgMzbqb&timestamp=1532228316"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/moto-360-camera/heros-and-updates/moto-360-camera-pdp-image-grid-bottom-left-m%20%281%29.jpg?itok=eIvNN0vn&timestamp=1532228376"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-360-camera-new/moto-360-camera-pdp-image-grid-bottom-right-m.jpg?itok=GrUPB3-O&timestamp=1532228371"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-360-camera-new/moto-360-camera-wide-angle-halfcard-m.jpg?itok=GYq9KXFh&timestamp=1532228326"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/storage/products/moto-mods/moto-360-camera/heros-and-updates/moto-360-camera-pdp-image-grid-bottom-left-d-2.jpg?itok=h4s9xx8n&timestamp=1532228369"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-360-camera-new/moto-360-camera-pdp-image-grid-bottom-right-d%20%282%29.jpg?itok=LYOwjmuU&timestamp=1532228367"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/moto-360-camera/moto-360-spec-summery-d%20%281%29.jpg?itok=BP8J8Wvr&timestamp=1532228312"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-360-camera/moto-360-spec-summery-m.jpg?itok=4V_HTcPW&timestamp=1532228328"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/storage/products/moto-mods/moto-360-camera/moto-moto360-specs-expanded-glo.png?itok=9xV1xidP&timestamp=1532228319"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-360-camera-new/moto-mods-360-camera-000000.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-360-camera/moto-mods-360-camera.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#02435d",
+        "focusX": 0.54,
+        "focusY": 0.49,
+        "height": 1400,
+        "key": "mods/moto-360-camera/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#567589",
+        "focusX": 0.6,
+        "focusY": 0.68,
+        "height": 230,
+        "key": "mods/moto-360-camera/gallery-2.jpg",
+        "role": "gallery",
+        "width": 334
+      },
+      {
+        "bg": "#6a3a21",
+        "focusX": 0.67,
+        "focusY": 0.43,
+        "height": 230,
+        "key": "mods/moto-360-camera/gallery-3.jpg",
+        "role": "gallery",
+        "width": 334
+      },
+      {
+        "bg": "#5787a7",
+        "focusX": 0.49,
+        "focusY": 0.63,
+        "height": 230,
+        "key": "mods/moto-360-camera/gallery-4.jpg",
+        "role": "gallery",
+        "width": 334
+      },
+      {
+        "bg": "#775b25",
+        "focusX": 0.49,
+        "focusY": 0.45,
+        "height": 230,
+        "key": "mods/moto-360-camera/gallery-5.jpg",
+        "role": "gallery",
+        "width": 334
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.44,
+        "focusY": 0.48,
+        "height": 980,
+        "key": "mods/moto-360-camera/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-360-camera/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto 360 Camera",
+    "relatedDocs": [
+      {
+        "title": "Camera Controls",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/camera-controls/"
+      }
+    ],
+    "slug": "moto-360-camera",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-360-camera",
+      "https://www.bhphotovideo.com/c/product/1344089-REG/motorola_89596n_360_camera.html",
+      "https://www.red-dot.org/project/moto-360-camera-24968-24967"
+    ],
+    "specs": [
+      {
+        "label": "FOV",
+        "value": "360° spherical panorama"
+      },
+      {
+        "label": "Sensor resolution",
+        "value": "2 × 13 MP"
+      },
+      {
+        "label": "Video resolution",
+        "value": "360° 4K at 24 fps"
+      },
+      {
+        "label": "Sensor size",
+        "value": "2 × 1/2.8”"
+      },
+      {
+        "label": "Pixel size",
+        "value": "1.25 μm"
+      },
+      {
+        "label": "Aperture",
+        "value": "f/2.0"
+      },
+      {
+        "label": "Shutter speed",
+        "value": "1/30 sec"
+      },
+      {
+        "label": "ISO equivalent (pro mode)",
+        "value": "Auto, 100, 200, 400, 800, 1600, 3200"
+      },
+      {
+        "label": "White balance (pro mode)",
+        "value": "Auto, Incandescent, Fluorescent, Sunny, Shade"
+      },
+      {
+        "label": "Audio recording",
+        "value": "3D sound (4 channel ambisonic)"
+      },
+      {
+        "label": "Capture modes",
+        "value": "Photo, Video, Live, Ultra Wide-Angle Front and Rear, Professional Mode"
+      },
+      {
+        "label": "File format",
+        "value": "Still: JPG Video: MPEG4"
+      },
+      {
+        "label": "Advanced editing on phone",
+        "value": "Photo: Flat crop, 360 crop, Filter, Adjust (Exposure, Contrast, Vibrance, Hue) Video: Trim, Compile, Video Snapshot, Director’s Cut"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Moto Z family of smartphones"
+      },
+      {
+        "label": "Lens Angle",
+        "value": "2 x 150°"
+      },
+      {
+        "label": "Microphones",
+        "value": "4"
+      },
+      {
+        "label": "Dimensions",
+        "value": "6.02 x 2.89 x 0.26\" / 153 x 73.4 x 6.6 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "0.2 lb / 95 g"
+      }
+    ],
+    "summary": "Capture, edit, and live stream 360° photos and videos with immersive 3D audio. Share moments in 4K, in real time, from any moto z.",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "connectivity",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 2000
+    },
+    "features": [
+      {
+        "body": "The Mod architecture put the 5G radio and its antennas outside the phone, so the network upgrade did not need a new handset. It is the clearest demonstration of what modular hardware was for.",
+        "title": "A modem you could add later"
+      },
+      {
+        "body": "Millimetre-wave spectrum, for what Verizon described as massive bandwidth, ultra-high speeds and single-digit millisecond latency.",
+        "title": "Verizon 5G Ultra Wideband"
+      },
+      {
+        "body": "Outside a 5G Ultra Wideband area the phone switches to Verizon 4G LTE without the user doing anything.",
+        "title": "Falls back on its own"
+      },
+      {
+        "body": "Data over 5G Ultra Wideband was unlimited with no de-prioritisation, and the connection could be shared as a Wi-Fi hotspot or by tethering.",
+        "title": "Unlimited, and shareable"
+      },
+      {
+        "body": "A 2000 mAh cell inside the Mod, so driving the 5G radio did not drain the phone.",
+        "title": "Its own battery"
+      }
+    ],
+    "fit": "universal",
+    "id": "moto-5g",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-5g/moto-5g-hero_d.jpg?itok=qW2ZVK5t&timestamp=1533243833"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-5g/5g-assets_d.jpg?itok=9eZ3vWyV&timestamp=1533243857"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-5g/lockup-moto-5g-v2.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#b4281e",
+        "focusX": 0.55,
+        "focusY": 0.47,
+        "height": 1400,
+        "key": "mods/moto-5g/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#ebebeb",
+        "focusX": 0.5,
+        "focusY": 0.48,
+        "height": 1896,
+        "key": "mods/moto-5g/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-5g/logo-3.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto 5G Mod",
+    "relatedDocs": [
+      {
+        "title": "USB-Ext protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/usb-ext/"
+      }
+    ],
+    "slug": "moto-5g",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-5g",
+      "https://www.verizon.com/support/5g-moto-mod-faqs/",
+      "https://www.verizon.com/about/news/verizon-and-motorola-unveil-worlds-first-5g-upgradable-smartphone--moto-z3",
+      "https://www.verizon.com/about/news/verizon-5g-mobility-service-and-motorola-5g-smartphone-are-here"
+    ],
+    "specs": [
+      {
+        "label": "Network",
+        "value": "Verizon 5G Ultra Wideband, millimetre wave"
+      },
+      {
+        "label": "Outside 5G coverage",
+        "value": "Switches automatically to Verizon 4G LTE"
+      },
+      {
+        "label": "Data",
+        "value": "Unlimited on 5G Ultra Wideband, with no de-prioritisation"
+      },
+      {
+        "label": "Battery size",
+        "value": "2000 mAh"
+      },
+      {
+        "label": "Sharing",
+        "value": "Shares the 5G connection as a Wi-Fi hotspot, or by tethering"
+      },
+      {
+        "label": "Compatible phones",
+        "value": "Moto Z3 and Moto Z4 sold by Verizon"
+      },
+      {
+        "label": "Plan requirement",
+        "value": "A Verizon Unlimited plan with 5G Ultra Wideband service added to the line"
+      },
+      {
+        "label": "Availability",
+        "value": "United States, exclusive to Verizon"
+      },
+      {
+        "label": "Purchase limit",
+        "value": "One per eligible line"
+      }
+    ],
+    "summary": "Verizon called the Moto Z3 with the 5G moto mod \"the world’s first 5G-upgradeable smartphone\". Rather than wait for a new handset, Motorola put the millimetre-wave radio in a Mod: snap it on and a phone that shipped in 2018 joined the 5G network that went live in 2019. When Verizon switched on 5G Ultra Wideband mobility in Chicago and Minneapolis on 11 April 2019, this was the device it launched with.",
+    "tagline": "The first phone you could upgrade to 5G",
+    "timeline": [
+      {
+        "date": "2018",
+        "event": "Verizon and Motorola unveil the Moto Z3 as the first 5G-upgradeable smartphone, with the 5G moto mod to follow."
+      },
+      {
+        "date": "October 2018",
+        "event": "Verizon launches what it calls the world’s first commercial 5G Ultra Wideband network, as 5G Home broadband in Houston, Los Angeles, Sacramento and Indianapolis."
+      },
+      {
+        "date": "14 March 2019",
+        "event": "Preorders open for the 5G moto mod."
+      },
+      {
+        "date": "11 April 2019",
+        "event": "Verizon switches on 5G Ultra Wideband mobility in Chicago and Minneapolis. The Moto Z3 with the 5G moto mod is the launch device."
+      },
+      {
+        "date": "Through 2019",
+        "event": "Verizon says more than 30 markets are set to launch."
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "style",
+    "categorySecondary": [],
+    "compatibilityRaw": "moto folio is compatible with any phone in the moto z family .",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "dimensionsMm": "156.1 x 74 x 3.5 mm",
+      "weightG": 55.0
+    },
+    "features": [],
+    "fit": "per-model",
+    "id": "moto-folio",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-folio/moto-folio-pdp-hero-m-v2.jpg?itok=JJrYxlxx&timestamp=1529945720"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-folio/moto-folio-pdp-hero-d-v2.jpg?itok=SG2jICaT&timestamp=1529945713"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-folio/moto-folio-spec-summery-d-v2.png?itok=I14UJp09&timestamp=1529945728"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-folio/moto-folio-spec-summery-m-v2.png?itok=yNN-s8Q0&timestamp=1529945762"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-mods/moto-folio/moto-folio-specs-expanded-d.jpg?itok=5s9edcJm&timestamp=1529945754"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-folio/moto-mods-folio-46C8E1.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#01bfd9",
+        "focusX": 0.45,
+        "focusY": 0.49,
+        "height": 780,
+        "key": "mods/moto-folio/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#000000",
+        "focusX": 0.29,
+        "focusY": 0.4,
+        "height": 980,
+        "key": "mods/moto-folio/spec-2.png",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-folio/logo-3.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Folio",
+    "relatedDocs": [
+      {
+        "title": "Mod Management",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/mod-management/"
+      }
+    ],
+    "slug": "moto-folio",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-folio"
+    ],
+    "specs": [
+      {
+        "label": "Protect your phone",
+        "value": "Chuck your phone in your pocket or bag and go. moto folio protects against everyday scratches and bumps."
+      },
+      {
+        "label": "Travel lighter",
+        "value": "The internal card slot holds one credit card or ID. A secure magnetic closure keeps the case from popping open."
+      },
+      {
+        "label": "Express your style",
+        "value": "Available in Super Black, Fine Gold, Grape Juice, Felt Grey, Melange Pink, and Oxford Blue designs."
+      },
+      {
+        "label": "Dimensions",
+        "value": "156.1 x 74 x 3.5 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "55 g"
+      },
+      {
+        "label": "Compatibility",
+        "value": "moto folio is compatible with any phone in the moto z family."
+      }
+    ],
+    "summary": "moto folio protects your phone from everyday bumps and dings, while adding a touch of style and compact storage for a credit card or ID. Choose from six expressive colors.",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [
+      {
+        "award": "Red Dot Design Award",
+        "jury": "With the Moto Gamepad, control of a video game by smartphone is significantly easier to accomplish. Its dynamic design is also convincing.",
+        "tier": "Winner",
+        "url": "https://www.red-dot.org/project/moto-gamepad-24946-24945",
+        "year": 2018
+      },
+      {
+        "award": "iF Design Award",
+        "jury": "In collaboration with Lenovo's Legion gaming division, Gamepad Mod designed for Moto Z series phones offers the best analog gaming experience on mobile. The Mod platform connector helps to avoid controller lag and troublesome Bluetooth connections relied upon by competitors.",
+        "tier": "Product Design, Gaming/VR/AR",
+        "url": "https://ifdesign.com/en/winner-ranking/project/moto-gamepad-mod/259912",
+        "year": 2019
+      }
+    ],
+    "brand": "Motorola",
+    "category": "input",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Take charge of your games with the Moto Gamepad Moto Mod. Like other Moto Mods, the Gamepad snaps onto the back of any member of the Moto Z family of phones and is held in place with magnets. This Moto Mod adds physical gaming controls to your device and uses the Moto Mods connector for a direct link with your phone, avoiding the lag that can occur with wireless connections like Bluetooth.",
+    "facets": {
+      "batteryMah": 1035,
+      "dimensionsMm": "226 x 75.9 x 24.4 mm",
+      "weightG": 140.0
+    },
+    "features": [],
+    "fit": "universal",
+    "id": "moto-gamepad-console",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/gamepad-hero-updates/mot-gamepad-pdp-hero-m-glo%20%281%29.jpg?itok=hIWDMwg3&timestamp=1525878080"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/storage/products/gamepad-hero-updates/mot-gamepad-pdp-hero-d-glo-2.jpg?itok=vtFzUoDc&timestamp=1525878066"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-gamepad-console/mot-gamepad-pdp-lifestyle-top-d-us.jpg?itok=dPKYcfXU&timestamp=1522186469"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-gamepad-console/mot-gamepad-pdp-lifestyle-bottom-right-m-glo%20%281%29.jpg?itok=gM3nI5i4&timestamp=1522186482"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-gamepad-console/mot-gamepad-pdp-lifestyle-bottom-left-d-us.jpg?itok=-4DQ1AbR&timestamp=1522186471"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-gamepad-console/mot-gamepad-pdp-lifestyle-bottom-right-d-glo%20%281%29.jpg?itok=Jw1DkgkF&timestamp=1522186497"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/moto-gamepad/mot-gamepad-pdp-friendlyspecs-d%20%281%29.jpg?itok=0CIqR89b&timestamp=1525878084"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/moto-gamepad/mot-gamepad-pdp-friendlyspecs-m.jpg?itok=GQzG70HA&timestamp=1525878079"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-mods/moto-gamepad-console/mot-gamepad-expanded-specs-d-us.png?itok=VXn0SCV4&timestamp=1522186477"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/06-01-2017/moto_gamepad_logo_black.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-gamepad/moto_gamepad_logo_white.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#d7220e",
+        "focusX": 0.49,
+        "focusY": 0.47,
+        "height": 780,
+        "key": "mods/moto-gamepad-console/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#191311",
+        "focusX": 0.69,
+        "focusY": 0.45,
+        "height": 700,
+        "key": "mods/moto-gamepad-console/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#1d1e13",
+        "focusX": 0.45,
+        "focusY": 0.48,
+        "height": 1150,
+        "key": "mods/moto-gamepad-console/gallery-3.jpg",
+        "role": "gallery",
+        "width": 1534
+      },
+      {
+        "bg": "#28150e",
+        "focusX": 0.49,
+        "focusY": 0.43,
+        "height": 700,
+        "key": "mods/moto-gamepad-console/gallery-4.jpg",
+        "role": "gallery",
+        "width": 1920
+      },
+      {
+        "bg": "#281b10",
+        "focusX": 0.48,
+        "focusY": 0.49,
+        "height": 700,
+        "key": "mods/moto-gamepad-console/gallery-5.jpg",
+        "role": "gallery",
+        "width": 1920
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.4,
+        "focusY": 0.47,
+        "height": 980,
+        "key": "mods/moto-gamepad-console/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-gamepad-console/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto GamePad",
+    "relatedDocs": [
+      {
+        "title": "HID protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/hid/"
+      }
+    ],
+    "slug": "moto-gamepad-console",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-gamepad-console",
+      "https://www.bhphotovideo.com/c/product/1344102-REG/motorola_pg38c01911_gamepad.html",
+      "https://www.red-dot.org/project/moto-gamepad-24946-24945",
+      "https://ifdesign.com/en/winner-ranking/project/moto-gamepad-mod/259912"
+    ],
+    "specs": [
+      {
+        "label": "dimensions",
+        "value": "226 x 75.9 x 24.4 mm"
+      },
+      {
+        "label": "weight",
+        "value": "140g"
+      },
+      {
+        "label": "controls",
+        "value": "A/B/X/Y/L1/R1/L2/R2/L3D/R3D/D-PAD/HOME/SELECT/START"
+      },
+      {
+        "label": "ports",
+        "value": "USB-C for charging, 3.5mm headset jack, moto mods connector"
+      },
+      {
+        "label": "battery size",
+        "value": "1035 mAh"
+      },
+      {
+        "label": "battery life",
+        "value": "Up to 8 hours of game play"
+      },
+      {
+        "label": "LED lights",
+        "value": "Red dual LED lights that respond to controls"
+      },
+      {
+        "label": "charge rate",
+        "value": "500mA, 5V"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Moto Z family of smartphones"
+      },
+      {
+        "label": "Connector 2",
+        "value": "USB Type-C, female"
+      },
+      {
+        "label": "Connector 3",
+        "value": "3.5 mm audio, female"
+      },
+      {
+        "label": "Charging Rate",
+        "value": "5 W, 1 A"
+      }
+    ],
+    "summary": "Enjoy a true gaming experience in a handheld console equipped with dual control sticks, a d-pad, and four action buttons. Built-in 1035 mAh battery, so you're free to play without draining your phone's battery.",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "projection",
+    "categorySecondary": [],
+    "compatibilityRaw": "The Moto Z Family of phones",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Take a movie theater on the go with the Motorola Insta-Share Projector Moto Mod. This Moto Mod, designed for use with the Motorola Moto Z family of smartphones, attaches magnetically to the back of your device and pairs nearly instantly, allowing you to project your screen onto nearly any flat surface. Its 50-lumen bulb projects an image up to 70\" diagonally. An 1100mAh battery provides up to an extra hour of projection time and an integrated kickstand lets you project at any angle. A carrying pouch is included.",
+    "facets": {
+      "batteryMah": 1100,
+      "dimensionsMm": "153 x 74 x 11 mm",
+      "weightG": 125.0
+    },
+    "features": [
+      {
+        "body": "Life-size entertainment in places you never imagined",
+        "title": "project + share"
+      },
+      {
+        "body": "Packed with built-ins to make sharing awesome and simple",
+        "title": "features"
+      }
+    ],
+    "fit": "universal",
+    "id": "moto-insta-share-projector",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/moto-mods/feature-grid-new-viz-id/mot-insta-share-projector-pdp-hero-d.jpg?itok=HJZqnnXL&timestamp=1528734657"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/feature-grid-new-viz-id/mot-insta-share-projector-pdp-feature-grid-1-2x2-d.jpg?itok=2e4-gwFi&timestamp=1528734664"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/feature-grid-new-viz-id/mot-insta-share-projector-pdp-feature-grid-2-1x2-d.jpg?itok=rPhoyzrF&timestamp=1528734672"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/moto-mods/feature-grid-new-viz-id/mot-insta-share-projector-pdp-feature-grid-3-1x2-d.jpg?itok=6XhVSK7h&timestamp=1528734693"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/footer-social-icons/icon_instagram.png"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/mods/insta-share-projector/mot-insta-share-projector-pdp-summary-d2.jpg?itok=WCuvy_94&timestamp=1528734706"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/mods/insta-share-projector/mot-mods-pdp-summary-insta-share-projector-us-m0seaxm7m.jpg?itok=mh72CuTf&timestamp=1528734735"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/mods/insta-share-projector/mot-mods-pdp-summary-expanded-insta-share-projector-global-dzj3myvs8.jpg?itok=fK9F2iqT&timestamp=1528734733"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/mot-mods-moto-insta-share-projectorf6qyda9eq3g3b5xl.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/mot-mods-moto-insta-share-projectorf6qyda9eq3g3b5xlffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#006fb4",
+        "focusX": 0.6,
+        "focusY": 0.52,
+        "height": 1400,
+        "key": "mods/moto-insta-share-projector/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#2e4b70",
+        "focusX": 0.48,
+        "focusY": 0.51,
+        "height": 1640,
+        "key": "mods/moto-insta-share-projector/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#52befe",
+        "focusX": 0.44,
+        "focusY": 0.56,
+        "height": 820,
+        "key": "mods/moto-insta-share-projector/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#64606b",
+        "focusX": 0.48,
+        "focusY": 0.52,
+        "height": 820,
+        "key": "mods/moto-insta-share-projector/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.45,
+        "focusY": 0.49,
+        "height": 506,
+        "key": "mods/moto-insta-share-projector/gallery-6.jpg",
+        "role": "gallery",
+        "width": 1982
+      },
+      {
+        "bg": "#ececec",
+        "focusX": 0.47,
+        "focusY": 0.5,
+        "height": 480,
+        "key": "mods/moto-insta-share-projector/gallery-7.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.48,
+        "focusY": 0.46,
+        "height": 513,
+        "key": "mods/moto-insta-share-projector/gallery-8.jpg",
+        "role": "gallery",
+        "width": 600
+      }
+    ],
+    "name": "Moto Insta-Share Projector",
+    "relatedDocs": [
+      {
+        "title": "Display protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/display/"
+      }
+    ],
+    "slug": "moto-insta-share-projector",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-insta-share-projector",
+      "https://www.bhphotovideo.com/c/product/1274448-REG/motorola_89866n_moto_insta_share_projector.html"
+    ],
+    "specs": [
+      {
+        "label": "compatible phones",
+        "value": "The Moto Z Family of phones"
+      },
+      {
+        "label": "dimensions",
+        "value": "153 x 74 x 11mm"
+      },
+      {
+        "label": "weight",
+        "value": "125g"
+      },
+      {
+        "label": "resolution",
+        "value": "854x480 WVGA (480p)"
+      },
+      {
+        "label": "projector technology",
+        "value": "DLP"
+      },
+      {
+        "label": "brightness",
+        "value": "50 lumens nominal"
+      },
+      {
+        "label": "contrast ratio",
+        "value": "400:1"
+      },
+      {
+        "label": "throw ratio",
+        "value": "1.2"
+      },
+      {
+        "label": "image size",
+        "value": "Up to 70\" diagonal"
+      },
+      {
+        "label": "aspect ratio",
+        "value": "16:9"
+      },
+      {
+        "label": "wireless",
+        "value": "Moto Z phone cellular and wifi data"
+      },
+      {
+        "label": "lamp life rating",
+        "value": "10,000 hours"
+      },
+      {
+        "label": "keystone correction",
+        "value": "40º to 40º"
+      },
+      {
+        "label": "physical button control",
+        "value": "Power/settings, Manual focus"
+      },
+      {
+        "label": "settings options",
+        "value": "Image tilt, Brightness"
+      },
+      {
+        "label": "battery size",
+        "value": "1100 mAh"
+      },
+      {
+        "label": "battery life",
+        "value": "Adds up to 60 minutes of projection time"
+      },
+      {
+        "label": "external charging",
+        "value": "USB Type C"
+      },
+      {
+        "label": "audio output",
+        "value": "Speaker, Bluetooth or USB-C from Moto Z phone"
+      },
+      {
+        "label": "display input",
+        "value": "Moto Z phone"
+      },
+      {
+        "label": "carrying pouch",
+        "value": "Included"
+      }
+    ],
+    "summary": "Instantly turn any flat surface into a 70\" big screen with moto insta-share projector moto mods. Use the integrated kickstand to project at any angle.",
+    "tagline": "your phone transforms into a projector, in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "power",
+    "categorySecondary": [],
+    "compatibilityRaw": "moto power pack is compatible with any phone in the Moto Z Family",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "The Moto Mod Power Pack from Motorola is an add-on for your Moto Z smartphone that adds 2200 mAh of extra power to help you get through your day. It installs easily thanks to its snap-on design and adds minimal bulk to the phone. Moreover, its efficiency mode automatically charges your phone only when needed.",
+    "facets": {
+      "batteryMah": 2220,
+      "dimensionsMm": "152.9 x 73.32 x 4.99 mm",
+      "weightG": 72.0
+    },
+    "features": [
+      {
+        "body": "Give your phone’s battery its life back",
+        "title": "power boost"
+      },
+      {
+        "body": "It’s your phone’s best kept secret",
+        "title": "super-thin"
+      }
+    ],
+    "fit": "universal",
+    "id": "moto-power-pack",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/power-pack-refresh-9-27-17/moto-powerpack-pdp-hero-m-global.jpg?itok=eN9DqUim&timestamp=1528388886"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/power-pack-refresh-9-27-17/moto-powerpack-pdp-hero-d-global.jpg?itok=74eIQ9D5&timestamp=1528388883"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/uk/products/moto-mods/moto-power-pack/desktop/moto-powerpack-pdp-featgrid-1x2-mods-d.jpg?itok=UBmJiUeu&timestamp=1528388927"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/power-pack-refresh-9-27-17/moto-powerpack-pdp-feature-grid-boost-2x2-d.jpg?itok=Mx0eXdH8&timestamp=1528388893"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/power-pack-refresh-9-27-17/moto-powerpack-pdp-feature-grid-thin-1x2-d.jpg?itok=0AIi-4o5&timestamp=1528388914"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-mods/moto-power-pack/desktop/moto-powerpack-pdp-spec-summery-d.jpg?itok=HVVUsTCI&timestamp=1528388933"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/uk/products/moto-mods/moto-power-pack/desktop/moto-powerpack-pdp-specs-expanded-d.jpg?itok=CA7SY9bk&timestamp=1528388944"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/uk/products/moto-mods/moto-power-pack/moto-powerpack-logo-333f48.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/uk/products/moto-mods/moto-power-pack/moto-powerpack-logo-fff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#1083c0",
+        "focusX": 0.51,
+        "focusY": 0.51,
+        "height": 780,
+        "key": "mods/moto-power-pack/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#4c393a",
+        "focusX": 0.45,
+        "focusY": 0.54,
+        "height": 820,
+        "key": "mods/moto-power-pack/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#238ecb",
+        "focusX": 0.49,
+        "focusY": 0.55,
+        "height": 1640,
+        "key": "mods/moto-power-pack/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#42c3df",
+        "focusX": 0.5,
+        "focusY": 0.49,
+        "height": 820,
+        "key": "mods/moto-power-pack/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.45,
+        "focusY": 0.5,
+        "height": 980,
+        "key": "mods/moto-power-pack/spec-5.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-power-pack/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Power Pack",
+    "relatedDocs": [
+      {
+        "title": "Power Transfer protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/power-transfer/"
+      },
+      {
+        "title": "Battery protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/battery/"
+      }
+    ],
+    "slug": "moto-power-pack",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-power-pack",
+      "https://www.bhphotovideo.com/c/product/1344087-REG/motorola_89912n_power_pack.html"
+    ],
+    "specs": [
+      {
+        "label": "Compatibility",
+        "value": "moto power pack is compatible with any phone in the Moto Z Family"
+      },
+      {
+        "label": "Dimensions",
+        "value": "152.9 x 73.32 x 4.99 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "72g"
+      },
+      {
+        "label": "Battery size",
+        "value": "2220 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Adds up to 16 hours of battery"
+      },
+      {
+        "label": "Charge rate to phone",
+        "value": "4–6W"
+      },
+      {
+        "label": "Charge rate from phone via 15W wall charger",
+        "value": "11W"
+      }
+    ],
+    "summary": "Free your phone, free yourself. Get the ultra-slim, portable battery pack that seamlessly integrates with your phone. No cords. No wall outlets. No bulk. Just snap it on for long-lasting battery life when you need it. So you can keep doing you. Wherever you are.",
+    "tagline": "recharge anywhere, in a snap",
+    "timeline": [],
+    "year": 2018
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "audio",
+    "categorySecondary": [],
+    "compatibilityRaw": "moto smart speaker with Amazon Alexa is compatible with any phone in the moto z family .",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Add the power and prescience of Amazon Alexa to your Moto Z smartphone with the Moto Smart Speaker from Motorola. This 2-in-1 mod is both a powerful speaker and digital assistant. It docks to the back of your Moto Z and, once attached, gives you full access to Amazon Alexa, including a special visual interface that displays the answers to your questions on your phone's screen. Ask for sport scores, get weather updates, check your calendar, set appointment reminders, and much more. Much like the full-sized Alexa speakers, this Moto Mod has an LED light ring to let you know when Alexa is working on your query.",
+    "facets": {
+      "batteryMah": 1530,
+      "dimensionsMm": "153.2 x 73.2 x 22.8 mm",
+      "weightG": 168.0
+    },
+    "features": [],
+    "fit": "universal",
+    "id": "moto-smart-speaker-with-amazon-alexa",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/moto-smart-speaker-alexa/moto-alexa-pdp-hero-m-na.jpg?itok=kiVeNJNr&timestamp=1528749443"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/storage/products/moto-mods/moto-smart-speaker-alexa/moto-alexa-pdp-hero-d-na4.jpg?itok=iKQFykEd&timestamp=1528749447"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/moto-alexa-pdp-halfcard-video-d.jpg?itok=xlCJNQy4&timestamp=1528749505"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-build-your-own-mod-editorial.jpg?itok=abla8mea&timestamp=1528832383"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-compatible-phones-editorial.jpg?itok=D9hZfjSn&timestamp=1528832374"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/mods/jbl-soundboost-2-speaker/mot-mod-editorial.jpg?itok=RktJPlFk&timestamp=1528832377"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-smart-speaker-with-amazon-alexa/alexa-mod-pdp-editorial-card-1-stereo-d.jpg?itok=Z6t5ectS&timestamp=1528749478"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-smart-speaker-with-amazon-alexa/alexa-mod-pdp-editorial-card-2-dock-d-na-uk.jpg?itok=lCWUJLIv&timestamp=1528749497"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-smart-speaker-with-amazon-alexa/alexa-mod-pdp-editorial-card-3-power-d.jpg?itok=9L6oWy15&timestamp=1528749496"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/moto-smart-speaker-alexa/mot-alexa-spec-summery-d.jpg?itok=hV5IELT5&timestamp=1528749459"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/storage/products/moto-mods/moto-smart-speaker-alexa/mot-alexa-pdp-specs-expanded.png?itok=lkcKWYCe&timestamp=1528749474"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/Alexa/alexa_home_icon.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/Alexa/alexa_music_icon.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/Alexa/alexa_speach_icon.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/Alexa/alexa_weather_icon.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/moto-mods-alexa-from-amazon.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/moto-mods-alexa-from-amazon000000.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#c9beba",
+        "focusX": 0.5,
+        "focusY": 0.56,
+        "height": 780,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#173a4e",
+        "focusX": 0.51,
+        "focusY": 0.52,
+        "height": 640,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#f7268c",
+        "focusX": 0.49,
+        "focusY": 0.51,
+        "height": 667,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/gallery-3.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#45a416",
+        "focusX": 0.48,
+        "focusY": 0.5,
+        "height": 667,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/gallery-4.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#fd7202",
+        "focusX": 0.48,
+        "focusY": 0.49,
+        "height": 667,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/gallery-5.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.42,
+        "focusY": 0.51,
+        "height": 980,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-smart-speaker-with-amazon-alexa/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Smart Speaker with Amazon Alexa",
+    "relatedDocs": [
+      {
+        "title": "Audio protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/audio/"
+      }
+    ],
+    "slug": "moto-smart-speaker-with-amazon-alexa",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-smart-speaker-with-amazon-alexa",
+      "https://www.bhphotovideo.com/c/product/1366963-REG/moto_pg38c02060_alexa_moto_mod.html"
+    ],
+    "specs": [
+      {
+        "label": "Dimensions",
+        "value": "153.2 x 73.2 x 22.8 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "168 g"
+      },
+      {
+        "label": "Number of microphones",
+        "value": "4 far field microphones"
+      },
+      {
+        "label": "Number of speakers",
+        "value": "2 @ 27 mm diameter, stereo sound"
+      },
+      {
+        "label": "Speaker power",
+        "value": "6W"
+      },
+      {
+        "label": "Frequency response range",
+        "value": "200 Hz - 20 kHz"
+      },
+      {
+        "label": "Loudness",
+        "value": "82 dBSPL @ 0.5m"
+      },
+      {
+        "label": "Speakerphone support",
+        "value": "Yes"
+      },
+      {
+        "label": "Integrated battery",
+        "value": "Yes"
+      },
+      {
+        "label": "Battery size",
+        "value": "1530 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Up to 15 hours"
+      },
+      {
+        "label": "External charging",
+        "value": "Yes"
+      },
+      {
+        "label": "Charge rate",
+        "value": "1.5A/7.5W rate"
+      },
+      {
+        "label": "Water protection",
+        "value": "Splashproof"
+      },
+      {
+        "label": "Compatibility",
+        "value": "moto smart speaker with Amazon Alexa is compatible with any phone in the moto z family."
+      },
+      {
+        "label": "Ports",
+        "value": "1x USB Type-C (standalone charging, dock mode)"
+      }
+    ],
+    "summary": "Make anywhere feel like home with Amazon Alexa in a dockable, travel-friendly design. Ask Alexa for your to-do list, calendar, weather forecast, and music controls.",
+    "tagline": "meet our smartest, loudest speaker yet",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [
+      {
+        "award": "Red Dot Design Award",
+        "jury": "With its sporty design and cleverly integrated stand, the speaker folio convinces right down the line.",
+        "tier": "Winner",
+        "url": "https://www.red-dot.org/project/moto-stereo-speaker-mod-24718-24717",
+        "year": 2018
+      },
+      {
+        "award": "iF Design Award",
+        "jury": "The Stereo Speaker Mod design is playful yet highly refined, sporting a colourful and durable exterior. The radial speaker pattern and circular full-metal kickstand (50°) provide superior product performance.",
+        "tier": "Product Design, Audio",
+        "url": "https://ifdesign.com/en/winner-ranking/project/moto-speaker-mod/259104",
+        "year": 2019
+      }
+    ],
+    "brand": "Motorola",
+    "category": "audio",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "dimensionsMm": "153 x 73 x 15 mm",
+      "weightG": 102.0
+    },
+    "features": [],
+    "fit": "universal",
+    "id": "moto-stereo-speaker",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-stereo-speaker/moto-stereo-pdp-hero-blue-d.jpg?itok=_XWyhA_v&timestamp=1530115779"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-mods/moto-stereo-speaker/moto-stereo-pdp-editorial-card-1-speakerphone-red-d.jpg?itok=HT0PMQ7X&timestamp=1530115824"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-mods/moto-stereo-speaker/moto-stereo-pdp-editorial-card-2-kickstand-blk-d.jpg?itok=foXzIb8i&timestamp=1530115831"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-mods/moto-stereo-speaker/moto-stereo-pdp-editorial-card-3-battery-blue-d.jpg?itok=Hyeg4txy&timestamp=1530115837"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/moto-stereo-speaker/moto-stereo-speaker-logo-333f48.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-stereo-speaker/moto-stereo-speaker-logo-ffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#63bf4f",
+        "focusX": 0.55,
+        "focusY": 0.48,
+        "height": 1400,
+        "key": "mods/moto-stereo-speaker/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.63,
+        "height": 493,
+        "key": "mods/moto-stereo-speaker/gallery-2.jpg",
+        "role": "gallery",
+        "width": 740
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.47,
+        "focusY": 0.52,
+        "height": 493,
+        "key": "mods/moto-stereo-speaker/gallery-3.jpg",
+        "role": "gallery",
+        "width": 740
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.48,
+        "focusY": 0.55,
+        "height": 493,
+        "key": "mods/moto-stereo-speaker/gallery-4.jpg",
+        "role": "gallery",
+        "width": 740
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-stereo-speaker/logo-5.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Stereo Speaker",
+    "relatedDocs": [
+      {
+        "title": "Audio protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/audio/"
+      }
+    ],
+    "slug": "moto-stereo-speaker",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-stereo-speaker",
+      "https://www.red-dot.org/project/moto-stereo-speaker-mod-24718-24717",
+      "https://ifdesign.com/en/winner-ranking/project/moto-speaker-mod/259104"
+    ],
+    "specs": [
+      {
+        "label": "Battery life",
+        "value": "Powered by attached phone."
+      },
+      {
+        "label": "Charging",
+        "value": "No charging required."
+      },
+      {
+        "label": "Dimensions",
+        "value": "153 x 73 x 15 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "102g"
+      },
+      {
+        "label": "Integrated kickstand",
+        "value": "Yes"
+      },
+      {
+        "label": "Speakers",
+        "value": "Number of speakers: 2 @ 28 mm diameter, stereo sound; Loudness: 80 dB @ 50cm; Speakerphone support: Yes."
+      },
+      {
+        "label": "Device",
+        "value": "moto stereo speaker"
+      }
+    ],
+    "summary": "Enjoy music and videos with powerful audio and richer bass when you add moto stereo speaker to any moto z. No pairing or charging required.",
+    "tagline": "always ready to rock Cue up your favorite playlist and turn any room into a DJ booth with moto stereo speaker. Just snap it onto any moto z to instantly enjoy music with powerful audio and richer bass.",
+    "timeline": [],
+    "year": 2018
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "style",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Add a personal touch to your Moto Z family device with Motorola 's Style Shell in Black Leather. This shell fits over the back of your device, adding a premium look and feel without the bulk of a case. It attaches magnetically, making it easy to switch when the mood strikes.",
+    "facets": {
+      "weightG": 25.0
+    },
+    "features": [
+      {
+        "body": "Make your phone fit your look with a beautifully designed premium back",
+        "title": "style shells"
+      },
+      {
+        "body": "Switch moto style shells in seconds, for any mood or occasion",
+        "title": "features"
+      }
+    ],
+    "fit": "per-model",
+    "id": "moto-style-shell",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-mods/moto-style-shell-update/newest/mot-styleshell-pdp-hero-m%20%281%29.jpg?itok=n9kg62fg&timestamp=1528817524"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/newest/mot-styleshell-pdp-hero-d%20%281%29.jpg?itok=9WVo-lBu&timestamp=1528817520"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/moto-styleshell-pdp-featgrid-1x2-feats-d.jpg?itok=u4gKBrJR&timestamp=1528817560"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/moto-styleshell-pdp-featgrid-1x2-mods-d.jpg?itok=pxkFIZ-k&timestamp=1528817574"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/newest/moto-styleshell-pdp-featgrid-2x2-shells-d%20%281%29.jpg?itok=C7vE6TwV&timestamp=1528817537"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/mot-styleshell-spec-summery-d.jpg?itok=5TXZYCfT&timestamp=1528817597"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-update/mot-styleshell-specs-expanded-d.jpg?itok=VEuZO-iZ&timestamp=1528817644"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/mot-mods-moto-style-shell3z2sucfsuiiwnpj4.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/mot-mods-moto-style-shell3z2sucfsuiiwnpj4ffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#74aece",
+        "focusX": 0.53,
+        "focusY": 0.51,
+        "height": 780,
+        "key": "mods/moto-style-shell/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#a80112",
+        "focusX": 0.52,
+        "focusY": 0.62,
+        "height": 820,
+        "key": "mods/moto-style-shell/feature-2.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#386396",
+        "focusX": 0.51,
+        "focusY": 0.45,
+        "height": 820,
+        "key": "mods/moto-style-shell/feature-3.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#671f33",
+        "focusX": 0.54,
+        "focusY": 0.52,
+        "height": 1640,
+        "key": "mods/moto-style-shell/feature-4.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.43,
+        "focusY": 0.49,
+        "height": 980,
+        "key": "mods/moto-style-shell/spec-5.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-style-shell/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Style Shell",
+    "relatedDocs": [
+      {
+        "title": "Mod Management",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/mod-management/"
+      }
+    ],
+    "slug": "moto-style-shell",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-style-shell",
+      "https://www.bhphotovideo.com/c/product/1274450-REG/motorola_89887n_moto_style_shell_black.html"
+    ],
+    "specs": [
+      {
+        "label": "moto style shells",
+        "value": "Material: Nylon Weight: 25g to 32g Dimensions: 154 x 74 x 2 mm Styles: Herringbone Nylon, Crimson Ballistic Nylon"
+      },
+      {
+        "label": "moto style shells in Corning ® Gorilla ® Glass",
+        "value": "Material: Corning Gorilla Glass Weight: 53g Dimensions: 154 x 74 x 2 mm Styles: Colored leaves, Expressive curves, Graphic flowers, Overlapping triangles, Retro stripe"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Cut for a specific Moto Z model"
+      },
+      {
+        "label": "Materials",
+        "value": "Nylon; Corning Gorilla Glass"
+      },
+      {
+        "label": "Weight",
+        "value": "Nylon: 25g to 32g; Gorilla Glass: 53g"
+      },
+      {
+        "label": "Dimensions",
+        "value": "2.9 x 6.1 x 0.1\" / 7.4 x 15.4 x 0.2 cm"
+      }
+    ],
+    "summary": "Swap looks in a snap. moto style shells snap seamlessly onto your moto z modular phone. Choose from a variety of materials, textures, colors, and fabrics.",
+    "tagline": "swap looks in a snap",
+    "timeline": [],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "style",
+    "categorySecondary": [
+      "power"
+    ],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "dimensionsMm": "153.4 x 73.3 x 3.25 mm",
+      "weightG": 49.2
+    },
+    "features": [],
+    "fit": "per-model",
+    "id": "moto-style-shell-with-wireless-charging",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-wireless/moto-direct-pdp-hero-wireless-charger-d.jpg?itok=ZGEE7BY1&timestamp=1529952886"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-style-shell-wireless/Copy%20of%20mot-stylecap-wireless-charging-pdp-friendlyspecs-d.jpg?itok=5urvDRWc&timestamp=1529952904"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/06-01-2017/moto-mods-style-shell-wireless-charging-000000.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/moto-mods/moto-style-shell-wireless-charging/moto-mods-style-shell-wireless-charging.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#02c1db",
+        "focusX": 0.58,
+        "focusY": 0.48,
+        "height": 1400,
+        "key": "mods/moto-style-shell-with-wireless-charging/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.42,
+        "focusY": 0.49,
+        "height": 980,
+        "key": "mods/moto-style-shell-with-wireless-charging/spec-2.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-style-shell-with-wireless-charging/logo-3.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Style Shell with Wireless Charging",
+    "relatedDocs": [
+      {
+        "title": "Mod Management",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/mod-management/"
+      }
+    ],
+    "slug": "moto-style-shell-with-wireless-charging",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-style-shell-with-wireless-charging"
+    ],
+    "specs": [
+      {
+        "label": "fast, 10W wireless charging",
+        "value": "Snap on a shell and charge your phone quickly using a wireless charging pad (not included). No cables. No clutter."
+      },
+      {
+        "label": "expressive designs",
+        "value": "Match your shell to your style with a variety of designs to choose from, including Grey Herringbone Nylon and Floral Print."
+      },
+      {
+        "label": "wireless charging",
+        "value": "Requires compatible wireless charging pad, sold separately. Works on Qi and PMA wireless charging pads. Dual mode Qi 1.2.3 (10W), PMA 3.0 (5W)"
+      },
+      {
+        "label": "dimensions",
+        "value": "153.4 x 73.3 x 3.25 mm"
+      },
+      {
+        "label": "weight",
+        "value": "49.2 g"
+      },
+      {
+        "label": "built-in battery",
+        "value": "No"
+      },
+      {
+        "label": "plays well with others",
+        "value": "Moto Style Shell with wireless charging is compatible with any phone in the Moto Z Family."
+      }
+    ],
+    "summary": "Get fast, 10W wireless charging with good looks to boot. Snap on a moto style shell to charge your moto z phone quickly using a wireless charging pad (not included). No cables or clutter.",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "power",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Add an extra day of battery life to your phone with the 3490mAh moto TurboPower Pack from Motorola. This Moto Mod add-on is a 3490mAh battery that attaches onto the back of your Moto Z phone for extra power whenever you need it. Thanks to turbopower speed, it can deliver up to 15W of power for fast charging. When power is low, recharge it using a USB Type-C wall charger for up to 50% in just 20 minutes.",
+    "facets": {
+      "batteryMah": 3490,
+      "dimensionsMm": "153 x 73.4 x 6.58 mm",
+      "weightG": 95.0
+    },
+    "features": [],
+    "fit": "universal",
+    "id": "moto-turbopower-pack-battery",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-mods/moto-turbopower-pack/mot-mods-turbopower-pack-pdp-hero-d.jpg?itok=xzfCQUXE&timestamp=1530115496"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-mods/moto-turbopower-pack/mot-mods-turbopower-pack-pdp-specs-d.jpg?itok=5qI-BNde&timestamp=1530115503"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-turbopower-pack/mot-mod-turbopower-pack-black.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-mods/moto-turbopower-pack/mot-mod-turbopower-pack-white.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#0191a7",
+        "focusX": 0.58,
+        "focusY": 0.49,
+        "height": 1400,
+        "key": "mods/moto-turbopower-pack-battery/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.44,
+        "focusY": 0.5,
+        "height": 980,
+        "key": "mods/moto-turbopower-pack-battery/spec-2.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/moto-turbopower-pack-battery/logo-3.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto TurboPower Pack",
+    "relatedDocs": [
+      {
+        "title": "Power Transfer protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/power-transfer/"
+      },
+      {
+        "title": "Battery protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/battery/"
+      }
+    ],
+    "slug": "moto-turbopower-pack-battery",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/moto-turbopower-pack-battery",
+      "https://www.bhphotovideo.com/c/product/1344088-REG/motorola_89929n_turbo_power_pack.html"
+    ],
+    "specs": [
+      {
+        "label": "dimensions",
+        "value": "153 x 73.4 x 6.58 mm"
+      },
+      {
+        "label": "weight",
+        "value": "95g"
+      },
+      {
+        "label": "battery size",
+        "value": "3490 mAh"
+      },
+      {
+        "label": "battery life",
+        "value": "An extra day of battery life"
+      },
+      {
+        "label": "charge rate to phone",
+        "value": "Up to 15W"
+      },
+      {
+        "label": "charge rate from wall USB-C charger",
+        "value": "Up to 30W"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Motorola Moto Z Phones"
+      },
+      {
+        "label": "Charge",
+        "value": "Up to 30 W with USB Type-C wall charger"
+      }
+    ],
+    "summary": "Instantly add an extra day of battery life to any moto z. This slim battery pack can also recharge your phone at turbopower speeds on the go (up to 15W).",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "Polaroid",
+    "category": "projection",
+    "categorySecondary": [
+      "camera"
+    ],
+    "compatibilityRaw": "Polaroid Insta-Share Printer is compatible with any phone in the moto z family.",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "Turn your moto z into a portable Polaroid camera using the Polaroid Insta-Share Printer from Motorola. The Insta-Share attaches to the back of your moto z and has a physical shutter button for snapping photos. In addition to printing shots taken using your moto z, it also lets you print photos from social media, including Facebook, Instagram, and Google Photos. Photos are printed using 2 x 3\" ZINK Zero-Ink Paper, which features an adhesive back that peels off, turning your prints into stickers. One pack of ZINK paper with 10 sheets of paper is included, and the Insta-Share is powered using an integrated 500mAh battery that can print 20 photos before recharging is required. The Insta-Share can be recharged using its USB Type-C port and your moto z's USB Type-C cable.",
+    "facets": {
+      "batteryMah": 500,
+      "dimensionsMm": "153.6 x 73.8 x 20.4 mm",
+      "weightG": 188.0
+    },
+    "features": [
+      {
+        "body": "Press and hold the printer's physical capture button to launch your moto z phone's camera. Click it again to snap a picture.",
+        "title": "Real Polaroid Feel"
+      },
+      {
+        "body": "The printer doesn't just work in real time. Use it to easily print your favorite pictures from the time vaults of Facebook, Instagram, and Google Photos.",
+        "title": "Photos from Now and Then"
+      },
+      {
+        "body": "Print your 2 x 3\" photos on the spot with the included ZINK Zero-Ink Paper. No ink is required, and once your photos print, peel off the adhesive backs and stick them anywhere to share the fun.",
+        "title": "ZINK Zero-Ink Paper"
+      },
+      {
+        "body": "Before you print your photos, amp up the creativity by adding filters, borders, and stickers. Then, pick your favorites and print, and share them with friends.",
+        "title": "Filter Life"
+      }
+    ],
+    "fit": "universal",
+    "id": "polaroid-insta-share-printer",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-hero-d-alt.jpg?itok=rKz_7hNk&timestamp=1530115945"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/footer-social-icons/icon_instagram.png"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-filter-d%20%282%29.jpg?itok=hkojr5mw&timestamp=1530116006"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-paper-d%20%282%29.jpg?itok=Q2ruwBr3&timestamp=1530116015"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-video-d-na.jpg?itok=409yBbsU&timestamp=1530115975"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-paper-m.jpg?itok=lotUC7hO&timestamp=1530116016"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-video-m-na%20%281%29.jpg?itok=Y7BFKwK-&timestamp=1530115977"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_tablet-portrait_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-filter-t.jpg?itok=0Mk3oNAf&timestamp=1530116012"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_tablet-portrait_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-halfcard-paper-t%20%281%29.jpg?itok=bjtRXlYf&timestamp=1530116021"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-editorial-card-1-button-d.jpg?itok=1cg0V66W&timestamp=1530115981"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-editorial-card-2-print-d.jpg?itok=I5bz6pHr&timestamp=1530115988"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-editorial-card-3-paper-d.jpg?itok=LY0SBOJP&timestamp=1530115996"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-spec-summery-d%20%281%29.jpg?itok=0yQm4I1B&timestamp=1530115954"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-spec-summery-m.jpg?itok=hd2WFGhP&timestamp=1530115973"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/storage/products/moto-mods/polaroid-insta-printer/mot-polorid-insta-print-pdp-specs-expanded.jpg?itok=hb92vTTT&timestamp=1530115968"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/homepage-hero-printer/polorid-insta-print-logo_color.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-mods/polaroid-insta-printer/polorid-insta-print-logo_%20000000.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#ccb8b3",
+        "focusX": 0.57,
+        "focusY": 0.51,
+        "height": 1400,
+        "key": "mods/polaroid-insta-share-printer/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#3591d3",
+        "focusX": 0.63,
+        "focusY": 0.45,
+        "height": 640,
+        "key": "mods/polaroid-insta-share-printer/gallery-3.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#ff6b01",
+        "focusX": 0.55,
+        "focusY": 0.55,
+        "height": 640,
+        "key": "mods/polaroid-insta-share-printer/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#000000",
+        "focusX": 0.48,
+        "focusY": 0.57,
+        "height": 640,
+        "key": "mods/polaroid-insta-share-printer/gallery-5.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.44,
+        "focusY": 0.51,
+        "height": 980,
+        "key": "mods/polaroid-insta-share-printer/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "mods/polaroid-insta-share-printer/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Polaroid Insta-Share Printer",
+    "relatedDocs": [
+      {
+        "title": "Display protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/display/"
+      }
+    ],
+    "slug": "polaroid-insta-share-printer",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/polaroid-insta-share-printer",
+      "https://www.bhphotovideo.com/c/product/1409624-REG/ventev_innovations_201460_motorola_mobility_llc.html"
+    ],
+    "specs": [
+      {
+        "label": "Dimensions",
+        "value": "153.6 x 73.8 x 20.4 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "188 g"
+      },
+      {
+        "label": "Integrated battery",
+        "value": "yes"
+      },
+      {
+        "label": "Battery size",
+        "value": "500 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "20 prints per charge"
+      },
+      {
+        "label": "External charging",
+        "value": "Yes, USB-C"
+      },
+      {
+        "label": "Charge rate",
+        "value": "up to 10W rate"
+      },
+      {
+        "label": "Paper storage",
+        "value": "Holds up to 10 sheets of paper (1 pack)"
+      },
+      {
+        "label": "Paper compatibility",
+        "value": "Polaroid 2x3\" Premium ZINK® Paper"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Polaroid Insta-Share Printer is compatible with any phone in the moto z family."
+      },
+      {
+        "label": "Included in box",
+        "value": "Polaroid Insta-Share Printer 1 pack of ZINK® paper (10 sheets)"
+      },
+      {
+        "label": "Media Size",
+        "value": "2 x 3\" / 5 x 7.6 cm"
+      },
+      {
+        "label": "Interface",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Battery",
+        "value": "1 x Built-In Rechargeable, 500 mAh (20 Prints per Charge)"
+      }
+    ],
+    "summary": "Shoot, filter, and print photos right from your phone—no ink required. Works with any moto z.",
+    "tagline": "",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "TUMI",
+    "category": "power",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 2220
+    },
+    "features": [
+      {
+        "body": "Charging starts automatically when efficiency is at its peak, preserving battery life by up to 20%.",
+        "title": "Efficiency Mode"
+      },
+      {
+        "body": "Snap it on when your battery is running low, or always keep it on to extend normal battery life.",
+        "title": "Snap on when you need it"
+      }
+    ],
+    "fit": "universal",
+    "id": "tumi-power-pack",
+    "imageUrls": [],
+    "images": [
+      {
+        "bg": "#ffffff",
+        "focusX": 0.49,
+        "focusY": 0.5,
+        "height": 1000,
+        "key": "mods/tumi-power-pack/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      }
+    ],
+    "name": "TUMI Power Pack",
+    "relatedDocs": [
+      {
+        "title": "Power Transfer protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/power-transfer/"
+      },
+      {
+        "title": "Battery protocol",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/firmware/battery/"
+      }
+    ],
+    "slug": "tumi-power-pack",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-mods/tumi-power-pack",
+      "https://www.bhphotovideo.com/c/product/1593586-REG/moto_89878n_tumi_power_pack_moto.html"
+    ],
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "2220 mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Adds up to 22 hours"
+      },
+      {
+        "label": "Dimensions",
+        "value": "7.4 x 15.2 x 0.8 cm (2.9 x 6.0 x 0.3\")"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.27 inch"
+      },
+      {
+        "label": "Efficiency Mode",
+        "value": "Charging starts at peak efficiency, preserving battery life by up to 20%"
+      },
+      {
+        "label": "Finish",
+        "value": "TUMI premium designer edition"
+      },
+      {
+        "label": "In the box",
+        "value": "Moto TUMI Power Pack Moto Mod"
+      },
+      {
+        "label": "Warranty",
+        "value": "Limited 1-year"
+      },
+      {
+        "label": "Manufacturer part number",
+        "value": "89878N"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Moto Z Droid, Moto Z Force Droid"
+      }
+    ],
+    "summary": "Add additional battery life to your phone, without adding bulk, using the sleek TUMI Power Pack Moto Mod. A slim 2220mAh battery pack that gives your phone up to 22 hours of additional battery power. It snaps onto the back of your phone quickly, and is only 0.27\" thin.",
+    "tagline": "Battery life, with a TUMI finish",
+    "timeline": [],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "brand": "Motorola",
+    "category": "development",
+    "categorySecondary": [],
+    "compatibilityRaw": "",
+    "compatibleDevices": [
+      "moto-z",
+      "moto-z-force",
+      "moto-z-play",
+      "moto-z2-play",
+      "moto-z2-force",
+      "moto-z3",
+      "moto-z3-play",
+      "moto-z4"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {},
+    "features": [
+      {
+        "body": "The Reference Moto Mod carries the mechanical and electrical interface to the phone, the Moto Mod Microcontroller and the Moto High Speed Bridge, so the hard part of talking to a Moto Z was already done.",
+        "title": "A working Mod to build on"
+      },
+      {
+        "body": "The Perforated Board exposes the 80-pin developer connector as 26 rows of solder points at 2.54 mm pitch, with a power bus down each side — room to get an idea working without making a board first.",
+        "title": "80 pins, brought to the surface"
+      },
+      {
+        "body": "Motorola shipped audio, battery, display and temperature-sensor cards, each with open-source firmware and an Android app, as end-to-end examples of a finished Mod.",
+        "title": "Personality Cards as worked examples"
+      },
+      {
+        "body": "Mods ran NuttX and spoke Greybus, the protocol from Project Ara, over the same interface every shipping Mod used.",
+        "title": "Open firmware"
+      }
+    ],
+    "fit": "universal",
+    "id": "moto-mods-development-kit",
+    "imageUrls": [],
+    "images": [
+      {
+        "bg": "#f1f1f2",
+        "focusX": 0.49,
+        "focusY": 0.52,
+        "height": 1500,
+        "key": "mods/moto-mods-development-kit/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#9aa4ab",
+        "focusX": 0.49,
+        "focusY": 0.45,
+        "height": 415,
+        "key": "mods/moto-mods-development-kit/gallery-2.png",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#000000",
+        "focusX": 0.5,
+        "focusY": 0.48,
+        "height": 500,
+        "key": "mods/moto-mods-development-kit/gallery-3.png",
+        "role": "gallery",
+        "width": 500
+      },
+      {
+        "bg": "#8b8b8e",
+        "focusX": 0.6,
+        "focusY": 0.65,
+        "height": 667,
+        "key": "mods/moto-mods-development-kit/gallery-4.jpg",
+        "role": "gallery",
+        "width": 1000
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.51,
+        "focusY": 0.47,
+        "height": 1273,
+        "key": "mods/moto-mods-development-kit/gallery-5.png",
+        "role": "gallery",
+        "width": 890
+      }
+    ],
+    "name": "Moto Mods Development Kit",
+    "relatedDocs": [
+      {
+        "title": "Moto Mods Development Kit",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/hardware/mdk/"
+      },
+      {
+        "title": "Reference Moto Mod",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/build/mdk-user-guide/reference-moto-mod/"
+      },
+      {
+        "title": "Perforated Board",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/build/mdk-user-guide/perforated-board/"
+      },
+      {
+        "title": "System Architecture",
+        "url": "https://jksim.github.io/MotoMods-Developer-Docs/explore/system-architecture/"
+      }
+    ],
+    "slug": "moto-mods-development-kit",
+    "sources": [
+      "https://jksim.github.io/MotoMods-Developer-Docs/hardware/mdk/"
+    ],
+    "specs": [
+      {
+        "label": "In the box",
+        "value": "Reference Moto Mod, Perforated Board, example cover"
+      },
+      {
+        "label": "Microcontroller",
+        "value": "STM32L476ME (MuC), ARM Cortex-M4F with FPU"
+      },
+      {
+        "label": "MuC memory",
+        "value": "128 KB RAM, 1 MB flash"
+      },
+      {
+        "label": "High-speed path",
+        "value": "Moto High Speed Bridge (MHB) for camera and display traffic"
+      },
+      {
+        "label": "Developer connector",
+        "value": "80-pin, exposing GPIO, power and the standard buses"
+      },
+      {
+        "label": "Ports",
+        "value": "USB-C (USB C DRP), micro USB-B, MyDP"
+      },
+      {
+        "label": "Power rail",
+        "value": "Regulated 3.3 V, 500 mA"
+      },
+      {
+        "label": "Perforated board",
+        "value": "26 rows of solder points at 2.54 mm pitch, power bus each side"
+      },
+      {
+        "label": "Component height limit",
+        "value": "2.3 mm on top, 1.3 mm underneath, with the in-box cover"
+      },
+      {
+        "label": "Firmware",
+        "value": "NuttX, speaking Greybus over the Mod interface"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Any phone in the Moto Z family"
+      },
+      {
+        "label": "Sold through",
+        "value": "element14, to developers"
+      }
+    ],
+    "summary": "The Moto Mods Development Kit was how anyone outside Motorola made a Mod. It pairs a Reference Moto Mod — a working Mod with the microcontroller, the high-speed bridge and the phone-side interface already on it — with a perforated board to solder your own circuit onto, and a cover to put round the result. With a Moto Z, that was the whole starting point for a prototype.",
+    "tagline": "The Mod you built your own Mod on",
+    "timeline": [],
+    "year": 2016
+  }
+]

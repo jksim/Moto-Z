@@ -1,0 +1,87 @@
+---
+import { CATEGORIES } from '../lib/catalogue';
+import { href } from '../lib/url';
+
+interface Props {
+  phones: { slug: string; name: string }[];
+}
+const { phones } = Astro.props;
+---
+<div class="filters">
+  <ul class="chips" data-filter-group="category" aria-label="Filter by category">
+    <li><a class="chip is-on" href={href('/mods/')} data-value="">All</a></li>
+    {CATEGORIES.map((c) => (
+      <li><a class="chip" href={href(`/mods/category/${c.slug}/`)} data-value={c.slug}>{c.label}</a></li>
+    ))}
+  </ul>
+  <p class="chips" data-filter-group="phone" aria-label="Filter by phone">
+    <label class="card-note" for="phone-filter" style="align-self:center">Works with</label>
+    <select id="phone-filter" class="chip">
+      <option value="">any phone</option>
+      {phones.map((p) => <option value={p.slug}>{p.name}</option>)}
+    </select>
+  </p>
+  <p class="note" data-result-count aria-live="polite"></p>
+</div>
+
+<script>
+  // Progressive enhancement: the chips are real links to static category pages;
+  // this intercepts them so filtering happens without a reload.
+  const grid = document.querySelector<HTMLElement>('[data-grid]');
+  if (grid) {
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('[data-item]'));
+    const chips = Array.from(document.querySelectorAll<HTMLAnchorElement>('[data-filter-group="category"] .chip'));
+    const phoneSelect = document.querySelector<HTMLSelectElement>('#phone-filter');
+    const count = document.querySelector<HTMLElement>('[data-result-count]');
+    const state = { category: '', phone: '' };
+
+    function apply(push = true) {
+      let shown = 0;
+      for (const card of cards) {
+        const cats = (card.dataset.categories || '').split(' ');
+        const devices = (card.dataset.devices || '').split(' ');
+        const ok = (!state.category || cats.includes(state.category))
+          && (!state.phone || devices.includes(state.phone));
+        card.classList.toggle('hidden', !ok);
+        if (ok) shown++;
+      }
+      for (const chip of chips) {
+        chip.classList.toggle('is-on', (chip.dataset.value || '') === state.category);
+      }
+      if (count) {
+        count.textContent = `${shown} of ${cards.length} Mods`;
+      }
+      if (push) {
+        const params = new URLSearchParams();
+        if (state.category) params.set('category', state.category);
+        if (state.phone) params.set('phone', state.phone);
+        const qs = params.toString();
+        history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+      }
+    }
+
+    for (const chip of chips) {
+      chip.addEventListener('click', (event) => {
+        event.preventDefault();
+        state.category = chip.dataset.value || '';
+        apply();
+      });
+    }
+    phoneSelect?.addEventListener('change', () => {
+      state.phone = phoneSelect.value;
+      apply();
+    });
+
+    const initial = new URLSearchParams(location.search);
+    state.category = initial.get('category') || '';
+    state.phone = initial.get('phone') || '';
+    if (phoneSelect) phoneSelect.value = state.phone;
+    apply(false);
+  }
+</script>
+
+<style>
+  .filters { display: grid; gap: .6rem; margin-top: 1.5rem; }
+  select.chip { background: var(--surface); color: var(--fg); }
+  .note { margin: 0; }
+</style>

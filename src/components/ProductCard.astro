@@ -1,0 +1,36 @@
+---
+import { Image } from 'astro:assets';
+import { image as resolve, cover, focus, type Img } from '../lib/images';
+
+interface Props {
+  href: string;
+  name: string;
+  eyebrow?: string;
+  note?: string;
+  images: Img[];
+  coverKey?: string;
+  contain?: boolean;
+}
+const { href, name, eyebrow, note, images, coverKey = '', contain = false } = Astro.props;
+const best = cover(images, coverKey);
+const src = best ? resolve(best.key) : undefined;
+const position = focus(best);
+const mediaStyle = best?.bg ? `background: ${best.bg}` : undefined;
+const imgStyle = `object-position: ${position}`;
+---
+<a class="card" href={href}>
+  <div class={contain ? 'card-media contain' : 'card-media'} style={mediaStyle}>
+    {src ? (
+      <Image src={src} alt={name} widths={[240, 480, 720]}
+             sizes="(max-width: 640px) 90vw, 280px" loading="lazy"
+             style={imgStyle} />
+    ) : (
+      <span class="card-note">No image</span>
+    )}
+  </div>
+  <div class="card-body">
+    {eyebrow && <span class="card-brand">{eyebrow}</span>}
+    <span class="card-name">{name}</span>
+    {note && <span class="card-note">{note}</span>}
+  </div>
+</a>

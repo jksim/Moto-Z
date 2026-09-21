@@ -1,0 +1,3035 @@
+[
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 2600,
+      "weightG": 136.0
+    },
+    "family": "Z",
+    "features": [
+      {
+        "body": "Moto Z is unlocked for AT&T, T-Mobile and compatible GSM networks",
+        "title": "unlocked for GSM"
+      },
+      {
+        "body": "All-day battery life plus blazing-fast charging",
+        "title": "battery + turbopower™"
+      },
+      {
+        "body": "Capture crystal-clear photos in any light",
+        "title": "advanced camera"
+      },
+      {
+        "body": "It's time to expect more from your phone",
+        "title": "performance"
+      },
+      {
+        "body": "Do more when your phone reacts to your voice and actions",
+        "title": "moto enhancements"
+      },
+      {
+        "body": "Introducing the world’s thinnest premium smartphone",
+        "title": "ultra-thin design"
+      }
+    ],
+    "generation": 1,
+    "id": "moto-z",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-hero-d-us.jpg?itok=XVH3WeXQ&timestamp=1528314291"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-battery-featgrid-1x1-d-us.jpg?itok=cB-ieI58&timestamp=1528314322"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-camera-featgrid-1x1-d-us.jpg?itok=AYWkhk9k&timestamp=1528314336"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-design-featgrid-1x1-d-us.jpg?itok=c7YHqIyl&timestamp=1528314419"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-enhancement-featgrid-1x1-d-us.jpg?itok=ux-3eRKD&timestamp=1528314387"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-mods-featgrid-1x1-d-us.jpg?itok=CU8rEhgZ&timestamp=1528314315"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-performance-featgrid-1x1-d-us.jpg?itok=2lSUChpb&timestamp=1528314363"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-gsmunlocked-featgrid-1x2-d-us.jpg?itok=bWzxbtVe&timestamp=1528314300"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-specsummery-d-us.jpg?itok=2smAm2oV&timestamp=1528314440"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z/new-vis-id/mobile/moto-z-gsm-unlocked-specsummary-m-us.jpg?itok=l8cBghm0&timestamp=1528314460"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z/new-vis-id/desktop/moto-z-gsm-unlocked-specsexpanded_d-us.jpg?itok=6mD6QQGg&timestamp=1528314460"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z/moto-z-222c30.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z/moto-z-fff.svg"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-verizon-pdp-hero-d.jpg?itok=URwtuiDD&timestamp=1484773753"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-battery-featgrid-1x1-d2gxrzucz.jpg?itok=QgJqFLCl&timestamp=1484773768"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-camera-featgrid-1x1-dcwv6eeib.jpg?itok=ipFDxXv5&timestamp=1484773775"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-design-featgrid-1x1-d-VZW.jpg?itok=Yb_Jz8LC&timestamp=1484773817"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-enhancement-featgrid-1x1-d-VZW.jpg?itok=hTn2Q78M&timestamp=1484773804"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-mods-featgrid-1x1-d_VZW.jpg?itok=qQIYYAJH&timestamp=1484773764"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-performance-featgrid-1x1-d_VZW.jpg?itok=DB4XRlKI&timestamp=1484773790"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-verizon-featgrid-1x2-d_VZW.jpg?itok=fh2qPPp8&timestamp=1484773757"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-specsummery-d0xupvnpo.jpg?itok=2XTW68Zt&timestamp=1484773826"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/mobile/mot-motoz-droid-specsummery-m66ea775f.jpg?itok=yjbhTfxm&timestamp=1484773846"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-droid-edition/new-vis-id/desktop/mot-motoz-droid-specsexpanded_d.jpg?itok=8fKyePpm&timestamp=1484773844"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/homepage/hero/07-21-16/moto-maker-eeeeee.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-droid-edition/desktop/moto-z-droid-ffffff-lockup-vert-web%20%281%29.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-droid-edition/desktop/motoz-droid-logo5cb0plxy.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#73abde",
+        "focusX": 0.61,
+        "focusY": 0.49,
+        "height": 1400,
+        "key": "phones/moto-z/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#9d9dce",
+        "focusX": 0.48,
+        "focusY": 0.51,
+        "height": 820,
+        "key": "phones/moto-z/feature-2.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#527db8",
+        "focusX": 0.59,
+        "focusY": 0.65,
+        "height": 820,
+        "key": "phones/moto-z/feature-3.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#559adb",
+        "focusX": 0.5,
+        "focusY": 0.59,
+        "height": 820,
+        "key": "phones/moto-z/feature-4.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#638cc1",
+        "focusX": 0.45,
+        "focusY": 0.48,
+        "height": 820,
+        "key": "phones/moto-z/feature-5.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.42,
+        "focusY": 0.52,
+        "height": 980,
+        "key": "phones/moto-z/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z/logo-7.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z",
+    "slug": "moto-z",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z",
+      "https://www.motorola.com/us/products/moto-z-droid-edition"
+    ],
+    "specs": [
+      {
+        "label": "carrier networks",
+        "value": "Unlocked for AT&T, T-Mobile, and compatible GSM networks so you can switch carriers and keep your phone. Just simply swap SIM cards. Sprint not supported. Moto Z Droid is exclusively on Verizon."
+      },
+      {
+        "label": "operating system",
+        "value": "Android™ 6.0.1, Marshmallow Will receive an upgrade to Android 7.0 Nougat, and then it’s ready for Daydream by Google™ virtual reality experiences"
+      },
+      {
+        "label": "system architecture/processor",
+        "value": "Motorola Mobile Computing System, including Qualcomm ® Snapdragon™ 820 processor with 1.8 GHz Quad-core CPU and Adreno 530 GPU Natural Language Processor Contextual Computing Processor"
+      },
+      {
+        "label": "memory (RAM)",
+        "value": "4GB LPDDR4"
+      },
+      {
+        "label": "storage (ROM)",
+        "value": "64GB UFS, microSD Card support (up to 2TB)"
+      },
+      {
+        "label": "dimensions",
+        "value": "Height: 153.3 mm Width: 75.3 mm Depth: 5.19 mm"
+      },
+      {
+        "label": "weight",
+        "value": "136g"
+      },
+      {
+        "label": "display",
+        "value": "5.5” AMOLED 1440p Quad HD (2560 x 1440) 535 ppi Corning ® Gorilla ® Glass"
+      },
+      {
+        "label": "battery",
+        "value": "Mixed usage up to 30 hours (2600 mAh) TurboPower™ for up to 8 hours of power in 15 minutes of charging"
+      },
+      {
+        "label": "water protection",
+        "value": "Water repellent nano-coating"
+      },
+      {
+        "label": "networks",
+        "value": "4G LTE (Cat 6) UMTS / HSPA+ GSM / EDGE"
+      },
+      {
+        "label": "bands (by model)",
+        "value": "GSM / GPRS / EDGE (850, 900, 1800, 1900 MHz) UMTS / HSPA+ (850, 900, 1700, 1900, 2100 MHz) 4G LTE (B1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 28, 38, 40, 41)"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Bluetooth ® technology",
+        "value": "Bluetooth version 4.1 LE"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac 2.4 GHz + 5 GHz with MIMO"
+      },
+      {
+        "label": "rear camera",
+        "value": "13 MP ƒ /1.8 aperture Optical Image Stabilization (OIS) Laser Autofocus Zero Shutter Lag Color Correlated Temperature (CCT) flash with dual LEDs 1.12um pixel Professional mode Quick Capture Best Shot Scan barcodes, QR codes and Business cards Google Photos integration Shutter button or tap anywhere to capture 8X digital zoom Burst mode Night mode Auto HDR Closed loop processing Panorama Tap to focus & exposure Video Stabilization 1080p HD video (60 fps) 4K video (30 fps) Slow Motion video Video HDR (1080p and 4K)"
+      },
+      {
+        "label": "front camera",
+        "value": "5 MP ƒ /2.2 aperture Wide-Angle lens Flash 1.4um big pixel for better low light Auto Night mode Beautification software Professional mode"
+      },
+      {
+        "label": "connectivity",
+        "value": "Moto Mods™ connector USB-C port for headphones, charging and data transfer 3.5 mm to USB-C headphone port adapter included"
+      },
+      {
+        "label": "sensors",
+        "value": "Fingerprint reader Accelerometer Ambient Light Gyroscope Hall Effect Magnetometer Proximity"
+      },
+      {
+        "label": "speakers/microphones",
+        "value": "Front-ported loud speaker 4-Mics"
+      },
+      {
+        "label": "video capture",
+        "value": "1080p (60 fps); 4K (30 fps)"
+      },
+      {
+        "label": "location services",
+        "value": "A-GPS"
+      },
+      {
+        "label": "base colors",
+        "value": "Black with Lunar Grey trim, Black front lens"
+      }
+    ],
+    "summary": "GSM unlocked for AT&T, T-Mobile, and other carriers, moto z is an ultra-thin modular phone with an all-day battery. Compatible with moto mods.",
+    "tagline": "the razor-thin future of smartphones",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z",
+        "slug": "moto-z"
+      },
+      {
+        "carrier": "droid",
+        "name": "Moto Z Droid",
+        "slug": "moto-z-droid-edition"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3500,
+      "weightG": 163.0
+    },
+    "family": "Z Force",
+    "features": [
+      {
+        "body": "Up to 40 hour battery, plus the world's fastest charging",
+        "title": "Battery + TurboPower™"
+      },
+      {
+        "body": "Capture crystal-clear photos in any light",
+        "title": "21 MP camera"
+      },
+      {
+        "body": "It’s time to expect more from your phone",
+        "title": "Performance"
+      },
+      {
+        "body": "Do more when your phone reacts to your voice and actions",
+        "title": "Moto Enhancements"
+      },
+      {
+        "body": "Worry less with a shatterproof display and water-resistant design",
+        "title": "Moto ShatterShield™"
+      }
+    ],
+    "generation": 1,
+    "id": "moto-z-force",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-droid/mobile/mot-motoz-force-droid-pdp-hero-myizbp9166y.jpg?itok=me5kLhtz&timestamp=1474551915"
+      },
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-pdp-hero-dei9tmc2y.jpg?itok=UdSQQUs1&timestamp=1474551907"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-battery-charging-featgrid-1x1-d2tu81so4.jpg?itok=lnV8bnhE&timestamp=1474551935"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-camera-featgrid-1x1-dnl72sgum.jpg?itok=CeuPvbHn&timestamp=1474551965"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-enhancements-featgrid-1x1-dmzs4o5rq.jpg?itok=LYlsWFQd&timestamp=1474552090"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-performance-featgrid-1x1-dlhv5jkfg.jpg?itok=lUEINBly&timestamp=1474552024"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-mods-featgrid-1x2-dc9t6hw1c.jpg?itok=6soPLvKc&timestamp=1474551918"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-shattershield-featgrid-1x2-d3kfd8rjg.jpg?itok=XiUOajyh&timestamp=1474552160"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-specsummery-d-us-op81g0nk.jpg?itok=iqbG0F8K&timestamp=1474552226"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-droid/mobile/mot-motoz-force-droid-specsummery-md-us-op81g0nk.jpg?itok=1MHkNQJU&timestamp=1474552309"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-droid/desktop/mot-motoz-force-droid-specsexpanded_d.jpg?itok=W3OI-jhZ&timestamp=1474552298"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/products/moto-z-force-droid/desktop/moto-z-droid-force-ffffff-lockup-vert-web.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/products/moto-z-force-droid/desktop/motoz-force-droid-logolo2p72kf.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#3b6eb3",
+        "focusX": 0.49,
+        "focusY": 0.5,
+        "height": 820,
+        "key": "phones/moto-z-force/feature-1.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#5b585e",
+        "focusX": 0.51,
+        "focusY": 0.56,
+        "height": 820,
+        "key": "phones/moto-z-force/feature-2.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#e2d6d3",
+        "focusX": 0.51,
+        "focusY": 0.5,
+        "height": 820,
+        "key": "phones/moto-z-force/feature-3.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#9fc4ef",
+        "focusX": 0.5,
+        "focusY": 0.52,
+        "height": 820,
+        "key": "phones/moto-z-force/feature-4.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.42,
+        "focusY": 0.51,
+        "height": 980,
+        "key": "phones/moto-z-force/spec-5.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z-force/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z Force Droid",
+    "slug": "moto-z-force",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-force-droid-edition"
+    ],
+    "specs": [
+      {
+        "label": "Only on Verizon",
+        "value": "Moto Z Force Droid is exclusively on Verizon with Droid services and apps. With another carrier? Check out the entire Moto Z Family of phones."
+      },
+      {
+        "label": "Operating System",
+        "value": "Android ™ 6.0.1, Marshmallow"
+      },
+      {
+        "label": "System Architecture/Processor",
+        "value": "Motorola Mobile Computing System, including Qualcomm ® Snapdragon ™ 820 processor with up to 2.2 GHz CPU Quad-core CPU and Adreno 530 GPU Natural Language Processor Contextual Computing Processor"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4GB LPDDR4"
+      },
+      {
+        "label": "Storage (ROM)",
+        "value": "32GB/64GB UFS, microSD Card support (up to 2 TB)"
+      },
+      {
+        "label": "Dimensions",
+        "value": "Height: 155.9 mm Width: 75.8 mm Depth: 6.99 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "163g (5.8 oz)"
+      },
+      {
+        "label": "Display",
+        "value": "5.5” AMOLED 1440p Quad HD (2560 x 1440) 535 ppi ShatterShield ™"
+      },
+      {
+        "label": "Battery",
+        "value": "Mixed usage up to 40 hours (3500 mAh) TurboPower ™ for up to 15 hours of power in 15 minutes of charging"
+      },
+      {
+        "label": "Water Protection",
+        "value": "Water repellent nano-coating"
+      },
+      {
+        "label": "Networks",
+        "value": "4G LTE (Cat 9) CDMA / EVDO Rev A UMTS / HSPA+ GSM / EDGE"
+      },
+      {
+        "label": "Bands (by model)",
+        "value": "CDMA (850, 1900 MHz) GSM / GPRS / EDGE (850, 900, 1800, 1900 MHz) UMTS / HSPA+ (850, 900, 1900, 2100 MHz) 4G LTE (B2, 3, 4, 5, 7, 13)"
+      },
+      {
+        "label": "SIM Card",
+        "value": "Nano-SIM"
+      },
+      {
+        "label": "Sensors",
+        "value": "Fingerprint sensor Accelerometer Ambient Light Gyroscope Hall Effect Magnetometer Proximity"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Rear Camera",
+        "value": "21 MP ƒ /1.8 aperture Optical Image Stabilization (OIS) Laser Autofocus Phase Detection Autofocus (PDAF) Zero Shutter Lag Color Correlated Temperature (CCT) flash with dual LEDs 1.12um pixel with Deep Trench Isolation (DTI) Professional mode Quick Capture Best Shot Scan barcodes, QR codes and Business cards Google Photos integration with free original file size backup for two years Shutter button or tap anywhere to capture 8X digital zoom Burst mode Auto Night mode Auto HDR Closed loop processing Panorama Drag to focus & exposure Video Stabilization 1080p HD video (30 fps and 60 fps) 4K video (30fps) Slow Motion video Video HDR (1080p and 4K)"
+      },
+      {
+        "label": "Front Camera",
+        "value": "5 MP ƒ /2.2 aperture Wide-Angle lens Flash 1.4um big pixel for better low light Auto Night mode Beautification software Professional mode"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Moto Mods ™ connector USB-C port for headphones, charging and data transfer 3.5mm to USB-C headphone port adapter included"
+      },
+      {
+        "label": "Bluetooth ® Technology",
+        "value": "Bluetooth version 4.1 LE"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac 2.4 GHz + 5 GHz with MIMO"
+      },
+      {
+        "label": "Speakers/Microphones",
+        "value": "Front-ported loud speaker 4-Mics"
+      },
+      {
+        "label": "Video Capture",
+        "value": "1080p (60 fps); 4K (30 fps)"
+      },
+      {
+        "label": "Location Services",
+        "value": "A-GPS"
+      },
+      {
+        "label": "Base Colors",
+        "value": "Black with Lunar Grey trim, Black front lens Black with Rose Gold trim, Black front lens Fine Gold, White front lens Available colors may vary"
+      }
+    ],
+    "summary": "Use Moto Mods™ to transform Moto Z Force into a movie projector, boombox, battery powerhouse, and more. 40 hour battery. 21 MP camera. Build yours.",
+    "tagline": "Explore the features of a smarter phone",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "droid",
+        "name": "Moto Z Force Droid",
+        "slug": "moto-z-force-droid-edition"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3510,
+      "dimensionsMm": "156.4 x 76.4 x 6.99 mm",
+      "weightG": 165.0
+    },
+    "family": "Z Play",
+    "features": [
+      {
+        "body": "Moto Z Play is unlocked for AT&T, T-Mobile, and compatible GSM networks",
+        "title": "Unlocked for GSM"
+      },
+      {
+        "body": "Play for days with up to 50 hours of battery life, plus TurboPower charging",
+        "title": "Super battery"
+      },
+      {
+        "body": "16 MP dual auto-focus technology lets you capture crystal-clear photos in any light",
+        "title": "Shoot like a pro"
+      },
+      {
+        "body": "Get more out of your phone with a 5.5” screen and blazing-fast processor",
+        "title": "Performance-packed"
+      },
+      {
+        "body": "Unlock. Log-in. Pay. All the power is at your fingertips.",
+        "title": "One-touch tech"
+      },
+      {
+        "body": "Take control with a phone that reacts to your voice and actions",
+        "title": "Ultimate controls"
+      }
+    ],
+    "generation": 1,
+    "id": "moto-z-play",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-hero-d-us.jpg?itok=yGd-zFSI&timestamp=1485622481"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-camera-d-us.jpg?itok=Y4oNiDI6&timestamp=1485622504"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-control-d-us.jpg?itok=kApM1sf-&timestamp=1485622533"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-mods-d-us.jpg?itok=3clj5QbO&timestamp=1485622491"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-onetouch-d-us.jpg?itok=IVTDlO6Q&timestamp=1485622527"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-performance-d-us.jpg?itok=zwJ0xAM7&timestamp=1485622517"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x1-superbattery-d-us.jpg?itok=4d6r3VFW&timestamp=1485622494"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-featgrid-1x2-d-us.jpg?itok=b4PdDnO0&timestamp=1485622485"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-spec-summery-d-us.jpg?itok=ZQJ78z-a&timestamp=1485622558"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-specsummery-m-us.jpg?itok=tHVPZcXC&timestamp=1485622576"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gsm-new/moto-z-play-gsm-unlocked-specsexpanded-row.jpg?itok=X8_1sBW-&timestamp=1485622574"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/moto-mods/final-mods-logos/moto-z-play-fff.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-play/droid/moto-z-play-222c30.svg"
+      },
+      {
+        "role": "hero",
+        "url": "http://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-hero-d-vzw.jpg?itok=3qvTkkLY&timestamp=1476728491"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/mot-moto-z-play-droid-control-featgrid-1x1-d_VZW.jpg?itok=mw-L8F9M&timestamp=1476728717"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/mot-moto-z-play-droid-mods-featgrid-1x1-d-VZW.jpg?itok=JXb7V13P&timestamp=1476728543"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-featgrid-1x1-camera-d-vzw.jpg?itok=DKwFB6QC&timestamp=1476728606"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-featgrid-1x1-onetouch-d-vzw.jpg?itok=hNt0ewza&timestamp=1476728694"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-featgrid-1x1-performance-d-vzw.jpg?itok=Uin8FgO8&timestamp=1476728654"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-featgrid-1x1-superbattery-d-vzw.jpg?itok=RSSjmCCY&timestamp=1476728556"
+      },
+      {
+        "role": "feature",
+        "url": "http://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/mot-moto-z-play-droid-verizon-featgrid-1x2-d_VZW.jpg?itok=SMOv_Vku&timestamp=1476728509"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-spec-summery-d-vzw.jpg?itok=aO7gBbbO&timestamp=1476728809"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play/droid/mobile/moto-z-play-droid-specsummery-m-vzw.jpg?itok=MOHqlawq&timestamp=1476728863"
+      },
+      {
+        "role": "spec",
+        "url": "http://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play/droid/desktop/moto-z-play-droid-specsexpanded-vzw.jpg?itok=6a7296yA&timestamp=1476728855"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/products/moto-z-play/droid/moto-z-play-droid-horz-222c30.svg"
+      },
+      {
+        "role": "logo",
+        "url": "http://www.motorola.com/sites/default/files/library/us/products/moto-z-play/droid/moto-z-play-droid-vert-fff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#afb0b2",
+        "focusX": 0.55,
+        "focusY": 0.55,
+        "height": 1400,
+        "key": "phones/moto-z-play/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#313131",
+        "focusX": 0.53,
+        "focusY": 0.46,
+        "height": 820,
+        "key": "phones/moto-z-play/feature-2.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#aea3ce",
+        "focusX": 0.56,
+        "focusY": 0.55,
+        "height": 820,
+        "key": "phones/moto-z-play/feature-3.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#4480c3",
+        "focusX": 0.49,
+        "focusY": 0.52,
+        "height": 820,
+        "key": "phones/moto-z-play/feature-4.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#c9c8dc",
+        "focusX": 0.59,
+        "focusY": 0.5,
+        "height": 820,
+        "key": "phones/moto-z-play/feature-5.jpg",
+        "role": "feature",
+        "width": 960
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.53,
+        "focusY": 0.5,
+        "height": 563,
+        "key": "phones/moto-z-play/gallery-6.png",
+        "role": "gallery",
+        "width": 422
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.44,
+        "focusY": 0.52,
+        "height": 980,
+        "key": "phones/moto-z-play/spec-7.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z-play/logo-8.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z Play",
+    "slug": "moto-z-play",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-play",
+      "https://www.motorola.com/us/products/moto-z-play-droid"
+    ],
+    "specs": [
+      {
+        "label": "Carrier Networks",
+        "value": "Unlocked for AT&T, T-Mobile, and compatible GSM networks so you can switch carriers and keep your phone. Just simply swap SIM cards. Sprint not supported. Moto Z Play Droid is exclusively on Verizon."
+      },
+      {
+        "label": "Operating System",
+        "value": "Android™ 6.0.1, Marshmallow Will receive an upgrade to Android 7.0 Nougat"
+      },
+      {
+        "label": "System Architecture/Processor",
+        "value": "Motorola Mobile Computing System, including Qualcomm ® Snapdragon™ 625 processor - 2 GHz Octa-Core CPU and Adreno 506 GPU, 650 MHz Natural Language Processor Contextual Computing Processor"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "3GB LPDDR3"
+      },
+      {
+        "label": "Storage (ROM)",
+        "value": "32 GB with microSD Card support (up to 2 TB)"
+      },
+      {
+        "label": "Dimensions",
+        "value": "156.4 x 76.4 x 6.99mm"
+      },
+      {
+        "label": "Weight",
+        "value": "165g"
+      },
+      {
+        "label": "Display",
+        "value": "5.5” Super AMOLED 1080p HD (1080 x 1920) 403 ppi Corning ® Gorilla ® Glass 3"
+      },
+      {
+        "label": "Battery",
+        "value": "Mixed usage up to 50 hours (3510 mAh) TurboPower™ for up to 9 hours of power in 15 minutes of charging TurboPower 15 included in box."
+      },
+      {
+        "label": "Water Protection",
+        "value": "Water repellent nano-coating"
+      },
+      {
+        "label": "Network Bands - US GSM Unlocked",
+        "value": "GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz) UMTS/HSPA+ (850, 900, 1700, 1900, 2100 MHz) 4G LTE (B1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 28, 38, 40)"
+      },
+      {
+        "label": "SIM Card",
+        "value": "Nano-SIM Dual-SIM available in certain countries"
+      },
+      {
+        "label": "Bluetooth ® Technology",
+        "value": "Bluetooth version 4.0 LE"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n 2.4 GHz + 5 GHz"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Location Services",
+        "value": "A-GPS"
+      },
+      {
+        "label": "Rear Camera",
+        "value": "16 MP Laser auto-focus Phase detection autofocus (PDAF) ƒ / 2.0 aperture 1.3um pixel size Zero Shutter Lag Color balancing dual LED flash Professional Mode Quick Capture Best Shot Tap (anywhere) to capture 4X digital zoom Burst mode Auto HDR Panorama Drag to focus & exposure Video Stabilization 720p (120fps), 1080p (30fps), 4K (30fps) Slow Motion video"
+      },
+      {
+        "label": "Front Camera",
+        "value": "5 MP ƒ / 2.2 aperture Wide-Angle 85° lens Flash Auto Night mode Beautification software Professional mode"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Moto Mods™ connector USB-C port 3.5mm port"
+      },
+      {
+        "label": "Speakers/Microphones",
+        "value": "Front-ported earpiece/loudspeaker 3 Mics"
+      },
+      {
+        "label": "Video Playback",
+        "value": "1080p (60fps), 4K (30fps)"
+      },
+      {
+        "label": "Sensors",
+        "value": "Fingerprint Sensor Accelerometer Ambient Light Gyroscope Hall Effect Magnetometer Proximity Audio monitor"
+      },
+      {
+        "label": "Colors",
+        "value": "Black/Silver/Black Slate White/Fine Gold/Sugar White"
+      }
+    ],
+    "summary": "A 50-hour battery—Moto’s longest-lasting ever—and the endless possibilities of Moto Mods™, now unlocked for AT&T, T-Mobile, and more.",
+    "tagline": "Our longest-lasting smartphone battery ever",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z Play",
+        "slug": "moto-z-play"
+      },
+      {
+        "carrier": "droid",
+        "name": "Moto Z Play Droid",
+        "slug": "moto-z-play-droid"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-5g",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 2730,
+      "dimensionsMm": "76 x 155.8 x 6.1 mm",
+      "displayIn": 5.5,
+      "weightG": 143.0
+    },
+    "family": "Z Force",
+    "features": [
+      {
+        "body": "Guaranteed not to crack or shatter, so you’re guaranteed not to stress",
+        "title": "shatterproof design"
+      },
+      {
+        "body": "Never miss a beat with an insanely powerful processor and the fastest possible data speeds",
+        "title": "speed + power"
+      },
+      {
+        "body": "Enhanced software experiences save you time and make your life easier",
+        "title": "experiences"
+      }
+    ],
+    "generation": 2,
+    "id": "moto-z2-force",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-hero-m-na_en.jpg?itok=47LwCM1S&timestamp=1530419463"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-hero-d-na_en.jpg?itok=rWO6sf7J&timestamp=1530419458"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-experiences-m.jpg?itok=wFYeTb5w&timestamp=1530419504"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/storage/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-speed-m.jpg?itok=qdQqWDDh&timestamp=1530419479"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-shatterproof-m-na_en.jpg?itok=zv8MBvHK&timestamp=1530419471"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/storage/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-1x2-experiences-d.jpg?itok=TRLtweC5&timestamp=1530419495"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/storage/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-1x2-speed-d.jpg?itok=P-V_IGN2&timestamp=1530419470"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-featgrid-shatterproof-d-na_en.jpg?itok=-t_NcMHE&timestamp=1530419473"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-pro-mode-a-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-pro-mode-b-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-selective-bandw-a-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-selective-bandw-b-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-selective-focus-a-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/02-27-2018/moto-z2force-edition-camera-selective-focus-b-d-us.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_1.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_10.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_2.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_3.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_4.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_5.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_6.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_7.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_8.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/gallery_img_t_9.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-1.jpg?itok=OcMQp8sT&timestamp=1530419591"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-10.jpg?itok=RoOQSP85&timestamp=1530419683"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-2.jpg?itok=q1_eQWuU&timestamp=1530419607"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-3.jpg?itok=7f9F8lqI&timestamp=1530419613"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-4.jpg?itok=_EZNbxB8&timestamp=1530419624"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-5.jpg?itok=cEOfRsmj&timestamp=1530419635"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-6.jpg?itok=F_IyfMeI&timestamp=1530419643"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-7.jpg?itok=0Istgb1N&timestamp=1530419649"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-8.jpg?itok=UmJnFBIB&timestamp=1530419662"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/Mot-Moto-Z2-Force-Edition-Gallery-Image-9.jpg?itok=EqfFp2p-&timestamp=1530419673"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/mot-moto-z2-force-google-storage-halfcard-d.jpg?itok=73xfBrtB&timestamp=1530419580"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery-images/mot-moto-z2-force-mods-halfcard-d.jpg?itok=KSM0tqQh&timestamp=1530419532"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-1-m%20%281%29.jpg?itok=1yKlHb7Y&timestamp=1530419597"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-10-m%20%281%29.jpg?itok=DxnLRxVH&timestamp=1530419689"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-2-m%20%281%29.jpg?itok=sSIplFIK&timestamp=1530419604"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-3-m%20%281%29.jpg?itok=y10c4wnk&timestamp=1530419618"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-4-m%20%281%29.jpg?itok=4DpG7vBD&timestamp=1530419630"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-5-m%20%281%29.jpg?itok=LpcEXuME&timestamp=1530419641"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-6-m%20%281%29.jpg?itok=xK7XczBa&timestamp=1530419649"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-7-m%20%281%29.jpg?itok=C8Qr28-f&timestamp=1530419664"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-8-m%20%281%29.jpg?itok=78zHmL5d&timestamp=1530419664"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/new-gallery/Mot-Moto-Z2-Force-Edition-Gallery-Image-9-m%20%281%29.jpg?itok=MBTGGNXY&timestamp=1530419678"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-spec-summery-d-na_en.jpg?itok=HFlme4o5&timestamp=1530419498"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-spec-summery-m-na_en.jpg?itok=yvLUCBVx&timestamp=1530419528"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-force-edition-gen-2/moto-z2-force-pdp-specs-expanded-d-na_en.jpg?itok=xcFZi5lI&timestamp=1530419524"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-z-force-edition-gen-2/MOTOZ2_FORCE_EDITION_lockup_333f48.svg"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/storage/products/moto-z-force-edition-gen-2/MOTOZ2_FORCE_EDITION_lockup_ffffff.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#8eb1d5",
+        "focusX": 0.47,
+        "focusY": 0.49,
+        "height": 780,
+        "key": "phones/moto-z2-force/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#342224",
+        "focusX": 0.52,
+        "focusY": 0.45,
+        "height": 320,
+        "key": "phones/moto-z2-force/feature-3.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#225178",
+        "focusX": 0.49,
+        "focusY": 0.49,
+        "height": 320,
+        "key": "phones/moto-z2-force/feature-4.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#5c413b",
+        "focusX": 0.55,
+        "focusY": 0.59,
+        "height": 820,
+        "key": "phones/moto-z2-force/feature-5.jpg",
+        "role": "feature",
+        "width": 1920
+      },
+      {
+        "bg": "#68534c",
+        "focusX": 0.49,
+        "focusY": 0.44,
+        "height": 960,
+        "key": "phones/moto-z2-force/gallery-6.jpg",
+        "role": "gallery",
+        "width": 1920
+      },
+      {
+        "bg": "#68534c",
+        "focusX": 0.51,
+        "focusY": 0.47,
+        "height": 960,
+        "key": "phones/moto-z2-force/gallery-8.jpg",
+        "role": "gallery",
+        "width": 1920
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.43,
+        "focusY": 0.5,
+        "height": 980,
+        "key": "phones/moto-z2-force/spec-10.jpg",
+        "role": "spec",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z2-force/logo-11.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z2 Force",
+    "slug": "moto-z2-force",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-force-edition-gen-2"
+    ],
+    "specs": [
+      {
+        "label": "operating system",
+        "value": "Android™ 7.1.1, Nougat"
+      },
+      {
+        "label": "system architecture/processor",
+        "value": "Motorola Mobile Computing System, including Qualcomm® Snapdragon™ 835 processor – 2.35 GHz Octa-Core CPU and Adreno 540 GPU Natural Language Processor Contextual Computing Processor"
+      },
+      {
+        "label": "memory (RAM)",
+        "value": "4GB"
+      },
+      {
+        "label": "storage (ROM)",
+        "value": "64GB with microSD Card support (up to 2 TB)"
+      },
+      {
+        "label": "dimensions",
+        "value": "76 x 155.8 x 6.1 mm"
+      },
+      {
+        "label": "weight",
+        "value": "143g"
+      },
+      {
+        "label": "display",
+        "value": "5.5\" Quad HD 1440p (1440 x 2560) POLED ShatterShield™"
+      },
+      {
+        "label": "battery",
+        "value": "2730 mAh, all day battery"
+      },
+      {
+        "label": "charging",
+        "value": "15W TurboPower for hours of power in minutes"
+      },
+      {
+        "label": "water protection",
+        "value": "Water repellent nano-coating"
+      },
+      {
+        "label": "network bands (by model)",
+        "value": "US Verizon+USC: 4G LTE (B1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 66) CDMA (BC0, 1) GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz) UMTS/HSPA+ (B1, 2, 5, 8)"
+      },
+      {
+        "label": "carrier compatibility",
+        "value": "Available in carrier-specific versions for Verizon, Sprint, AT&T, T-Mobile, and U.S. Cellular. Select your carrier at checkout. Check carrier compatibility"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM Dual-SIM available in certain countries"
+      },
+      {
+        "label": "Bluetooth® technology",
+        "value": "Current: 4.2 After Android O update: 5.0"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac 2.4 GHz + 5 GHz with MIMO"
+      },
+      {
+        "label": "sensors",
+        "value": "Fingerprint Sensor Accelerometer Ambient Light Gyroscope Magnetometer Barometer Proximity Ultrasonic Audio monitor"
+      },
+      {
+        "label": "rear camera",
+        "value": "Dual 12MP IMX 386 sensors – 1 Bayer, 1 Clear ƒ/2.0 1.25um Depth detection and depth effects Zero Shutter Lag (ZSL) Phase Detection Auto Focus (PDAF) Laser Auto Focus Closed loop actuator Color Correlated Temperature (CCT) dual LED flash Professional mode"
+      },
+      {
+        "label": "video capture",
+        "value": "4K (30fps), 1080p (30fps, 60fps, slow motion 120fps), 720p (30fps, slow motion 240fps ), 480p (30fps)"
+      },
+      {
+        "label": "front camera",
+        "value": "5 MP ƒ/2.2 aperture Wide-Angle 85° lens Flash Auto Night mode Beautification software Professional mode"
+      },
+      {
+        "label": "connectivity",
+        "value": "Moto Mods™ connector USB-C port for headphones, charging and data transfer 3.5mm to USB-C headphone port adapter included"
+      },
+      {
+        "label": "FM radio",
+        "value": "No"
+      },
+      {
+        "label": "speakers/microphones",
+        "value": "Front-ported loud speaker 3 Mics"
+      },
+      {
+        "label": "video playback",
+        "value": "4K (30fps), 1080p (60fps), 720p (120fps), 480p (30fps)"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "location services",
+        "value": "A-GPS"
+      },
+      {
+        "label": "colors",
+        "value": "Super Black Fine Gold Lunar Grey (T-Mobile exclusive)"
+      },
+      {
+        "label": "moto mods",
+        "value": "Compatible with all Moto Mods."
+      },
+      {
+        "label": "moto experiences",
+        "value": "Moto Display, Moto Voice, Moto Actions"
+      }
+    ],
+    "summary": "Get the moto z² force edition. Shatterproof display, dual 12 MP rear cameras, and Qualcomm’s fastest Snapdragon™ processor. Works with all moto mods.",
+    "tagline": "hello unlimited possibilities",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z2 Force",
+        "slug": "moto-z-force-edition-gen-2"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3000,
+      "dimensionsMm": "76.2 x 156.2 x 5.99 mm",
+      "weightG": 145.0
+    },
+    "family": "Z Play",
+    "features": [
+      {
+        "body": "Go a full day and beyond on a single charge. Plus, recharge fast with TurboPower.",
+        "title": "battery + turbopower™"
+      },
+      {
+        "body": "Capture it all, any time, any light, with dual autofocus pixel technology",
+        "title": "advanced camera"
+      },
+      {
+        "body": "Easily navigate your phone using only the fingerprint reader",
+        "title": "one-button nav"
+      },
+      {
+        "body": "Shortcuts to the features you use most",
+        "title": "moto experiences"
+      }
+    ],
+    "generation": 2,
+    "id": "moto-z2-play",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-pdp-hero-d-en.jpg?itok=PtooB7_Y&timestamp=1530419228"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/mods/jbl-soundboost-2-speaker/moto-z2play-featgrid-mods-m-en.jpg?itok=7pS-h_LP&timestamp=1530419237"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play-gen-2/mobile/moto-z2play-featgrid-battery-m-en.jpg?itok=KmFR3jlT&timestamp=1530419253"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play-gen-2/mobile/moto-z2play-featgrid-camera-m-en.jpg?itok=modizPKF&timestamp=1530419273"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play-gen-2/mobile/moto-z2play-featgrid-experiences-m-en.jpg?itok=sereBhZr&timestamp=1530419280"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-play-gen-2/mobile/moto-z2play-featgrid-onebuttonnav-m-en.jpg?itok=zimb1BT4&timestamp=1530419277"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-featgrid-1x1-experiences-d-en.jpg?itok=ALAspBXu&timestamp=1530419288"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-featgrid-1x1-onebuttonnav-d-en.jpg?itok=3ezPqyOx&timestamp=1530419273"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-featgrid-1x2-battery-d-en.jpg?itok=StNZcM0-&timestamp=1530419247"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-featgrid-1x2-camera-d-en.jpg?itok=Dr2MM16l&timestamp=1530419266"
+      },
+      {
+        "role": "feature",
+        "url": "https://www.motorola.com/sites/default/files/styles/6_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-featgrid-1x2-mods-d-en.jpg?itok=ZtTW54Hp&timestamp=1530419237"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-spec-summery-d-en.jpg?itok=_Z0Yj1uS&timestamp=1530419299"
+      },
+      {
+        "role": "spec",
+        "url": "https://www.motorola.com/sites/default/files/styles/3_cols_desktop_1x/public/library/us/products/moto-z-play-gen-2/desktop/moto-z2play-specs-expanded-d-en.jpg?itok=EPgwHtyH&timestamp=1530419317"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#ea250f",
+        "focusX": 0.57,
+        "focusY": 0.5,
+        "height": 1400,
+        "key": "phones/moto-z2-play/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#e00e0e",
+        "focusX": 0.48,
+        "focusY": 0.58,
+        "height": 320,
+        "key": "phones/moto-z2-play/feature-2.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#06b8d2",
+        "focusX": 0.49,
+        "focusY": 0.51,
+        "height": 320,
+        "key": "phones/moto-z2-play/feature-3.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#07b6d0",
+        "focusX": 0.47,
+        "focusY": 0.46,
+        "height": 320,
+        "key": "phones/moto-z2-play/feature-4.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#06b6d1",
+        "focusX": 0.5,
+        "focusY": 0.49,
+        "height": 320,
+        "key": "phones/moto-z2-play/feature-5.jpg",
+        "role": "feature",
+        "width": 444
+      },
+      {
+        "bg": "#f5f5f5",
+        "focusX": 0.43,
+        "focusY": 0.51,
+        "height": 980,
+        "key": "phones/moto-z2-play/spec-6.jpg",
+        "role": "spec",
+        "width": 3840
+      }
+    ],
+    "name": "Moto Z2 Play",
+    "slug": "moto-z2-play",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-play-gen-2"
+    ],
+    "specs": [
+      {
+        "label": "carrier versions",
+        "value": "Available in an unlocked version for major U.S. carriers like Verizon, Sprint, AT&T, and T-Mobile. Also available as a Verizon-exclusive. Check carrier compatibility"
+      },
+      {
+        "label": "operating system",
+        "value": "Android™ 7.1.1, Nougat"
+      },
+      {
+        "label": "system architecture/processor",
+        "value": "Motorola Mobile Computing System, including Qualcomm® Snapdragon™ 626 processor with up to 2.2 GHz Octa-Core CPU and Adreno 506 GPU Natural Language Processor Contextual Computing Processor"
+      },
+      {
+        "label": "memory (RAM)",
+        "value": "3GB LPDDR3 / 4GB LPDDR3"
+      },
+      {
+        "label": "storage (ROM)",
+        "value": "32GB / 64GB microSD Card slot with UHS-I support (up to 2 TB)"
+      },
+      {
+        "label": "dimensions",
+        "value": "76.2 x 156.2 x 5.99 mm"
+      },
+      {
+        "label": "weight",
+        "value": "145g"
+      },
+      {
+        "label": "display",
+        "value": "5.5 Full HD 1080p (1920 x 1080) Super AMOLED Up to 16 million colors. 401 PPI Corning ® Gorilla ® Glass"
+      },
+      {
+        "label": "battery",
+        "value": "3000 mAh, up to 30 hours TurboPower charging for up to 8 hours of use in 15 minutes (50% charge in 30 minutes)"
+      },
+      {
+        "label": "water protection",
+        "value": "Water repellent nano-coating"
+      },
+      {
+        "label": "network bands",
+        "value": "CDMA (850, 1900 MHz ) GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz ) UMTS/HSPA+ (850, 900, 1700, 1900, 2100 MHz ) 4G LTE (B1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 29, 30, 38, 41, 66)"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM"
+      },
+      {
+        "label": "Bluetooth® technology",
+        "value": "Bluetooth version 4.2 LE + EDR"
+      },
+      {
+        "label": "sensors",
+        "value": "Fingerprint Sensor Accelerometer Ambient Light Gyroscope Magnetometer Proximity Ultrasonic"
+      },
+      {
+        "label": "rear camera",
+        "value": "12MP 1.4um Dual Autofocus Pixel ƒ/1.7 Laser Autofocus (Up to 5 meters) Phase Detection Auto Focus (PDAF) Color Correlated Temperature (CCT) dual LED flash Professional mode Auto Night mode Video Encode: 480p (30fps) 720p (120fps) 1080p (60fps), 4K (30fps)"
+      },
+      {
+        "label": "front camera",
+        "value": "5MP 1.4um ƒ/2.2 Wide-Angle lens Color Correlated Temperature (CCT) dual LED flash Auto Night mode Beautification software Professional mode Video Encode: 480p (30fps) 720p (120fps) 1080p (30fps)"
+      },
+      {
+        "label": "connectivity",
+        "value": "Moto Mods™ connector USB-C™ port with USB 3.1 support 3.5mm headset port"
+      },
+      {
+        "label": "FM radio",
+        "value": "Yes"
+      },
+      {
+        "label": "speakers/microphones",
+        "value": "Front-ported loud speaker 3 Mics"
+      },
+      {
+        "label": "video playback",
+        "value": "480p (30fps) 720p (120fps) 1080p (60fps), 4K (30fps)"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "location services",
+        "value": "A-GPS, GLONASS"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n 2.4 GHz + 5 GHz"
+      },
+      {
+        "label": "colors",
+        "value": "Lunar Gray Fine Gold"
+      },
+      {
+        "label": "moto mods",
+        "value": "Compatible with all Moto Mods."
+      },
+      {
+        "label": "moto experiences",
+        "value": "Moto Display, Moto Voice, Moto Actions"
+      }
+    ],
+    "summary": "Get moto z² play. All-day battery, turbopower charging, advanced rear camera with dual autofocus pixels, and a 5.5\" Full HD Super AMOLED display.",
+    "tagline": "thinner. lighter. faster.",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z2 Play",
+        "slug": "moto-z-play-gen-2"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-5g",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3000,
+      "dimensionsMm": "76.5 x 156.5 x 6.75 mm",
+      "displayIn": 6.01,
+      "weightG": 156.0
+    },
+    "family": "Z",
+    "features": [],
+    "generation": 3,
+    "id": "moto-z3",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-hero-d.jpg?itok=x7IL-8Ao&timestamp=1535558074"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-5g_d.jpg?itok=Zya4TAUc&timestamp=1535558098"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-battery-and-turbocharge-d.jpg?itok=6uMcZg7i&timestamp=1535558114"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-display-d.jpg?itok=Ci85lTz6&timestamp=1535558147"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-faceunlock-d.jpg?itok=OHFF2zJs&timestamp=1535558195"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-fingerprintscanner-d.jpg?itok=ovxdaFT4&timestamp=1535558187"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-modfamily-d.jpg?itok=KVVzDJu3&timestamp=1535558119"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-motodisplay-d.jpg?itok=dxRaMAzn&timestamp=1535558183"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-slimdesign-d.jpg?itok=yBoanh4m&timestamp=1535558156"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-3/moto-z-gen-3-fullbleed-waterresistance-d.jpg?itok=kp2CaXJg&timestamp=1535558173"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-3/2018-07-17.png?itok=Cv_aknmQ&timestamp=1535558211"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-3/Processor.jpg?itok=N76Dmirf&timestamp=1535558207"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-3/Storage.jpg?itok=-8gX4mKq&timestamp=1535558197"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-3/moto-z3plus-lockup_ffffff-02.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#000920",
+        "focusX": 0.64,
+        "focusY": 0.43,
+        "height": 1400,
+        "key": "phones/moto-z3/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#921110",
+        "focusX": 0.52,
+        "focusY": 0.6,
+        "height": 1896,
+        "key": "phones/moto-z3/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#a81c28",
+        "focusX": 0.52,
+        "focusY": 0.57,
+        "height": 1896,
+        "key": "phones/moto-z3/gallery-3.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#a90f26",
+        "focusX": 0.49,
+        "focusY": 0.36,
+        "height": 1896,
+        "key": "phones/moto-z3/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.52,
+        "height": 1896,
+        "key": "phones/moto-z3/gallery-5.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z3/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z3",
+    "slug": "moto-z3",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-gen-3",
+      "https://en.wikipedia.org/wiki/Moto_Z3"
+    ],
+    "specs": [
+      {
+        "label": "Operating system",
+        "value": "Android™ 8.1, Oreo™"
+      },
+      {
+        "label": "Processor",
+        "value": "Qualcomm® Snapdragon™ 835 processor with a 2.35GHz octa-core CPU and 850 MHz Adreno 540 GPU"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB"
+      },
+      {
+        "label": "Internal storage",
+        "value": "64 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "Up to 2 TB microSD"
+      },
+      {
+        "label": "Security",
+        "value": "Fingerprint reader, face unlock"
+      },
+      {
+        "label": "Sensors",
+        "value": "Fingerprint reader, accelerometer, gyroscope, ambient light, proximity, magnetometer (compass), ultrasonic"
+      },
+      {
+        "label": "Certifications",
+        "value": "Android Enterprise Recommended"
+      },
+      {
+        "label": "Battery size",
+        "value": "3000 mAh non-removable Li-Ion"
+      },
+      {
+        "label": "Battery life",
+        "value": "All-day battery"
+      },
+      {
+        "label": "Charging",
+        "value": "Half a day's power in half an hour"
+      },
+      {
+        "label": "Charger type",
+        "value": "15W TurboPower™ charger included, USB-C connector. Wireless charging available with Moto Mod"
+      },
+      {
+        "label": "Display size",
+        "value": "6.01\""
+      },
+      {
+        "label": "Screen to body ratio",
+        "value": "79%"
+      },
+      {
+        "label": "Display technology",
+        "value": "OLED"
+      },
+      {
+        "label": "Resolution",
+        "value": "Full HD+, 2160 x 1080p"
+      },
+      {
+        "label": "Aspect ratio",
+        "value": "18:9 Max Vision"
+      },
+      {
+        "label": "Display design",
+        "value": "Corning™ Gorilla™ Glass 3"
+      },
+      {
+        "label": "Display features",
+        "value": "Moto Display, night mode"
+      },
+      {
+        "label": "Dimensions",
+        "value": "76.5 x 156.5 x 6.75 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "156 g"
+      },
+      {
+        "label": "Body",
+        "value": "Glass rear, 2.5D glass front, 6000 series polished aluminum frame"
+      },
+      {
+        "label": "Water protection",
+        "value": "Splash-resistant p2i"
+      },
+      {
+        "label": "Ports",
+        "value": "USB-C"
+      },
+      {
+        "label": "Rear camera hardware",
+        "value": "12 MP, f2.0, 1.25um + 12 MP monochrome, Laser Autofocus (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL)"
+      },
+      {
+        "label": "Rear camera software",
+        "value": "Cinemagraphs, portrait mode, spot color, cutout mode, true black and white, face filters, panorama, manual mode, YouTube Live mode, text / landmark / object recognition (powered by Google Lens), text scanner, active photos, barcode & QR code scanner, business card reader"
+      },
+      {
+        "label": "Rear camera video capture",
+        "value": "Up to 4K Ultra HD (30 fps), Timelapse video, Slow motion video, Video face filters"
+      },
+      {
+        "label": "Front camera hardware",
+        "value": "8 MP, f2.0, 1.12um, wide-angle 84° lens, screen flash"
+      },
+      {
+        "label": "Front camera software",
+        "value": "Cinemagraph, portrait mode, group selfie mode, YouTube Live mode, face beauty, manual mode, face filters, active photos"
+      },
+      {
+        "label": "Front camera video capture",
+        "value": "Up to 1080p (30 fps), Timelapse video, Slow motion video, Video face filters"
+      },
+      {
+        "label": "Speakers",
+        "value": "Front port loud speaker"
+      },
+      {
+        "label": "Audio playback",
+        "value": "AAC, AAC+, Enhanced AAC+, AAC ELD (Enhanced Low Delay), MAR-NB, AMR-WB, FLAC, MP3, MIDI, Vorbis, PCM/WAVE"
+      },
+      {
+        "label": "Audio format",
+        "value": "AOSP Codecs: AAC, AAC+, AAC ELD (Enhanced Low Delay), MAR-NB, AMR-WB, PCM/WAVE"
+      },
+      {
+        "label": "Video playback",
+        "value": "MPEG4, H.263, H.264, H.265, VP8, VP8"
+      },
+      {
+        "label": "Video format",
+        "value": "H.263, H.264, VP8 -- H.265 (HVC encode), 4K"
+      },
+      {
+        "label": "Microphones",
+        "value": "4 far-field mic system"
+      },
+      {
+        "label": "Headphone jack",
+        "value": "USB-C to 3.5mm converter included"
+      },
+      {
+        "label": "Voice control",
+        "value": "Moto Voice (beta), Google Assistant, Amazon Alexa available with Moto Mod"
+      },
+      {
+        "label": "Quick gestures",
+        "value": "Moto Actions: three finger screenshot, screenshot editor, one button navigation, chop twice for flashlight, twist for quick capture, swipe to shrink screen, pick up to stop ringing, flip for do not disturb"
+      },
+      {
+        "label": "Smarter screen",
+        "value": "Moto Display: night display, attentive display"
+      },
+      {
+        "label": "moto mods",
+        "value": "Compatible with all Moto Mods"
+      },
+      {
+        "label": "Networks + bands",
+        "value": "Only on Verizon.; LTE: B1 (2100) B2 (1900) B3 (1800) B4 (1700/2100) B5 (850) B7 (2600) B8 (900) B12 (lower700 abc) B13 (upper700) B14 (700 PS) B17 (lower700 bc) B18 (Japan low850) B19 (Japan hi850) B20 (800 DD) B25 (1900+) B26 (850+) B28 (700 APT) B34 (TD2000) B30 (2300) B38 (TD2600) B39 (TD1900) B40 (TD2300) B41 (TD2500-China) B41 HPUE (TD2500-China) B46 (LAA 5550) B66 (AWS3+4); UMTS: B1 (2100) B2 (1900) B5 (850) B8 (900); GSM: B2 (1900) B3 (1800) B5 (850) B8 (900); CDMA: 11BC0 (850) BC1 (1900)"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/ac/b/g/n 2.4 GHz + 5 GHz"
+      },
+      {
+        "label": "Bluetooth® technology",
+        "value": "5.0"
+      },
+      {
+        "label": "Location services",
+        "value": "GPS, A-GPS, GLONASS, BEIDOU"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Device",
+        "value": "moto z³"
+      },
+      {
+        "label": "Components",
+        "value": "TurboPower™ charger, USB-C cable, headset adapter, guides"
+      },
+      {
+        "label": "Released",
+        "value": "August 2018"
+      },
+      {
+        "label": "Display",
+        "value": "6.01 in Super AMOLED 2160x1080 (18:9 aspect ratio, 402 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "12 MP, f/2.0 aperture, 1.25 μm + 12 MP monochrome, Laser Autofocus (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL). Video capture Up to 4K 30 fps, 1080p 60 fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "8 MP, f/2.0 aperture, 1.12 μm, wide-angle 84° lens, screen flash Video capture 1080p 30 fps"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3000 mAh Li-ion"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi, Wi-Fi Direct, Wi-Fi hotspot, DLNA, GPS/GLONASS/BDS, NFC, Bluetooth, USB-C"
+      }
+    ],
+    "summary": "Get the new moto z³ and be the first to upgrade to Verizon’s 5G network just by snapping on a moto mod™. Plus, get an all-day battery, dual depth-sensing 12 MP cameras, and more.",
+    "tagline": "world’s first 5G-upgradable smartphone Only on Verizon. Watch the video. View tech specs.",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "verizon",
+        "name": "Moto Z3",
+        "slug": "moto-z-gen-3"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "awards": [],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "phones/moto-z3-play/hero-1.jpg",
+    "details": "",
+    "facets": {
+      "batteryMah": 3000,
+      "dimensionsMm": "76.5 x 156.5 x 6.75 mm",
+      "displayIn": 6.01,
+      "weightG": 156.0
+    },
+    "family": "Z Play",
+    "features": [],
+    "generation": 3,
+    "id": "moto-z3-play",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-pdp-hero-d.jpg?itok=oCeeE5_k&timestamp=1529592909"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_faceunlock_d.jpg?itok=eqkfQAyY&timestamp=1529593094"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_fingerprintscanner_d.jpg?itok=OsCe-gJz&timestamp=1529593090"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_pdp_fullbleed-speakermod_d.jpg?itok=f3D9DUsQ&timestamp=1529593042"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_pdp_fullbleed_battery_d.jpg?itok=tqcOrPSI&timestamp=1529593035"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_pdp_fullbleed_modfamily_d.jpg?itok=HFOsbFUB&timestamp=1529593049"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_pdp_slimdesign_d.jpg?itok=_ehUwGgc&timestamp=1529593064"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/moto-z3-assets_waterresistance-d.jpg?itok=1EeAF8FT&timestamp=1529593070"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/test_assets/moto-z3-Assets_pdp_fullbleed_display_d.jpg?itok=pCOvis6z&timestamp=1529593052"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/uk/products/moto-z-play-gen-3/test_assets/moto-z3-Assets_pdp_fullbleed_motovoice_d.jpg?itok=vgMezG4X&timestamp=1529593082"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/uk/products/moto-z-play-gen-3/test_assets/Moto-Z3-Assets_Display_M.jpg?itok=gH7rSOdF&timestamp=1529593056"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/uk/products/moto-z-play-gen-3/test_assets/Battery.jpg?itok=Xr5dmqaw&timestamp=1529593098"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/uk/products/moto-z-play-gen-3/test_assets/Processor.jpg?itok=WJsYbim5&timestamp=1529593101"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/uk/products/moto-z-play-gen-3/test_assets/Storage.jpg?itok=RBEmYkDp&timestamp=1529593098"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/uk/products/moto-z-play-gen-3/test_assets/moto-z3play-lockup_E1140A.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#023966",
+        "focusX": 0.55,
+        "focusY": 0.38,
+        "height": 1896,
+        "key": "phones/moto-z3-play/hero-1.jpg",
+        "role": "hero",
+        "width": 3840
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.52,
+        "height": 1896,
+        "key": "phones/moto-z3-play/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#154575",
+        "focusX": 0.45,
+        "focusY": 0.45,
+        "height": 1185,
+        "key": "phones/moto-z3-play/gallery-3.jpg",
+        "role": "gallery",
+        "width": 2400
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.55,
+        "height": 1896,
+        "key": "phones/moto-z3-play/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#ffffff",
+        "focusX": 0.5,
+        "focusY": 0.52,
+        "height": 1896,
+        "key": "phones/moto-z3-play/gallery-5.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z3-play/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z3 Play",
+    "slug": "moto-z3-play",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-play-gen-3",
+      "https://en.wikipedia.org/wiki/Moto_Z3_Play"
+    ],
+    "specs": [
+      {
+        "label": "Operating system",
+        "value": "Android™ 8.1, Oreo™"
+      },
+      {
+        "label": "Processor",
+        "value": "Qualcomm® Snapdragon™ 636 processor with a 1.8 GHz octa-core CPU and 850 MHz Adreno 509 GPU"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB"
+      },
+      {
+        "label": "Internal storage",
+        "value": "64 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "Up to 2 TB microSD"
+      },
+      {
+        "label": "Security",
+        "value": "Fingerprint reader, face unlock"
+      },
+      {
+        "label": "Sensors",
+        "value": "Fingerprint reader, accelerometer, gyroscope, ambient light, proximity, magnetometer (compass), ultrasonic"
+      },
+      {
+        "label": "Battery size",
+        "value": "3000 mAh non-removable Li-Ion"
+      },
+      {
+        "label": "Battery life",
+        "value": "All-day battery"
+      },
+      {
+        "label": "Charging",
+        "value": "Half a day's power in half an hour"
+      },
+      {
+        "label": "Charger type",
+        "value": "15W TurboPower™ charger included, USB-C connector. Wireless charging available with Moto Mod"
+      },
+      {
+        "label": "Display size",
+        "value": "6.01\""
+      },
+      {
+        "label": "Screen to body ratio",
+        "value": "79%"
+      },
+      {
+        "label": "Display technology",
+        "value": "Super AMOLED"
+      },
+      {
+        "label": "Resolution",
+        "value": "Full HD+, 2160 x 1080p"
+      },
+      {
+        "label": "Aspect ratio",
+        "value": "18:9 Max Vision"
+      },
+      {
+        "label": "Display design",
+        "value": "Corning™ Gorilla™ Glass 3"
+      },
+      {
+        "label": "Display features",
+        "value": "Moto Display, night mode"
+      },
+      {
+        "label": "Dimensions",
+        "value": "76.5 x 156.5 x 6.75 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "156 g"
+      },
+      {
+        "label": "Body",
+        "value": "2.5D glass front and back, 6000 series polished aluminum frame"
+      },
+      {
+        "label": "Water protection",
+        "value": "Splash-resistant p2i"
+      },
+      {
+        "label": "Ports",
+        "value": "USB-C"
+      },
+      {
+        "label": "Rear camera hardware",
+        "value": "12 MP, f1.7, 1.4um + 5 MP depth, Dual Autofocus Pixel (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL)"
+      },
+      {
+        "label": "Rear camera software",
+        "value": "Cinemagraphs, portrait mode, spot color, cutout mode, face filters, panorama, manual mode, YouTube Live mode, landmark & object recognition (powered by Google Lens), real time text translator (powered by Google Lens), text scanner, active photos, barcode & QR code scanner, business card reader"
+      },
+      {
+        "label": "Rear camera video capture",
+        "value": "Up to 4K Ultra HD (30 fps), Timelapse video, Slow motion video, Video face filters"
+      },
+      {
+        "label": "Front camera hardware",
+        "value": "8 MP, f2.0, 1.12um, wide-angle 84° lens, screen flash"
+      },
+      {
+        "label": "Front camera software",
+        "value": "Cinemagraph, portrait mode, group selfie mode, YouTube Live mode, face beauty, manual mode, face filters, active photos"
+      },
+      {
+        "label": "Front camera video capture",
+        "value": "Up to 1080p (30 fps), Timelapse video, Slow motion video, Video face filters"
+      },
+      {
+        "label": "Speakers",
+        "value": "Front port loud speaker"
+      },
+      {
+        "label": "Audio playback",
+        "value": "AAC, AAC+, Enhanced AAC+, AAC ELD (Enhanced Low Delay), MAR-NB, AMR-WB, FLAC, MP3, MIDI, Vorbis, PCM/WAVE"
+      },
+      {
+        "label": "Audio format",
+        "value": "AOSP Codecs: AAC, AAC+, AAC ELD (Enhanced Low Delay), MAR-NB, AMR-WB, PCM/WAVE"
+      },
+      {
+        "label": "Video playback",
+        "value": "MPEG4, H.263, H.264, H.265, VP8, VP8"
+      },
+      {
+        "label": "Video format",
+        "value": "H.263, H.264, VP8 -- H.265 (HVC encode), 4K"
+      },
+      {
+        "label": "Microphones",
+        "value": "4 far-field mic system"
+      },
+      {
+        "label": "Headphone jack",
+        "value": "USB-C to 3.5mm converter included"
+      },
+      {
+        "label": "Voice control",
+        "value": "Moto Voice (beta), Google Assistant, Amazon Alexa available with Moto Mod"
+      },
+      {
+        "label": "Quick gestures",
+        "value": "Moto Actions: three finger screenshot, screenshot editor, one button navigation, chop twice for flashlight, twist for quick capture, swipe to shrink screen, pick up to stop ringing, flip for do not disturb"
+      },
+      {
+        "label": "Smarter screen",
+        "value": "Moto Display: night display, attentive display"
+      },
+      {
+        "label": "moto mods",
+        "value": "Compatible with all Moto Mods"
+      },
+      {
+        "label": "Networks + bands",
+        "value": "Unlocked for all major U.S. carriers, including Verizon, AT&T, T-Mobile, and Sprint. Check carrier compatibility; LTE: B1 (2100) B2 (1900) B3 (1800) B4 (1700/2100) B5 (850) B7 (2600) B8 (900) B12 (lower700 abc) B13 (upper700) B14 (700 PS) B17 (lower700 bc) B18 (Japan low850) B19 (Japan hi850) B20 (800 DD) B25 (1900+) B26 (850+) B28 (700 APT) B29 (lower700 de) B30 (2300) B38 (TD2600) B40 (TD2300) B41 (TD2500) B41 HPUE (TD2500) B66 (AWS3+4) B71 (600 US); UMTS: B1 (2100) B2 (1900) B4 (1700/2100) B5 (850) B8 (900); CDMA: BC0 (850) BC1 (1900) BC10 (850+); GSM: B2 (1900) B3 (1800) B5 (850) B8 (900)"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM, Dual-SIM available in certain countries"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/ac/b/g/n 2.4 GHz + 5 GHz"
+      },
+      {
+        "label": "Bluetooth® technology",
+        "value": "5.0"
+      },
+      {
+        "label": "Location services",
+        "value": "GPS, A-GPS, GLONASS, BEIDOU"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Device",
+        "value": "moto z³ play moto power pack moto mod"
+      },
+      {
+        "label": "Components",
+        "value": "TurboPower™ charger, USB-C cable, headset adapter, guides"
+      },
+      {
+        "label": "Released",
+        "value": "August 2018"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB up to 128 GB"
+      },
+      {
+        "label": "Display",
+        "value": "6.01 in Super AMOLED 2160x1080 (18:9 aspect ratio, 402 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "12 MP, f/2.0 aperture, 1.25 μm + 5 MP monochrome, Laser Autofocus (pDAF), Color Correlated Temperature (CCT) dual LED flash, Zero Shutter Lag (ZSL). Video capture Up to 4K 30 fps, 1080p 60 fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "8 MP, f/2.0 aperture, 1.12 μm, wide-angle 84° lens, screen flash Video capture 1080p 30 fps"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3000 mAh Li-ion"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi, Wi-Fi Direct, Wi-Fi hotspot, DLNA, GPS/GLONASS/BDS, NFC, Bluetooth, USB-C"
+      }
+    ],
+    "summary": "Get the new moto z³ play. Up to 40 hours of battery life with moto mods, edge-to-edge 6\"\" Super AMOLED display, and dual depth-sensing cameras. Choose your carrier.",
+    "tagline": "goodbye smartphone, hello smartphone + Watch the videos. View tech specs.",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z3 Play",
+        "slug": "moto-z-play-gen-3"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "awards": [
+      {
+        "award": "Red Dot Design Award",
+        "jury": "",
+        "tier": "Winner",
+        "url": "https://www.red-dot.org/project/motoz4moto-mods-39689",
+        "year": 2019
+      }
+    ],
+    "compatibleMods": [
+      "hasselblad-true-zoom",
+      "incipio-offgrid-power-pack",
+      "incipio-vehicle-dock",
+      "jbl-soundboost-2-speaker",
+      "jbl-soundboost-speaker",
+      "mophie-juice-pack",
+      "moto-360-camera",
+      "moto-5g",
+      "moto-folio",
+      "moto-gamepad-console",
+      "moto-insta-share-projector",
+      "moto-mods-development-kit",
+      "moto-power-pack",
+      "moto-smart-speaker-with-amazon-alexa",
+      "moto-stereo-speaker",
+      "moto-style-shell",
+      "moto-style-shell-with-wireless-charging",
+      "moto-turbopower-pack-battery",
+      "polaroid-insta-share-printer",
+      "tumi-power-pack"
+    ],
+    "coverKey": "",
+    "details": "",
+    "facets": {
+      "batteryMah": 3600,
+      "dimensionsMm": "75 x 158 x 7.35 mm",
+      "displayIn": 6.4,
+      "weightG": 165.0
+    },
+    "family": "Z",
+    "features": [],
+    "generation": 4,
+    "id": "moto-z4",
+    "imageUrls": [
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-gen-4/awards/moto-z-gen-4-pdp-hero-m-us-unlocked.jpg?itok=lEfLuwhu&timestamp=1567185066"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-gen-4/awards/moto-z-gen-4-pdp-hero-d-us-unlocked.jpg?itok=Xyz9XO5I&timestamp=1567185064"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-ar_stickers.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-cinemagraph.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-hyperlapse.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-moto_mods.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-optical_image_stabilization.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-smart_composition.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/camera_features_gallery/moto-z-gen-4-pdp-gallery-spot_color.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/explore_selfie_features_gallery/moto-z-gen-4-pdp-gallery-ai_portrait_lighting.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/explore_selfie_features_gallery/moto-z-gen-4-pdp-gallery-auto_smile_capture.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/explore_selfie_features_gallery/moto-z-gen-4-pdp-gallery-portrait.jpg"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/ca-en/products/moto-z-gen-4/moto-z4-pdp-fullbleedhalf-qualcomm-d.jpg?itok=XYhK3HaC&timestamp=1567185222"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-ai-d.jpg?itok=ubQuBRad&timestamp=1567185135"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-display-d.jpg?itok=j31qDtHv&timestamp=1567185204"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-fps-d.jpg?itok=Lp_bRhV1&timestamp=1567185211"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-moto_mods-d_unlocked.jpg?itok=HGWCLJLQ&timestamp=1567185225"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-night-vision-d.jpg?itok=hOSqXxH1&timestamp=1567185126"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/gradient/moto-z4-family-page-gradient-bg-d.jpg?itok=wWvfcAow&timestamp=1567185107"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/moto-z4-pdp-fullbleedhalf-48mp-rear-d.jpg?itok=tfxQHHJe&timestamp=1567185123"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/moto-z4-pdp-fullbleedhalf-battery-d.jpg?itok=PPzE9OYU&timestamp=1567185201"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-moto_mods-m-unlocked.jpg?itok=9VG5H2MB&timestamp=1567185222"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-clutter-free-android.jpg?itok=Zk7v_3-1&timestamp=1567185233"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-exclusive-moto-experiences.jpg?itok=CsdNCPqU&timestamp=1567185241"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-headphone-jack.jpg?itok=2lHSb8a-&timestamp=1567185231"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-water-repellent-worry-proof.jpg?itok=h0s13xs3&timestamp=1567185241"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/moto-z4-pdp-hero-lockup.svg"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_mobile_1x/public/library/us/products/moto-z-gen-4/awards/moto-z-gen-4-pdp-hero-m-us-verizon.jpg?itok=Hy84B21Y&timestamp=1565160386"
+      },
+      {
+        "role": "hero",
+        "url": "https://www.motorola.com/sites/default/files/styles/hero_-_background_image_desktop_1x/public/library/us/products/moto-z-gen-4/awards/moto-z-gen-4-pdp-hero-d-us-verizon.jpg?itok=Fcjas02n&timestamp=1565160383"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-ai-d.jpg?itok=ubQuBRad&timestamp=1565160434"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-display-d.jpg?itok=j31qDtHv&timestamp=1565160505"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-fps-d.jpg?itok=Lp_bRhV1&timestamp=1565160507"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-moto_mods-d.jpg?itok=pj5_BzYH&timestamp=1565160518"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/full_bleed/moto-z4-pdp-fullbleedhalf-night-vision-d.jpg?itok=hOSqXxH1&timestamp=1565160427"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/moto-z4-pdp-fullbleedhalf-48mp-rear-d.jpg?itok=tfxQHHJe&timestamp=1565160421"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/12_cols_desktop_1x/public/library/us/products/moto-z-gen-4/moto-z4-pdp-fullbleedhalf-battery-d.jpg?itok=PPzE9OYU&timestamp=1565160498"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-clutter-free-android.jpg?itok=Zk7v_3-1&timestamp=1565160528"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-exclusive-moto-experiences.jpg?itok=CsdNCPqU&timestamp=1565160525"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-headphone-jack.jpg?itok=2lHSb8a-&timestamp=1565160522"
+      },
+      {
+        "role": "gallery",
+        "url": "https://www.motorola.com/sites/default/files/styles/card_multi_column_editorial_desktop_1x_3_cols/public/library/us/products/moto-z-gen-4/multi-column_editorial/stingray-water-repellent-worry-proof.jpg?itok=h0s13xs3&timestamp=1565160529"
+      },
+      {
+        "role": "logo",
+        "url": "https://www.motorola.com/sites/default/files/library/us/products/moto-z-gen-4/lock_up/moto-z4-pdp-hero-lockup-verizon.svg"
+      }
+    ],
+    "images": [
+      {
+        "bg": "#1b152f",
+        "focusX": 0.46,
+        "focusY": 0.47,
+        "height": 780,
+        "key": "phones/moto-z4/hero-1.jpg",
+        "role": "hero",
+        "width": 1000
+      },
+      {
+        "bg": "#8b9553",
+        "focusX": 0.5,
+        "focusY": 0.51,
+        "height": 1896,
+        "key": "phones/moto-z4/gallery-2.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#364632",
+        "focusX": 0.55,
+        "focusY": 0.53,
+        "height": 1896,
+        "key": "phones/moto-z4/gallery-3.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#313a31",
+        "focusX": 0.45,
+        "focusY": 0.34,
+        "height": 1896,
+        "key": "phones/moto-z4/gallery-4.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "#323232",
+        "focusX": 0.48,
+        "focusY": 0.44,
+        "height": 1896,
+        "key": "phones/moto-z4/gallery-5.jpg",
+        "role": "gallery",
+        "width": 3840
+      },
+      {
+        "bg": "",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "height": 0,
+        "key": "phones/moto-z4/logo-6.svg",
+        "role": "logo",
+        "width": 0
+      }
+    ],
+    "name": "Moto Z4",
+    "slug": "moto-z4",
+    "sources": [
+      "https://www.motorola.com/us/products/moto-z-gen-4-unlocked",
+      "https://www.motorola.com/us/products/moto-z-gen-4-verizon",
+      "https://en.wikipedia.org/wiki/Moto_Z4",
+      "https://www.red-dot.org/project/motoz4moto-mods-39689"
+    ],
+    "specs": [
+      {
+        "label": "Operating system",
+        "value": "Android 9 Pie"
+      },
+      {
+        "label": "Processor",
+        "value": "Qualcomm Snapdragon 675 octa-core processor; Adreno 612 GPU"
+      },
+      {
+        "label": "Memory (RAM)",
+        "value": "4 GB"
+      },
+      {
+        "label": "Internal storage",
+        "value": "128 GB"
+      },
+      {
+        "label": "Expandable storage",
+        "value": "Up to 1 TB microSD"
+      },
+      {
+        "label": "Security",
+        "value": "In-display fingerprint sensor (Note: use of an incompatible screen protector will disrupt fingerprint sensor) face unlock. Click here to see a list of compatible screen protectors."
+      },
+      {
+        "label": "Sensors",
+        "value": "Accelerometer, Magnetometer (compass), Gyro, Proximity, Ambient Light"
+      },
+      {
+        "label": "Certifications",
+        "value": "Android Enterprise Recommended"
+      },
+      {
+        "label": "Battery size",
+        "value": "Non-removable Li-ion 3600mAh"
+      },
+      {
+        "label": "Battery life",
+        "value": "Up to 2 days"
+      },
+      {
+        "label": "Charging",
+        "value": "Hours of power in just minutes of charging with TurboPower ™"
+      },
+      {
+        "label": "Charger type",
+        "value": "15W TurboPower ™ charger included, USB-C connector."
+      },
+      {
+        "label": "Display size",
+        "value": "6.4\""
+      },
+      {
+        "label": "Display technology",
+        "value": "OLED capactive touchscreen"
+      },
+      {
+        "label": "Resolution",
+        "value": "Full HD+ (2340 x 1080p)"
+      },
+      {
+        "label": "Aspect ratio",
+        "value": "19.5:9 Max Vision"
+      },
+      {
+        "label": "Screen to body ratio",
+        "value": "85%"
+      },
+      {
+        "label": "Display features",
+        "value": "1,000,000: 1 contrast ratio VDE blue light hazard safety certification"
+      },
+      {
+        "label": "Dimensions",
+        "value": "75 x 158 x 7.35mm"
+      },
+      {
+        "label": "Weight",
+        "value": "165g"
+      },
+      {
+        "label": "Body",
+        "value": "2.5D Gorilla Glass 3, 6000 series polished aluminum frame"
+      },
+      {
+        "label": "Water protection",
+        "value": "P2i splash-proof nano-coating"
+      },
+      {
+        "label": "Ports",
+        "value": "USB 3.1 (Type C) reversible connector, 3.5mm headset jack"
+      },
+      {
+        "label": "Rear camera hardware",
+        "value": "48MP sensor with 12MP output using Quad Pixel technology, f/1.7 aperture, 1.6um pixel size, OIS, PDAF, Laser Autofocus. Color Correlated Temperature (CCT) dual LED flash."
+      },
+      {
+        "label": "Rear camera software",
+        "value": "Night Vision, Cinemagraph, Portrait / AI Portrait Lighting, Spot Color, AR stickers, Panorama, Live Filter, Google Lens"
+      },
+      {
+        "label": "Rear camera video capture",
+        "value": "Up to 4K Ultra HD (30 fps) video capture"
+      },
+      {
+        "label": "Rear camera video software",
+        "value": "AR stickers, Timelapse / Hyperlapse, Slow Motion, YouTube Live"
+      },
+      {
+        "label": "Front camera hardware",
+        "value": "25MP, f/2.0 aperture, 0.9um pixel size. Low light mode using Quad Pixel technology for 6.25MP, 1.8um pixel size output. Screen flash"
+      },
+      {
+        "label": "Front camera software",
+        "value": "Cinemagraph, Portrait / AI Portrait Lighting, Spot Color, Group Selfie, Live Filter"
+      },
+      {
+        "label": "Front camera video capture",
+        "value": "Up to 1080p (30 fps) video capture"
+      },
+      {
+        "label": "Front camera video software",
+        "value": "Timelapse / Hyperlapse, Slow Motion, YouTube Live"
+      },
+      {
+        "label": "Speakers",
+        "value": "Front port loudspeaker"
+      },
+      {
+        "label": "Microphones",
+        "value": "3 far-field mic system"
+      },
+      {
+        "label": "Headphone jack",
+        "value": "Yes"
+      },
+      {
+        "label": "FM radio",
+        "value": "Yes"
+      },
+      {
+        "label": "Voice control",
+        "value": "Google Assistant, Amazon Alexa available with moto mod"
+      },
+      {
+        "label": "Quick gestures",
+        "value": "Moto Actions: media controls, three finger screenshot, screenshot editor, one button navigation, chop twice for flashlight, twist for quick capture, swipe to shrink screen, pick up to stop ringing, flip for do not disturb"
+      },
+      {
+        "label": "Smarter screen",
+        "value": "Moto Display: quick reply, attentive display"
+      },
+      {
+        "label": "Stylus",
+        "value": "Supports Microsoft pen protocol (MPP 1.5); works with compatible active pens (may require 3rd party software)"
+      },
+      {
+        "label": "moto mods",
+        "value": "Compatible with all moto mods"
+      },
+      {
+        "label": "Networks + bands",
+        "value": "LTE: B1/B2/B3/B4/B7/B8/B12/B13/B17/B18/B19/B20/B25/B26/B28/B30/B38/B40/B41/B41HPUE/B66/B71; UMTS: B1/B2/B4/B5/B8; CDMA: BC0/BC1/BC10; GSM: B2/B3/B5/B8"
+      },
+      {
+        "label": "SIM card",
+        "value": "Nano-SIM"
+      },
+      {
+        "label": "Bluetooth® technology",
+        "value": "5.0"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "802.11 a/b/g/n/ac Dual band 2.4 & 5GHz Hotspot"
+      },
+      {
+        "label": "NFC",
+        "value": "Yes"
+      },
+      {
+        "label": "Location services",
+        "value": "GPS, AGPS, GLONASS, Galileo"
+      },
+      {
+        "label": "Device",
+        "value": "moto z 4"
+      },
+      {
+        "label": "Components",
+        "value": "moto 360 camera mod"
+      },
+      {
+        "label": "Components",
+        "value": "TurboPower™ charger, USB-C cable, guides"
+      },
+      {
+        "label": "Released",
+        "value": "June 2019"
+      },
+      {
+        "label": "Display",
+        "value": "6.4 in OLED, 2340 × 1080 px (19.5:9 aspect ratio) (403 ppi)"
+      },
+      {
+        "label": "Rear camera",
+        "value": "48 MP, ƒ/1.7aperture, 1/2\", 0.8um, PDAF, OIS, dual LED flash, panorama, HDR Video capture Up to 4K(30 fps), 1080p@30/60fps"
+      },
+      {
+        "label": "Front camera",
+        "value": "25 MP, ƒ/2.0 aperture, 0.9um, screen flash, HDR Video capture 1080p (30 fps)"
+      },
+      {
+        "label": "Battery",
+        "value": "Non-removable 3600 mAh Li-ion"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Wi-Fi, Wi-Fi Direct, Wi-Fi hotspot, DLNA, GPS/GLONASS/BDS, NFC, Bluetooth, USB-C, 3.5mm headphone jack"
+      },
+      {
+        "label": "Model number",
+        "value": "XT1980"
+      }
+    ],
+    "summary": "Check out a new moto z4. Take professional quality photos with the 48MP camera sensor. Pick up a phone you’ll love without dropping a grand.",
+    "tagline": "Only on Verizon.",
+    "timeline": [],
+    "variants": [
+      {
+        "carrier": "unlocked",
+        "name": "Moto Z4",
+        "slug": "moto-z-gen-4-unlocked"
+      },
+      {
+        "carrier": "verizon",
+        "name": "Moto Z4",
+        "slug": "moto-z-gen-4-verizon"
+      }
+    ],
+    "year": 2019
+  }
+]
